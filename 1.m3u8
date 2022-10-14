@@ -7,7 +7,7 @@
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
-"wallpaper":"http://maoyingshi.cc/api.php",
+"wallpaper":"https://agit.ai/sejinan/app/raw/branch/box/api.php",
 
 
 // 每日一言 (随机显示欢迎语)
