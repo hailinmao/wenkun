@@ -1,14 +1,11 @@
 //阿里云盘
 
-
 {
 "spider":"https://agit.ai/sejinan/app/raw/branch/box/ali.jpg;md5;23a7b8ab50ead897fd733e5c52c5f3fd",
 //"spider":"https://agit.ai/sejinan/app/raw/branch/box/0828.jar",
 
-
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 "wallpaper":"https://agit.ai/sejinan/app/raw/branch/box/api.php",
-
 
 	"lives": [{
 		"group": "redirect",
@@ -30,7 +27,6 @@
 {"key":"csp_xpath_cls","name": "🍭磁力搜索〔XB仅搜索〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/磁搜.json"},
 
 {"key":"END","name":"------END------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}
-
 
 ],
 	"parses": [{
