@@ -1,6 +1,6 @@
 {
     "api":[ 
-        {"key":"线路切换","name":"","ext":"20221010","date":"内部测试期间,不保证稳定性" },
+        {"key":"线路切换","name":"","ext":"20221010","date":"内测期间,不保证稳定" },
                
         {"key":"WoTv主站","name":"☁️WoTv主站〔主维护〕","ext":"https://agit.ai/sejinan/app/raw/branch/box/1.m3u8","date":"2022-11-11 10:12:05" },
         {"key":"云星阿里","name":"☁️云星阿里〔小纸条/推送等〕","ext":"http://maoyingshi.cc/tvbox/云星日记/ali.m3u8","date":"2022-09-26 10:12:05" },
