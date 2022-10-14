@@ -19,7 +19,7 @@
         {"key":"网络搜集⑥","name":"📱网络搜集⑥〔多条线路〕","ext":"https://raw.iqiq.io/liu673cn/box/main/m.json","date":"2022-09-29 18:33:05"},
         {"key":"阿里云盘","name":"☁️阿里云盘〔推送〕","ext":"https://agit.ai/sejinan/app/raw/branch/box/ali.m3u8","date":"2022-09-26 10:12:05" },
 
-        {"key":"ceshi","name":"☁️ceshi〕","ext":"https://agit.ai/jc_xxxxx/TVBoxjson/src/branch/TVBox/0815.json","date":"2022-09-26 10:12:05" },
+        {"key":"ceshi","name":"☁️ceshi","ext":"https://agit.ai/jc_xxxxx/TVBoxjson/src/branch/TVBox/0815.jar","date":"2022-09-26 10:12:05" },
 
         {"key":"BILI哔哩","name":"☁️哔哩〔大套餐等〕","ext":"https://agit.ai/sejinan/app/raw/branch/box/bili.json","date":"2022-09-26 10:12:05" }
 
