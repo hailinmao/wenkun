@@ -1,25 +1,13 @@
-//微信公众号【云星日记】制作分享
-//QQ频道搜索云星日记加入频道交流
-
-//QQ群：379426693
-//新Q群，重新搜索q群为了那些进不来频道的人开放，同步更新，频道优先
-
-
-/**----以下为大佬们的相关信息---**/
-//巧技
-//唐长老
-//俊哥
-//影魔
-
+//阿里云盘
 
 
 {
-"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/ali.jpg;md5;23a7b8ab50ead897fd733e5c52c5f3fd",
-//"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/0828.jar",
+"spider":"https://agit.ai/sejinan/app/raw/branch/box/ali.jpg;md5;23a7b8ab50ead897fd733e5c52c5f3fd",
+//"spider":"https://agit.ai/sejinan/app/raw/branch/box/0828.jar",
 
 
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
-"wallpaper":"http://maoyingshi.cc/api.php",
+"wallpaper":"https://agit.ai/sejinan/app/raw/branch/box/api.php",
 
 
 	"lives": [{
@@ -38,17 +26,11 @@
 {"key":"csp_xpath_cls","name": "🍭磁力搜索〔XB〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/磁搜.json"},
 {"key": "csp_xpath_音范丝磁力","name": "🐛音范丝磁力〔XP〕","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXP/音范丝磁力.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/ali.jpg;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
 
-{"key":"空格2","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"alist","name":"----暂不支持takagen版本----","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Alist1","name": "🐠 Alist【q2版本使用】","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com","jar":"https://pan.szfx.top/down.php/285d80f6e19e2613ea305083f84bd95a.jar"},
 {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"空格1","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"说明","name":"------公众号【云星日记】------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"说明2","name":"------提供免费更新维护------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"说明3","name":"------公众号【星河软件园】------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"说明4","name":"------提供赞助服务器------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}
-
+{"key":"END","name":"------END------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}
 
 
 ],
