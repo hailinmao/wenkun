@@ -1,20 +1,20 @@
 {
     "urls": [
         {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "url": "https://agit.ai/sejinan/app/raw/branch/box/1.m3u8",
             "name": "请选择以下接口"
         },    
         {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
-            "name": "☁️云星家庭〔纯绿色家庭版〕"
+            "url": "https://agit.ai/sejinan/app/raw/branch/box/1.m3u8",
+            "name": "☁️WoTV〔主维护〕"
         },
         {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
-            "name": "☁️云星阿里〔小纸条/推送等〕"
+            "url": "https://agit.ai/sejinan/app/raw/branch/box/ali.m3u8",
+            "name": "☁️阿里〔小纸条/推送等〕"
         },
         {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
-            "name": "☁️云星哔哩〔大套餐/学堂等〕"
+            "url": "https://agit.ai/sejinan/app/raw/branch/box/bili.json",
+            "name": "☁️哔哩〔大套餐/学堂等〕"
         },
         {
             "url": "http://刚刚.live/猫",
