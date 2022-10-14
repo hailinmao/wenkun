@@ -1,16 +1,4 @@
-//微信公众号【云星日记】制作分享
-//QQ频道搜索云星日记加入频道交流
-
-
-//QQ群：379426693
-//新Q群，重新搜索q群为了那些进不来频道的人开放，同步更新，频道优先
-
-
-/**----以下为大佬们的相关信息---**/
-//巧技
-//唐长老
-//俊哥
-//影魔
+//综艺板块
 
 
 
@@ -144,12 +132,10 @@
 
 // 字幕格式 (可选)
 "subtitle": {"color": "#FFFFFF", "size": "30"},
-
-
   
   
 "sites":[
-{"key":"csp_77","name":"👒酷云七七〔SP〕新Q群：783468715","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"👒主站七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看〔SP〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "厂长影视","name": "️🕵厂长资源〔SP〕","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Bttoo","name":"✌两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
@@ -175,18 +161,7 @@
 {"key":"哔哩","name":"------哔哩资源请用bili.json------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 
-
-
-
-
 {"key":"空格3","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-
-
-
-
-
-
-
 
 
 {"key":"yule","name":"------以下为娱乐资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
@@ -198,19 +173,7 @@
 {"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷〔直播〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/dj.json"},
 {"key": "csp_XYQBiu_17kan","name": "👀17kan〔XYQ〕","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/17kan.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/17kan.jar"},
 	
-	
-	
-	
-	
-	
-	
-	
-	
 {"key":"空格1","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
-
-
-
-
 
 
 {"key":"xb","name":"------以下为XB资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
@@ -251,12 +214,7 @@
 {"key":"csp_xp_xqmi","name":"💢小 强 迷〔XB〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/xqmi.json"},
 {"key":"csp_xp_mozhatu","name":"💢莫 扎 兔〔XB〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/mozhatu.json"},
 
-
-{"key":"空格4","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"说明","name":"------公众号【云星日记】------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"说明2","name":"------提供免费更新维护------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"说明3","name":"------公众号【星河软件园】------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"说明4","name":"------提供赞助服务器------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}
+{"key":"说明","name":"------------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}
 
 
 ],
@@ -317,7 +275,6 @@
    "type":0,
    "url":"http://api.wpsseo.cn/?v="
    }
-
 
 
 
