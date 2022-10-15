@@ -1,31 +1,10 @@
-//微信公众号【云星日记】制作分享
-//QQ频道搜索云星日记加入频道交流
-
-//QQ群：379426693
-//新Q群，重新搜索q群为了那些进不来频道的人开放，同步更新，频道优先
-
-
-/**----以下为大佬们的相关信息---**/
-//巧技
-//唐长老
-//俊哥
-//影魔
-
-
-
+//BILI
 
 {
 "spider":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087",
-//"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jar",
-
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
-
-//"wallpaper":"https://www.dmoe.cc/random.php",  //默认动漫少女
-//"wallpaper":"https://api.vvhan.com/api/acgimg",  //动漫少女
-//"wallpaper":"https://picsum.photos/1280/720/?blur=10",  //普通
-//"wallpaper":"https://xxxx.xxxx/xxx/xxxx",  //膜板
 
 "sites":[
 
@@ -42,14 +21,7 @@
 {"key": "MV","name": "💽歌曲MV〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/歌曲MV.json"},
 {"key": "csp_XYQBiu_分享短视频","name": "💠分享短视频〔XYQ〕","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/短视频.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/短视频.jar"},
 
-
-
-{"key":"空格1","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"说明","name":"------公众号【云星日记】------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"说明2","name":"------提供免费更新维护------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "M","name": "(新增哔哩bli套餐内容请到： 云星日记 频道反馈）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "/"},
-{"key":"说明3","name":"------公众号【星河软件园】------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"说明4","name":"------提供赞助服务器------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}
+{"key":"END","name":"------END------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}
 
 
 ],
