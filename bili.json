@@ -4,7 +4,7 @@
 "spider":"https://agit.ai/sejinan/app/raw/branch/box/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087",
 
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvc2VqaS9hcHAvcmF3L2JyYW5jaC9tYWluL3R2L25mMTAxOC50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvc2VqaS9hcHAvcmF3L2JyYW5jaC9tYWluL3R2L25mMTAxOC50eHQ="]}]}],
 "wallpaper":"https://agit.ai/sejinan/app/raw/branch/box/api.php",
 
 "sites":[
