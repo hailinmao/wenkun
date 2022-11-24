@@ -1,38 +1,23 @@
  {
-     "classes": [{
-         "type_name": "MT管理器",
-         "type_id": "MT管理器"
-     }, {
-         "type_name": "网盘挂载",
-         "type_id": "网盘挂载"
-     }, {
-         "type_name": "alist+WebDav",
-         "type_id": "alist+WebDav"
-     }, {
-         "type_name": "Photoshop",
-         "type_id": "PS教程"
-     },{
-         "type_name": "EXCEL",
-         "type_id": "EXCEL教程"
-     }, {
-         "type_name": "office",
-         "type_id": "office教程"
-     }, {
-         "type_name": "WPS",
-         "type_id": "WPS教程"
-     }, {
-         "type_name": "Studio one",
-         "type_id": "Studio one教程"
-     }, {
-         "type_name": "声卡调试",
-         "type_id": "声卡调试"
-     }, {
-         "type_name": "Git入门到精通",
-         "type_id": "Git入门到精通"
-     }, {
-         "type_name": "...",
-         "type_id": "..."
-     }],
+     "classes": [
+     {         "type_name": "Java",         "type_id": "Java"     }, 
+     {         "type_name": "Xml",         "type_id": "Xml"     }, 
+     {         "type_name": "Json",         "type_id": "Json"     }, 
+     {         "type_name": "Phyton",         "type_id": "Phyton"     }, 
+     {         "type_name": "Photoshop",         "type_id": "PS教程"     },
+     {         "type_name": "Excel",         "type_id": "Excel教程"     }, 
+     {         "type_name": "Office",         "type_id": "Office教程"     }, 
+     {         "type_name": "WPS",         "type_id": "WPS教程"     }, 
+     {         "type_name": "PR",         "type_id": "pr"     }, 
+     {         "type_name": "网盘挂载",         "type_id": "网盘挂载"     }, 
+     {         "type_name": "alist+WebDav",         "type_id": "alist+WebDav"     }, 
+     {         "type_name": "AE",         "type_id": "AE教程"     }, 
+     {         "type_name": "C4D",         "type_id": "C4D教程"     }, 
+     {         "type_name": "Studio one",         "type_id": "Studio one教程"     }, 
+     {         "type_name": "MT管理器",         "type_id": "MT管理器"     },
+     {         "type_name": "Git入门到精通",         "type_id": "Git入门到精通"     }
+     ],
+     
      "filter": {
          "搞笑": [{
              "key": "duration",
