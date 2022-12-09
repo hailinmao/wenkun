@@ -14,6 +14,7 @@
 //"wallpaper":"https://xxxx.xxxx/xxx/xxxx",  //膜板
 
 "sites":[
+{"key":"csp_Bttoo","name":"✌两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "分享短视频","name": "💠分享短视频","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bili/短视频.json","jar":"https://agit.ai/sejinan/app/raw/branch/box/bili/短视频.jar"},
 {"key": "Bili","name": "🅱️哔哩套餐〔SP〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bili/哔哩.json"},
 {"key": "学堂","name": "🏯学堂教育〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bili/学堂.json"},
