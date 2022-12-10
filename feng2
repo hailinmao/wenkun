@@ -2,16 +2,10 @@
 
 {
 "spider":"https://agit.ai/sejinan/app/raw/branch/box/xo.jpg;md5;edaac605b8f6c297b19d34464721f869",
-//"spider":"https://agit.ai/sejinan/app/raw/branch/box/bili.jar",
 
-
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3NlamluYW4vYXBwL3Jhdy9icmFuY2gvYm94L3R2L2ZlbmcudHh0"]}]}],
 "wallpaper":"https://agit.ai/sejinan/app/raw/branch/box/api.php",
-
-//"wallpaper":"https://www.dmoe.cc/random.php",  //默认动漫少女
-//"wallpaper":"https://api.vvhan.com/api/acgimg",  //动漫少女
-//"wallpaper":"https://picsum.photos/1280/720/?blur=10",  //普通
-//"wallpaper":"https://xxxx.xxxx/xxx/xxxx",  //膜板
 
 "sites":[
 {"key":"csp_Bttoo","name":"✌两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
