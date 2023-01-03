@@ -38,6 +38,7 @@ IPTV野外,rtp://239.253.242.137:8000
 
 测试,#genre#
 
+纽约城市天际线,https://hd-auth.skylinewebcams.com/live.m3u8?a=pd0rnlrn3iv01um229vn70nab4
 
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 
