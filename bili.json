@@ -3,7 +3,7 @@
 {
 "spider":"https://agit.ai/sejinan/app/raw/branch/box/xo.jpg;md5;edaac605b8f6c297b19d34464721f869",
 
-//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3cuZzkucHViOjY2LzM4MTIwMzg4OC8lRTclOUIlQjQlRTYlOTIlQUQvemIyLnR4dA=="]}]}],
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3NlamluYW4vYXBwL3Jhdy9icmFuY2gvYm94L3R2L2ZlbmcudHh0"]}]}],
 "wallpaper":"https://agit.ai/sejinan/app/raw/branch/box/api.php",
 
