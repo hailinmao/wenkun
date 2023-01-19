@@ -9,20 +9,41 @@
 
 "sites":[
 
-{"key": "演唱会","name": "🍟演唱会〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/演唱会.json"},
-{"key": "教程","name": "🏧教程〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/%e6%95%99%e7%a8%8b.json"},
-{"key": "Bili","name": "🅱️哔哩套餐〔SP〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/哔哩.json"},
-{"key": "学堂","name": "🏯学堂教育〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/学堂.json"},
-{"key": "戏曲","name": "📽戏曲〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/戏曲.json"},
-{"key": "美食","name": " 🍲美食〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/美食.json"},
-{"key": "少儿","name": "🅰️少儿〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/少儿教育.json"},
-{"key": "体育","name": "💋体育〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/体育.json"},
-{"key": "球类","name": "⚽️球类〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/球类.json"},
-{"key": "棋牌","name": " 🅿️棋牌娱乐〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/棋牌.json"},
-{"key": "MV","name": "💽歌曲MV〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/歌曲MV.json"},
-{"key": "csp_XYQBiu_分享短视频","name": "💠分享短视频〔XYQ〕","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/短视频.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/短视频.jar"},
+{"key":"csp_biubiu_斗鱼","name":"🐠┃斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/sejinan/app/raw/branch/box/bibi/douyu.json"},
+{"key":"csp_xp_huya","name":"🐯┃虎牙直播","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/bibi/huya.json"},
+ {"key":"csp_XPath_鹅直播","name":"🐧┃企鹅直播","type":3,"api":"csp_XPath3","playerType":2,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/sejinan/app/raw/branch/box/bibi/%E4%BC%81%E9%B9%85.json"},
 
-{"key":"END","name":"------END------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}
+{"key": "csp_XYQBit_平台","name": "💠┃短视频集","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/%E7%9F%AD%E8%A7%86%E9%A2%91.json"},
+{"key":"csp_Alist1","name":"🎁┃资源网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"💾DISK$http://124.222.140.243:8080#歐逼$https://alistcn.repl.co#文文$http://518p8g7316.goho.co:5244#小雅$http://alist.xiaoya.pro#杜比$https://dubi.tk#帥鵬$https://hi.shuaipeng.wang#梓澪$https://zi0.cc#雲播放$https://quanzi.laoxianghuijia.cn#神族九帝$https://alist.shenzjd.com#米奇屋$https://anime.mqmmw.ga#触光$https://pan.ichuguang.com#晴园$https://alist.52qy.repl.co#一只鱼$https://alist.youte.ml#小兵组$https://6vv.app#铃星梦$https://pan.bashroot.top#轻弹浅唱$https://g.xiang.lol#听闻$https://wangpan.sangxuesheng.com#姬路白雪$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com#好汉吧$https://8023.haohanba.cn#资源小站$https://960303.xyz#Alist测试$https://ali.liucn.repl.co#秋雨分享$https://share.laowang.me"},
+{"key":"csp_LocalFile","name":"💻┃本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
+
+{"key":"csp_pc_直播合集","name":"直播┃平台推荐","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key": "csp_Bili影视","name": "哔哩┃影视推荐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/bili影视.json"},
+{"key": "csp_Bili音乐","name": "哔哩┃音乐推荐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/bili音乐.json"},
+{"key": "csp_Bili综艺","name": "哔哩┃综艺节目","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/bili综艺.json"},
+
+{"key": "csp_教程","name": "哔哩┃程序教程","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/教程.json"},
+{"key": "csp_学堂","name": "哔哩┃学堂教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/学堂.json"},
+{"key": "csp_美食","name": "哔哩┃各类美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/美食.json"},
+//{"key": "csp_课堂","name": "哔哩┃教育课堂","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/教育.json"},
+{"key": "csp_体育","name": "哔哩┃综合体育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/体育.json"},
+{"key": "csp_球类","name": "哔哩┃球类综合","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/球类.json"},
+{"key": "csp_棋牌","name": "哔哩┃棋牌娱乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/棋牌.json"},
+{"key": "csp_戏曲","name": "哔哩┃戏曲综合","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/戏曲.json"},
+
+{"key": "csp_解说","name": "吾爱┃电影解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/38532/%E5%BD%B1%E8%A7%86%E8%A7%A3%E8%AF%B4.json?sign=ZgoiPxJXGAXlWnLNErDJweGcfKoXnVdlm0hIlJvCTac%3D%3A0","spider":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
+
+{"key": "csp_BBB","name": "🅱┃哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"},
+{"key": "csp_xBPQ_抓饭体育","name": "️🤾🏾┃抓饭体育","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"},
+
+{"key":"csp_xpath_88kanqiu","name": "⚽┃88看球","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"},
+{"key": "csp_xpath_网络搜集库qiumi","name": "⚽️┃DJ看球","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://codeberg.org/seji/app/raw/branch/main/01/dj.json"},
+{"key":"csp_xpath_qiumi","name": "⚽┃球迷直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.liucn.cc/box/sub/ext/dj看球.json"},
+{"key":"csp_xpath_酷奇mv","name":"🎤┃酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://9xi4o.tk/sub/xpath/酷奇MV.json"},
+
+{"key": "csp_演唱会","name": "哔哩┃演唱会","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/演唱会.json"},
+{"key": "csp_MV","name": "哔哩┃歌曲MV","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/歌曲MV.json"}
 
 
 ],
