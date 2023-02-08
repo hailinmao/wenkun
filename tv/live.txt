@@ -1831,8 +1831,6 @@ EDM ◆音乐,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1099531753594-109
 	
 🎭综艺频道,#genre#
 
-综艺现场, http://lu1.cc/c/tv/sjtv/p/migu.php?id=zyxc
-
 欢乐送,http://epg.112114.xyz/douyu/9273031
 欢乐集结号,http://epg.112114.xyz/douyu/9067836
 开心麻花街,http://epg.112114.xyz/douyu/9374862
@@ -2016,7 +2014,7 @@ Nice+徒手练腹没效果？7个哑铃练腹动作，练出紧...,http://111.62
 原始生活21天+挑战满是毒虫的山谷，学霸组合是真的...,http://111.62.156.15/tx.flv.huya.com/src/1099531627794-1099531627794-85899423229411328-2199063379044-10057-A-0-1.flv?wsSecret=da432b17bb82d4ab929792847d479878&wsTime=6283b139&u=0&seqid=16527113537697080&ctype=tars_mp&txyp=o%3Afz1%3B&fs=bgct&t=102
 皮划艇直播+ICF皮划艇激流回旋及极限世界锦标赛+...,http://111.62.156.15/tx.flv.huya.com/src/1099531728523-1099531728523-86332050990170112-2199063580502-10057-A-0-1.flv?wsSecret=80c7f3c0eefdc831071a2b03409a1fd9&wsTime=6283b205&u=0&seqid=16527115572479730&ctype=tars_mp&fs=bgct&t=102
 
-百视通,#genre#
+🅱️百视通TV,#genre#
 CCTV-1 综合,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV-2 财经,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 CCTV-3 综艺,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
