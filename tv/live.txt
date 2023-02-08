@@ -6,17 +6,7 @@
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 	
-抖音跨年2023,https://pdsapi.aliyundrive.com/v2/redirect?id=7374a2ebf8bc4c29bc22cdd694b4b9051674081555223447824
-湖南跨年2023,https://pdsapi.aliyundrive.com/v2/redirect?id=210a9f052d624c818505f06aea450c391674082126847200636
-东方跨年2023,https://pdsapi.aliyundrive.com/v2/redirect?id=9fbf2b8384124ab9af1e72633b608f931674082029411679459
-江苏跨年2023,https://pdsapi.aliyundrive.com/v2/redirect?id=1c47cb6625eb46e78cc384278ca2f3351674082083381936005
-浙江跨年2023,https://pdsapi.aliyundrive.com/v2/redirect?id=786ad4cf622346bdaf9b77abfaa025031674082363801419750
-北京跨年2023,https://pdsapi.aliyundrive.com/v2/redirect?id=d7e85d3bfb814f8f8896efb451faee6b1674082201073162396
-央视跨年2023,https://pdsapi.aliyundrive.com/v2/redirect?id=ac93edc4ba414957b4068f9722c059601674082244043256943
-B站跨年2023-1,https://pdsapi.aliyundrive.com/v2/redirect?id=b4b7d405f46d47a1935fd50cd8a0e9b41674082149770720448
-B站跨年2023-2,https://pdsapi.aliyundrive.com/v2/redirect?id=0e4531c72bac4310afa6cc164919d8661674082174793122871
-B站跨年2023-3,https://pdsapi.aliyundrive.com/v2/redirect?id=bbe50f456bbb41f48ab404300c6faffb1674082185081705104
-
+    
 三傻大闹宝莱坞推荐,https://vt1.doubanio.com/202211032011/ad46a3c39a37cdcbed98f4d180fa3b93/view/movie/M/301020952-1.mp4
 	
 三傻大闹宝莱坞MV,https://vt1.doubanio.com/202211032016/9703e5dbde297f48a077aa60855b71d7/view/movie/M/301030812.mp4
