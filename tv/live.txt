@@ -6,6 +6,9 @@
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 	
+收割中产,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQAVgIiaW8rhFCHq56r5x4EdRMRJz5Dib8nmQlQR8IdIgOmm8jmicF3pRAoddf6XIaHoS6fB9E6BbMaQBRrS2MgWSIT&token=AxricY7RBHdWwQBqCqt9ibrvBq1diatY0fGkLK5jfNrzUUmmxU2UOWoNpFtRAPT8zhn3qnicOrYib33c&idx=1&adaptivelytrans=0&bizid=1023&dotrans=2991&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW30&taskid=0
+
+
 萌娃,http://neworig.go2yd.com/user_upload/1672986057829e5aed3f70d631cc71619b6baf0e1afc9.mp4_bd.mp4
 
 图鉴,https://vd2.bdstatic.com/mda-pbc9hdbkin4es8xc/sc/cae_h264/1676271071810397225/mda-pbc9hdbkin4es8xc.mp4?v_from_s=bdapp-unicomment-nanjing
