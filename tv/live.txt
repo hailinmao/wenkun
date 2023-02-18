@@ -6,6 +6,8 @@
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 	
+起风了,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQC9631PuHC2rQUFZCwy7fpp9sGHFg3JreqZqdaEIZMFwn5hU5wz4saedMh6ib4BJsgZXJzFlnD3bHPkzWto0Xop0&token=x5Y29zUxcibAOjfTIJcqVZc5M4IkRc8NA3NXucQdD8UUV6zGPQP8bicEiaHhnghmulSIzdkrNqrjMI&idx=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW29&taskid=0
+
 收割中产,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQAVgIiaW8rhFCHq56r5x4EdRMRJz5Dib8nmQlQR8IdIgOmm8jmicF3pRAoddf6XIaHoS6fB9E6BbMaQBRrS2MgWSIT&token=AxricY7RBHdWwQBqCqt9ibrvBq1diatY0fGkLK5jfNrzUUmmxU2UOWoNpFtRAPT8zhn3qnicOrYib33c&idx=1&adaptivelytrans=0&bizid=1023&dotrans=2991&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW30&taskid=0
 
 
