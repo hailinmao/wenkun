@@ -6,6 +6,8 @@
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 	
+货币本质是什么,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQAXgr9uKljWwc896bD5vWqqj6kT3No9etJsLKHmvBnrDhfLIrJB40EhjB2veSoPvoKW4yxtE4yqI4MLYeuFCF2q&token=x5Y29zUxcibAOjfTIJcqVZVTyicJZrT7noNU6ICJc8fDPehZoeT8L9ibKAyZAEvxgkRZTapSHNEBKg&idx=1&adaptivelytrans=0&bizid=1023&dotrans=2991&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW30&taskid=0
+
 给你脸了,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQAnGlVSZG0qyAdfQFFIdTUcF7FicoOU7eo2Yc3IX5zGNicxl1ddmQW0fzuNEicAztCRUpz80alKia1RzdpYAje80uPT&token=6xykWLEnztL0ZVwwjvuEorQpLia1hDZQhPCtMN8lnON8eIq4M0MJiavkUzPTDG0l5Ywqoah2QD0tk&idx=1&adaptivelytrans=0&bizid=1023&dotrans=2991&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW29&taskid=0
 
 起飞了,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQC9631PuHC2rQUFZCwy7fpp9sGHFg3JreqZqdaEIZMFwn5hU5wz4saedMh6ib4BJsgZXJzFlnD3bHPkzWto0Xop0&token=x5Y29zUxcibAOjfTIJcqVZc5M4IkRc8NA3NXucQdD8UUV6zGPQP8bicEiaHhnghmulSIzdkrNqrjMI&idx=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW29&taskid=0
