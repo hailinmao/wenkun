@@ -6,6 +6,8 @@
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+谁在主导市场,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQBYAyTcdViaQ1EJkcKsiaJ0Koc3gyOPDRh42K9mwmaImlO6GaOrpvwXr2cyIHVKVK7rJPYDDt9hKIMRIMHs4JjLc0&token=AxricY7RBHdWhLlUNNlHET5uO9s0BicGdlcvjrd80QfdpXBhNoiaq8H7G5jWRoyFHaN6zQTQdJpjFQ&idx=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW30&taskid=0
+
 一个跑不了,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQC9wJgicMIdonyOxakbeicRvQCTRzJnBEib1kgl9thfwkribCzSxLkOULvA1GkNflbEuvbHmRrpQSXPlIYw2ic4hJK4p&token=AxricY7RBHdUqxPBddSDyo5hYfVgicLkDsJJ7Hc45guDib3HZWFPgTFLECOtj2G4Hrhffe1riaPNyVs&idx=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW29&taskid=0
 
 剥削来源于权利,https://finder.video.qq.com/251/20302/stodownload?encfilekey=rjD5jyTuFrIpZ2ibE8T7YmwgiahniaXswqzRVj9o4iaKicp5jJMzXaDCGeDnvFGXUqsyTk1MMaTu5IJvyEfu5VUDv2mqA3tr4ChE8iaLWdIN6U03icdJkf6H9TGYA&token=x5Y29zUxcibDaDJHZ4DDfOgjOqRyPETm0y4F9HIicv8fSNt1NAxx8oEU7HUCG41BkEsial4xDJRbHU&idx=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW30&taskid=0
