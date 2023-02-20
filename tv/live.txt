@@ -6,6 +6,8 @@
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+陈平讲马云,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQAA5nmYrsQuxBrUa0hwMXI2QxSzoPgBqx6rnIv5skamkR30j7zeRbznbWmyLf173iakY9PT1hWmXNK0ty0fT0cXe&token=x5Y29zUxcibDpfptdvNBwoTUQy9nRlP398gC0WTvdWicicqBdTRVs0HYrx8RPJXOEIaRZLClj2xVOo&idx=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW29&taskid=0
+
 脑机猴,https://ugccsy.qq.com/B_Ui4-QEkRPfhTNlYdo0HujpjrJTcd98PJzcolDiEJJhE/szg_5193_50001_0b6b2uadgaaa5qacna3qzfqfdvodgpkqam2a.f204310.mp4?sdtfrom=v1104&guid=a5c84487aec15faf985cd37c79c3e177&vkey=C74A7502C488FF2FE0648A107730FFC697D4701EB4A572AA608C17B6083600073A22979C9EAE1B91DB9D9EB1B9B2641A20A2B1C8ECF33E67CC351DECF269B0418AD16E64174BA123E09395B14BE475BE470703B898F9B46EB41E618453094504376D7EAA66DFE47F3DFE4A7D04ECEAB5A5F8155A8F49D655364CB5F1E94A1B081AEE5F0798AD3FA5
 
 喝了不少,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFGVHVlZ2vtFryD9OaFrqAZg1LtFkh7Ylt4yX4fQEpjAiaIib1UNNgA8G3NbJTfL0tT7t6yCsL45DbcicbLwpp55BW53VtZJlhLPGicXdmSicUdXvWQ&token=AxricY7RBHdVlHZwQoIwLUtRPwc4OrYGiblIk4gMPOW05ox4Vly98zdicUibEaUxmdVhA63ddic4jJoc&idx=1&a=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=95899c5199693a113007c09b7375e0fd&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW29&taskid=0
