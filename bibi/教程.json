@@ -1,5 +1,7 @@
  {
      "classes": [
+     {         "type_name": "ChatGPT",         "type_id": "chatgpt"     }, 
+     {         "type_name": "PTE",         "type_id": "pte"     }, 
      {         "type_name": "Java",         "type_id": "Java"     }, 
      {         "type_name": "Android",         "type_id": "Android"     }, 
      {         "type_name": "Hawk",         "type_id": "Hawk教程"     }, 
