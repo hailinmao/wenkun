@@ -1,5 +1,6 @@
  {
      "classes": [
+     {         "type_name": "低压电工",         "type_id": "低压电工"     }, 
      {         "type_name": "ChatGPT",         "type_id": "chatgpt"     }, 
      {         "type_name": "PTE",         "type_id": "pte"     }, 
      {         "type_name": "Java",         "type_id": "Java"     }, 
