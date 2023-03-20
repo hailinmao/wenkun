@@ -220,15 +220,14 @@ CCTV-2,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 
-翡翠台,https://pull-l3-cny.douyincdn.com/live/e94d6cec70fbc811865a821e4137c02f.flv?time=1679278621
-香港J2,https://pull-l3-cny.douyincdn.com/live/a9d3a839dbeff0678858fd7ea86a285e.flv?time=1679279163
-无线新闻,https://pull-l3-cny.douyincdn.com/live/d6006cc90f90b4003bb1ecb62e3c91ce.flv?time=1679279364
-无线财经,https://pull-l3-cny.douyincdn.com/live/385b829d4dd8f87a381279bd6901a171.flv?time=1679278971
-明珠台,https://pull-l3-cny.douyincdn.com/live/cbe52608aedc189384e16577a7bfb0f4.flv?time=1679278887
-HKIBC,https://pull-l3-cny.douyincdn.com/live/4f0ceb644e8cbe9b65dd431636655660.flv?time=1679281526
-香港卫视,https://pull-l3-cny.douyincdn.com/live/5f56d18c7d65159e9ecd004846020546.flv
-RTHK31,https://pull-l3-cny.douyincdn.com/live/7658520000c71bb45465e3cb5dcce364.flv
-天映经典,https://upos-hz-mirrorakam.akamaized.net/upgcxcode/63/30/127483063/127483063-1-208.mp4?e=ig8euxZM2rNcNbRHnWdVhwdlhWeHhwdVhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1679286811&gen=playurlv2&os=akam&oi=3054532322&trid=baf24acfb0e742dd99e65aa7f98767b0u&mid=0&platform=pc&upsig=6d1d66fc41d1a58430063c6c577e1603&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1679286811~hmac=2f364707d18cb925b0dcfb2f0b04ef48b62d9695c78888290a62c25e2b7ddc1a&bvc=vod&nettype=0&orderid=1,2&buvid=&build=0&agrr=1&bw=203787&logo=40000000
+1翡翠台,https://pull-l3-cny.douyincdn.com/live/e94d6cec70fbc811865a821e4137c02f.flv?time=1679278621
+1香港J2,https://pull-l3-cny.douyincdn.com/live/a9d3a839dbeff0678858fd7ea86a285e.flv?time=1679279163
+1无线新闻,https://pull-l3-cny.douyincdn.com/live/d6006cc90f90b4003bb1ecb62e3c91ce.flv?time=1679279364
+1无线财经,https://pull-l3-cny.douyincdn.com/live/385b829d4dd8f87a381279bd6901a171.flv?time=1679278971
+1明珠台,https://pull-l3-cny.douyincdn.com/live/cbe52608aedc189384e16577a7bfb0f4.flv?time=1679278887
+1HKIBC,https://pull-l3-cny.douyincdn.com/live/4f0ceb644e8cbe9b65dd431636655660.flv?time=1679281526
+1香港卫视,https://pull-l3-cny.douyincdn.com/live/5f56d18c7d65159e9ecd004846020546.flv
+1RTHK31,https://pull-l3-cny.douyincdn.com/live/7658520000c71bb45465e3cb5dcce364.flv
 
 
 
