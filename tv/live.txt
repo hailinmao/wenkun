@@ -220,16 +220,6 @@ CCTV-2,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 
-1翡翠台,https://pull-l3-cny.douyincdn.com/live/e94d6cec70fbc811865a821e4137c02f.flv?time=1679278621
-1香港J2,https://pull-l3-cny.douyincdn.com/live/a9d3a839dbeff0678858fd7ea86a285e.flv?time=1679279163
-1无线新闻,https://pull-l3-cny.douyincdn.com/live/d6006cc90f90b4003bb1ecb62e3c91ce.flv?time=1679279364
-1无线财经,https://pull-l3-cny.douyincdn.com/live/385b829d4dd8f87a381279bd6901a171.flv?time=1679278971
-1明珠台,https://pull-l3-cny.douyincdn.com/live/cbe52608aedc189384e16577a7bfb0f4.flv?time=1679278887
-1HKIBC,https://pull-l3-cny.douyincdn.com/live/4f0ceb644e8cbe9b65dd431636655660.flv?time=1679281526
-1香港卫视,https://pull-l3-cny.douyincdn.com/live/5f56d18c7d65159e9ecd004846020546.flv
-1RTHK31,https://pull-l3-cny.douyincdn.com/live/7658520000c71bb45465e3cb5dcce364.flv
-
-
 
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 HBOFamily---http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
