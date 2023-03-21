@@ -10,7 +10,7 @@
 萌娃籼籼,https://dghls.mcloud.139.com/hls/LPc6e4af053edc65ed6977cef64cb6c611/playlist.m3u8?ci=1811UaL6m35715820230321112551n7j&fileSize=40788701
 东北萌娃,https://dghls.mcloud.139.com/hls/LP5253e334967dc5c7670fb563c51a122b/playlist.m3u8?ci=1811UaL6m357177202303211126559re&fileSize=22106831
 女生版太想念,https://dghls.mcloud.139.com/hls/LR52c5f31b851d9da7cf4b1981077e7faf/playlist.m3u8?ci=1811UaL6m35715420230321113802rlt&fileSize=24311894
-小石头不休,https://dghls.mcloud.139.com/hls/LR8b0b824c6dc07bfcee813859dcfc8c61/playlist.m3u8?ci=1811UaL6m35715520230321113813fme&fileSize=90749280
+小石头不修,https://dghls.mcloud.139.com/hls/LR8b0b824c6dc07bfcee813859dcfc8c61/playlist.m3u8?ci=1811UaL6m35715520230321113813fme&fileSize=90749280
 Jimmy Jimmy jimmy Aaja,https://dghls.mcloud.139.com/hls/L563bca26561579876924e00fa688dbe95/playlist.m3u8?ci=1811UaL6m35715720230321150631zpe&fileSize=10690567
 我是你的格桑花,https://dghls.mcloud.139.com/hls/L4ae417c1025621270c7b7cf55e12f0777/playlist.m3u8?ci=1811UaL6m35715420230321152443wlj&fileSize=34841110
 雅妍 A-YEON,https://dghls.mcloud.139.com/hls/L5aabc49c76a38182731d759391cb60b57/playlist.m3u8?ci=1811UaL6m357156202303211548058ix&fileSize=160023374
@@ -18,6 +18,8 @@ Jimmy Jimmy jimmy Aaja,https://dghls.mcloud.139.com/hls/L563bca26561579876924e00
 笑看风云,https://shls.mcloud.139.com/hls/K8473026869e26e09316d75892a5feefd8/playlist.m3u8?ci=1811UaL6m35715720230321154801imd&fileSize=53305478
 上海滩,https://dghls.mcloud.139.com/hls/L5552341d05bebc2c1f810616829cc5acd/playlist.m3u8?ci=1811UaL6m357158202303211549375lu&fileSize=6668932
 轻抚你的脸,https://dghls.mcloud.139.com/hls/L4dab28689cfa00002a6502e26a04e728c/playlist.m3u8?ci=1811UaL6m357158202303211539301gf&fileSize=35048411
+汤晶锦合辑,https://dghls.mcloud.139.com/hls/LL8408ba1f8aa11d043c1101cb44966912/playlist.m3u8?ci=1811UaL6m35717720230321164420g55&fileSize=71079755
+破碎的梦,https://dghls.mcloud.139.com/hls/LN6ce2a00d79e44072c319c7769586fe22/playlist.m3u8?ci=1811UaL6m35715420230321165439y55&fileSize=28847286
 
 三傻大闹宝莱坞推荐,https://vt1.doubanio.com/202211032011/ad46a3c39a37cdcbed98f4d180fa3b93/view/movie/M/301020952-1.mp4
 	
