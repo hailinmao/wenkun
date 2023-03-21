@@ -7,43 +7,8 @@
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 萌娃,https://dghls.mcloud.139.com/hls/LQd5fb196994000a0fae17424c78f0aec9/playlist.m3u8?ci=1811UaL6m35715720230321111235s7c&fileSize=29332669
-
-陈平讲马云,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQAA5nmYrsQuxBrUa0hwMXI2QxSzoPgBqx6rnIv5skamkR30j7zeRbznbWmyLf173iakY9PT1hWmXNK0ty0fT0cXe&token=x5Y29zUxcibDpfptdvNBwoTUQy9nRlP398gC0WTvdWicicqBdTRVs0HYrx8RPJXOEIaRZLClj2xVOo&idx=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW29&taskid=0
-
-喝了不少,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFGVHVlZ2vtFryD9OaFrqAZg1LtFkh7Ylt4yX4fQEpjAiaIib1UNNgA8G3NbJTfL0tT7t6yCsL45DbcicbLwpp55BW53VtZJlhLPGicXdmSicUdXvWQ&token=AxricY7RBHdVlHZwQoIwLUtRPwc4OrYGiblIk4gMPOW05ox4Vly98zdicUibEaUxmdVhA63ddic4jJoc&idx=1&a=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=95899c5199693a113007c09b7375e0fd&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW29&taskid=0
-
-二手房交易新政来了,https://finder.video.qq.com/251/20302/stodownload?encfilekey=6xykWLEnztKcKCJZcV0rWCM8ua7DibZkibqXGfPxf5lrq76xbDbhJPuhhLuGtFIE9xeH2gfCBkTwmYaEgibsBhnbOTg8HibOPbSaHx5BibmkMIicEBviaHWiahAvuaYB18d3z47ib0mg2p1Liae8EPDEgibhl0RHegxqS2C3yfkvJjtyPyptzA&token=AxricY7RBHdX58dE7CwzaZfNibl9sI9RHiaebJm8aJIUvy0sdqoSFiadiazTO1ymSVo52icG8hG2VgxqI&idx=1&a=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&ilogo=1&m=d15c56ccc8281f9aff7b812de46a0728&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW29&taskid=0
-
-谁在主导市场,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQBYAyTcdViaQ1EJkcKsiaJ0Koc3gyOPDRh42K9mwmaImlO6GaOrpvwXr2cyIHVKVK7rJPYDDt9hKIMRIMHs4JjLc0&token=AxricY7RBHdWhLlUNNlHET5uO9s0BicGdlcvjrd80QfdpXBhNoiaq8H7G5jWRoyFHaN6zQTQdJpjFQ&idx=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW30&taskid=0
-
-一个跑不了,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQC9wJgicMIdonyOxakbeicRvQCTRzJnBEib1kgl9thfwkribCzSxLkOULvA1GkNflbEuvbHmRrpQSXPlIYw2ic4hJK4p&token=AxricY7RBHdUqxPBddSDyo5hYfVgicLkDsJJ7Hc45guDib3HZWFPgTFLECOtj2G4Hrhffe1riaPNyVs&idx=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW29&taskid=0
-
-剥削来源于权利,https://finder.video.qq.com/251/20302/stodownload?encfilekey=rjD5jyTuFrIpZ2ibE8T7YmwgiahniaXswqzRVj9o4iaKicp5jJMzXaDCGeDnvFGXUqsyTk1MMaTu5IJvyEfu5VUDv2mqA3tr4ChE8iaLWdIN6U03icdJkf6H9TGYA&token=x5Y29zUxcibDaDJHZ4DDfOgjOqRyPETm0y4F9HIicv8fSNt1NAxx8oEU7HUCG41BkEsial4xDJRbHU&idx=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW30&taskid=0
-
-波士顿机器人40年,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQDbDibLFnUkbCkZEJWVPIcickth0X5xWJWXMrWVUkjQYicrAW2PFMZ5hBXI7Z9CstPDibVbB2uFaeYcW147ibiaaFFAPh&token=AxricY7RBHdW5znJgua2zaUp91Dia8iajrACKqYiag7Jr1pRnicPgFGXovj3Yib8gZhQW95jDDIGCfia44&idx=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xV9&taskid=0
-
-退出OpenAI,https://finder.video.qq.com/251/20302/stodownload?encfilekey=6xykWLEnztKcKCJZcV0rWCM8ua7DibZkibqXGfPxf5lroUFOMletpmUOiaVQYRasSechSSiaHbaGqQicH4kxKuvZKJuXbldvborFBF4j5gnKg9zL4VdOVcOV3S63l7HDhkapA9u8tZ3t2HPGWtFQT6OXm7icBerRxGR53v4qs9uFChwMY&token=x5Y29zUxcibBHWIcXfpbVwXaQYzJTLDN4hTpcq8ibSscOEOTA59ZfI4JHibMWT3W5faGASOJOoD84I&idx=1&a=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=3960a282387f954865a5b04811da2bf9&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW29&taskid=0
-
-熟悉的配方,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQAic5vn9nbNfAxHicib392uOqjWpVcE3rZBNRzDqrqibtib1BRGicBOpM5Zmwzpul4Uwbe2ON2ibsqZwfdiceColCznyGUR&token=x5Y29zUxcibBHWIcXfpbVwXGdicFdzbX3kyXttFiaFntopEJCYKr1qJia3pH3mm3plxQ55MqjyP52oo&idx=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW29&taskid=0
-
-28万亿去哪了,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQCHSn1Slm64lRNr3e5iaqv5FHoQCxfIUuCcMr6xSibIfDLycxDZv8dn6LUkZmQ11tLFobJlqVmzUwHMgCrUq0kPfu&token=x5Y29zUxcibAOjfTIJcqVZWf46AreLe3IjWOLic6lf3UVOLJ5VFotZYicxia0M1Dt2iayLOzS8JR4JIw&idx=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW29&taskid=0
-	
-资产保值,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQB7D1mRxR2PDtFCUqLw4nCbZibkia2GG4y4S3y0Attf63aVnoc8YUzppX3G7CaXmfAdlm99ibjhcFg4l3re4vibutDY&token=cztXnd9GyrHbCAsJTyRensqZfRlzniaEEUgv8ES0nKnZtOxc3VQY5VbWB3HstaV6ShFFahsxfUN4&idx=1&adaptivelytrans=0&bizid=1023&dotrans=2991&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW29&taskid=0
-
-货币本质是什么,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQAXgr9uKljWwc896bD5vWqqj6kT3No9etJsLKHmvBnrDhfLIrJB40EhjB2veSoPvoKW4yxtE4yqI4MLYeuFCF2q&token=x5Y29zUxcibAOjfTIJcqVZVTyicJZrT7noNU6ICJc8fDPehZoeT8L9ibKAyZAEvxgkRZTapSHNEBKg&idx=1&adaptivelytrans=0&bizid=1023&dotrans=2991&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW30&taskid=0
-
-给你脸了,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQAnGlVSZG0qyAdfQFFIdTUcF7FicoOU7eo2Yc3IX5zGNicxl1ddmQW0fzuNEicAztCRUpz80alKia1RzdpYAje80uPT&token=6xykWLEnztL0ZVwwjvuEorQpLia1hDZQhPCtMN8lnON8eIq4M0MJiavkUzPTDG0l5Ywqoah2QD0tk&idx=1&adaptivelytrans=0&bizid=1023&dotrans=2991&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW29&taskid=0
-
-起飞了,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQC9631PuHC2rQUFZCwy7fpp9sGHFg3JreqZqdaEIZMFwn5hU5wz4saedMh6ib4BJsgZXJzFlnD3bHPkzWto0Xop0&token=x5Y29zUxcibAOjfTIJcqVZc5M4IkRc8NA3NXucQdD8UUV6zGPQP8bicEiaHhnghmulSIzdkrNqrjMI&idx=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW29&taskid=0
-
-收割中产,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQAVgIiaW8rhFCHq56r5x4EdRMRJz5Dib8nmQlQR8IdIgOmm8jmicF3pRAoddf6XIaHoS6fB9E6BbMaQBRrS2MgWSIT&token=AxricY7RBHdWwQBqCqt9ibrvBq1diatY0fGkLK5jfNrzUUmmxU2UOWoNpFtRAPT8zhn3qnicOrYib33c&idx=1&adaptivelytrans=0&bizid=1023&dotrans=2991&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW30&taskid=0
-
-萌娃,http://neworig.go2yd.com/user_upload/1672986057829e5aed3f70d631cc71619b6baf0e1afc9.mp4_bd.mp4
-
-图鉴,https://vd2.bdstatic.com/mda-pbc9hdbkin4es8xc/sc/cae_h264/1676271071810397225/mda-pbc9hdbkin4es8xc.mp4?v_from_s=bdapp-unicomment-nanjing
-
-ceshi,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQC3GnpxD3Qoibr5nqTicUmhOCknJQicviaX907fmaiachLwVvhpvwRIiaibomjlMicLjcXCqu306woN9ut1Isz5erbVdKeI&token=x5Y29zUxcibCXvfudibbeys0I6oAoHOI8ppCDHnjHHibHfBQh5qRAs8XGW0OkxuyAs2vbO0Yr6dJlo&idx=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW30&taskid=0
-
+萌娃籼籼,https://dghls.mcloud.139.com/hls/LPc6e4af053edc65ed6977cef64cb6c611/playlist.m3u8?ci=1811UaL6m35715820230321112551n7j&fileSize=40788701
+东北萌娃,https://dghls.mcloud.139.com/hls/LP5253e334967dc5c7670fb563c51a122b/playlist.m3u8?ci=1811UaL6m357177202303211126559re&fileSize=22106831
 
 三傻大闹宝莱坞推荐,https://vt1.doubanio.com/202211032011/ad46a3c39a37cdcbed98f4d180fa3b93/view/movie/M/301020952-1.mp4
 	
