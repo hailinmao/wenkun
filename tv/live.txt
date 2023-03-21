@@ -6,6 +6,8 @@
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+萌娃,https://dghls.mcloud.139.com/hls/LQd5fb196994000a0fae17424c78f0aec9/playlist.m3u8?ci=1811UaL6m35715720230321111235s7c&fileSize=29332669
+
 陈平讲马云,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQAA5nmYrsQuxBrUa0hwMXI2QxSzoPgBqx6rnIv5skamkR30j7zeRbznbWmyLf173iakY9PT1hWmXNK0ty0fT0cXe&token=x5Y29zUxcibDpfptdvNBwoTUQy9nRlP398gC0WTvdWicicqBdTRVs0HYrx8RPJXOEIaRZLClj2xVOo&idx=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW29&taskid=0
 
 喝了不少,https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFGVHVlZ2vtFryD9OaFrqAZg1LtFkh7Ylt4yX4fQEpjAiaIib1UNNgA8G3NbJTfL0tT7t6yCsL45DbcicbLwpp55BW53VtZJlhLPGicXdmSicUdXvWQ&token=AxricY7RBHdVlHZwQoIwLUtRPwc4OrYGiblIk4gMPOW05ox4Vly98zdicUibEaUxmdVhA63ddic4jJoc&idx=1&a=1&adaptivelytrans=0&bizid=1023&dotrans=0&hy=SH&m=95899c5199693a113007c09b7375e0fd&finderextscene=6&fexam=1&web=1&X-snsvideoflag=xW29&taskid=0
