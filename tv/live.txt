@@ -20,11 +20,14 @@ Jimmy Jimmy jimmy Aaja,https://dghls.mcloud.139.com/hls/L563bca26561579876924e00
 轻抚你的脸,https://dghls.mcloud.139.com/hls/L4dab28689cfa00002a6502e26a04e728c/playlist.m3u8?ci=1811UaL6m357158202303211539301gf&fileSize=35048411
 汤晶锦合辑,https://dghls.mcloud.139.com/hls/LL8408ba1f8aa11d043c1101cb44966912/playlist.m3u8?ci=1811UaL6m35717720230321164420g55&fileSize=71079755
 破碎的梦,https://dghls.mcloud.139.com/hls/LN6ce2a00d79e44072c319c7769586fe22/playlist.m3u8?ci=1811UaL6m35715420230321165439y55&fileSize=28847286
+破碎的梦2,https://vd4.bdstatic.com/mda-patezah01pysjsvc/sc/cae_h264/1674902920158655678/mda-patezah01pysjsvc.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1679716634-0-0-a5eeb2a45ed793a207ee8de1cdf8027a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1634428167&vid=5762670214480928705&abtest=107354_2-107353_1&klogid=1634428167
 姬和不如,https://dghls.mcloud.139.com/hls/L216f076f4374ca5f644cd34ca8591dd45/playlist.m3u8?ci=1811UaL6m35715720230322210643gen&fileSize=206666220
 阿珍爱上了阿强,https://dghls.mcloud.139.com/hls/L8c2ab26dddece0238ef036d0f289f5130/playlist.m3u8?ci=1811UaL6m357158202303231422118wy&fileSize=64875517
 GPT4联网了,https://dghls.mcloud.139.com/hls/L7eec8eb6ffc4702f633a1cabc1dd321a6/playlist.m3u8?ci=1811UaL6m35717820230324143957a21&fileSize=13276759
 苹果面部识别,https://dghls.mcloud.139.com/hls/L893f9856caad55d96bb62b18d2ec4d6da/playlist.m3u8?ci=1811UaL6m35717720230324144305qqz&fileSize=38926030
 LIVE民谣,https://vd4.bdstatic.com/mda-pbnajxcz6raambr0/sc/cae_h264/1677137814219814459/mda-pbnajxcz6raambr0.mp4?v_from_s=bdapp-landingpage-api-nanjing
+
+三生石下7首热歌,https://vd2.bdstatic.com/mda-pcgpt9t1cdztfs2e/sc/cae_h264/1679072672836768786/mda-pcgpt9t1cdztfs2e.mp4?v_from_s=bdapp-landingpage-api-nanjing
 浩史成双,https://vd2.bdstatic.com/mda-patcnnhqrzjuwuuz/sc/cae_h264/1674896551231456632/mda-patcnnhqrzjuwuuz.mp4?v_from_s=bdapp-landingpage-api-nanjing
 
 三傻大闹宝莱坞推荐,https://vt1.doubanio.com/202211032011/ad46a3c39a37cdcbed98f4d180fa3b93/view/movie/M/301020952-1.mp4
