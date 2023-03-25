@@ -6,6 +6,8 @@
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+
+GPT进化插件,https://dghls.mcloud.139.com/hls/LAc9ad446cbf85e5f9c206822b7b060f4b/playlist.m3u8?ci=1811UaL6m35717720230325201335xs2&fileSize=29982759
 萌娃,https://dghls.mcloud.139.com/hls/LQd5fb196994000a0fae17424c78f0aec9/playlist.m3u8?ci=1811UaL6m35715720230321111235s7c&fileSize=29332669
 萌娃籼籼,https://dghls.mcloud.139.com/hls/LPc6e4af053edc65ed6977cef64cb6c611/playlist.m3u8?ci=1811UaL6m35715820230321112551n7j&fileSize=40788701
 东北萌娃,https://dghls.mcloud.139.com/hls/LP5253e334967dc5c7670fb563c51a122b/playlist.m3u8?ci=1811UaL6m357177202303211126559re&fileSize=22106831
@@ -26,6 +28,7 @@ Jimmy Jimmy jimmy Aaja,https://dghls.mcloud.139.com/hls/L563bca26561579876924e00
 GPT4联网了,https://dghls.mcloud.139.com/hls/L7eec8eb6ffc4702f633a1cabc1dd321a6/playlist.m3u8?ci=1811UaL6m35717820230324143957a21&fileSize=13276759
 苹果面部识别,https://dghls.mcloud.139.com/hls/L893f9856caad55d96bb62b18d2ec4d6da/playlist.m3u8?ci=1811UaL6m35717720230324144305qqz&fileSize=38926030
 LIVE民谣,https://vd4.bdstatic.com/mda-pbnajxcz6raambr0/sc/cae_h264/1677137814219814459/mda-pbnajxcz6raambr0.mp4?v_from_s=bdapp-landingpage-api-nanjing
+赚钱和挣钱,https://dghls.mcloud.139.com/hls/LB2975b8863bc16d78f99661160eeffece/playlist.m3u8?ci=1811UaL6m357154202303252018221ta&fileSize=147884987
 
 三生石下7首热歌,https://vd2.bdstatic.com/mda-pcgpt9t1cdztfs2e/sc/cae_h264/1679072672836768786/mda-pcgpt9t1cdztfs2e.mp4?v_from_s=bdapp-landingpage-api-nanjing
 浩史成双,https://vd2.bdstatic.com/mda-patcnnhqrzjuwuuz/sc/cae_h264/1674896551231456632/mda-patcnnhqrzjuwuuz.mp4?v_from_s=bdapp-landingpage-api-nanjing
