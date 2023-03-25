@@ -25,6 +25,7 @@ Jimmy Jimmy jimmy Aaja,https://dghls.mcloud.139.com/hls/L563bca26561579876924e00
 GPT4联网了,https://dghls.mcloud.139.com/hls/L7eec8eb6ffc4702f633a1cabc1dd321a6/playlist.m3u8?ci=1811UaL6m35717820230324143957a21&fileSize=13276759
 苹果面部识别,https://dghls.mcloud.139.com/hls/L893f9856caad55d96bb62b18d2ec4d6da/playlist.m3u8?ci=1811UaL6m35717720230324144305qqz&fileSize=38926030
 LIVE民谣,https://vd4.bdstatic.com/mda-pbnajxcz6raambr0/sc/cae_h264/1677137814219814459/mda-pbnajxcz6raambr0.mp4?v_from_s=bdapp-landingpage-api-nanjing
+浩史成双,https://vd2.bdstatic.com/mda-patcnnhqrzjuwuuz/sc/cae_h264/1674896551231456632/mda-patcnnhqrzjuwuuz.mp4?v_from_s=bdapp-landingpage-api-nanjing
 
 三傻大闹宝莱坞推荐,https://vt1.doubanio.com/202211032011/ad46a3c39a37cdcbed98f4d180fa3b93/view/movie/M/301020952-1.mp4
 	
