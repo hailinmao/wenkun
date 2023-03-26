@@ -9,6 +9,10 @@
       "type_name": "手球",
       "type_id": "手球"
     },
+   {
+      "type_name": "台球",
+      "type_id": "台球"
+    },
     {
       "type_name": "篮球",
       "type_id": "篮球超清"
