@@ -6,6 +6,7 @@
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+说说城投债,https://dghls.mcloud.139.com/hls/L7bac1c8cf29dd103ae07559b718cc7744/playlist.m3u8?ci=1811UaL6m35717820230326144249htp&fileSize=99888100
 GPT AI 上头了,https://dghls.mcloud.139.com/hls/LQa5938373cd2d3f2258ccebd144243ac2/playlist.m3u8?ci=1811UaL6m35715520230326100538far&fileSize=102968485
 舞蹈风暴 媚-朱瑾慧,https://vd2.bdstatic.com/mda-kk6zthqum9vg7gsu/sc/mda-kk6zthqum9vg7gsu.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1679794338-0-0-029ccedc7fca4b3526e6ab4bb8366a5e&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0138052006&vid=4775065995535839729&abtest=107354_2-107353_1&klogid=0138052006
 GPT进化插件,https://dghls.mcloud.139.com/hls/LAc9ad446cbf85e5f9c206822b7b060f4b/playlist.m3u8?ci=1811UaL6m35717720230325201335xs2&fileSize=29982759
