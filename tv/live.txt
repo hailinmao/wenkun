@@ -6,6 +6,8 @@
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+可能 程响,https://dghls.mcloud.139.com/hls/LNf7fe91bc41492763ef368d045b02f351/playlist.m3u8?ci=1811UaL6m35715520230407094155hv3&fileSize=61739461
+一半疯了一半算了,https://dghls.mcloud.139.com/hls/LMb7541204d2ec9fdd32dd3b4c1a8ff07e/playlist.m3u8?ci=1811UaL6m357154202304070919508cv&fileSize=26567217
 人生的道场,https://dghls.mcloud.139.com/hls/L5722088f6d101a3ccbcd0eaa3248c4b30/playlist.m3u8?ci=1811UaL6m35717820230407085612bm9&fileSize=60198542
 联唱 曲中人,https://vd2.bdstatic.com/mda-pcjcisex2eexnjxu/sc/cae_h264/1679309413420105461/mda-pcjcisex2eexnjxu.mp4?v_from_s=bdapp-landingpage-api-nanjing
 83射雕英雄传,https://apd-c8563feca1036030c42e8a12db56f03cfc3d24ffb179b4af.v.smtcdns.com/om.tc.qq.com/AUKKLiHpC4mCrEfFO-c1r8l0mzkqooxhr08bMiO7fR4w/B_9LhzPzw8agpeEeKUHV_JXhV-xP_jGeINAvABR-sg2Bk/svp_50001/szg_83555316_50001_8ee75dfc07c64bf69056ce8d4361f07d.f632.mp4?sdtfrom=v1010&guid=de8074815435d0d4&vkey=638D4A1B239ABC2B0741E9624DBA08660E46F1C20B994E407814C8D7202D01A99D734235DCCB1D8E8F369AFF0DAF8C395545B2D83518D49CA7521F7C77321A99D558DC083DB378AC90DE1817E9608935D11D56159A5D6E302AA05BD169F66A5566751DE022C6D5B2ECF72C9C9F73AC12A69B010E451CE19986615C1350897EA5#t=10.436838
@@ -15,7 +17,6 @@ DJ亚楠10首,https://vd2.bdstatic.com/mda-pcbbfkai83kg3z8d/sc/cae_h264/16786109
 早安隆回8首联唱,https://vd3.bdstatic.com/mda-pcbkwz1m0hu2kmtw/sc/cae_h264/1678635403598922954/mda-pcbkwz1m0hu2kmtw.mp4?v_from_s=bdapp-landingpage-api-nanjing
 特别的爱给特别的你7首联唱,https://vd3.bdstatic.com/mda-pcb3g546hjnw7ib9/sc/cae_h264/1678590467698779497/mda-pcb3g546hjnw7ib9.mp4?v_from_s=bdapp-landingpage-api-nanjing
 大海8首联唱,https://vd2.bdstatic.com/mda-pc6mf6xkvrpkgwez/sc/cae_h264/1678232143215045150/mda-pc6mf6xkvrpkgwez.mp4?v_from_s=bdapp-bdappcore-feed-nanjing
-微博之夜,https://hot.qoqkkhy.com/20230326/jmtQ4gAM/index.m3u8
 说说城投债,https://dghls.mcloud.139.com/hls/L7bac1c8cf29dd103ae07559b718cc7744/playlist.m3u8?ci=1811UaL6m35717820230326144249htp&fileSize=99888100
 GPT AI 上头了,https://dghls.mcloud.139.com/hls/LQa5938373cd2d3f2258ccebd144243ac2/playlist.m3u8?ci=1811UaL6m35715520230326100538far&fileSize=102968485
 舞蹈风暴 媚-朱瑾慧,https://vd2.bdstatic.com/mda-kk6zthqum9vg7gsu/sc/mda-kk6zthqum9vg7gsu.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1679794338-0-0-029ccedc7fca4b3526e6ab4bb8366a5e&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0138052006&vid=4775065995535839729&abtest=107354_2-107353_1&klogid=0138052006
@@ -46,6 +47,8 @@ LIVE民谣,https://vd4.bdstatic.com/mda-pbnajxcz6raambr0/sc/cae_h264/16771378142
 
 三生石下7首热歌,https://vd2.bdstatic.com/mda-pcgpt9t1cdztfs2e/sc/cae_h264/1679072672836768786/mda-pcgpt9t1cdztfs2e.mp4?v_from_s=bdapp-landingpage-api-nanjing
 浩史成双,https://vd2.bdstatic.com/mda-patcnnhqrzjuwuuz/sc/cae_h264/1674896551231456632/mda-patcnnhqrzjuwuuz.mp4?v_from_s=bdapp-landingpage-api-nanjing
+
+阿凡达2 4K,https://data.cache.m3u8.lscsfw.com:3395/cache/20230105/6305_32f4ff1d/index.m3u8
 
 三傻大闹宝莱坞推荐,https://vt1.doubanio.com/202211032011/ad46a3c39a37cdcbed98f4d180fa3b93/view/movie/M/301020952-1.mp4
 	
