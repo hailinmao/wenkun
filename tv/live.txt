@@ -1377,6 +1377,13 @@ CNBeatbox,http://epg.112114.xyz/douyu/5455515
 .解密周星驰,http://jiandjh.51vip.biz:35455/huya/
 .80后脱口秀,http://jiandjh.51vip.biz:35455/huya/11352961
 .音乐小石榴,http://jiandjh.51vip.biz:35455/huya/17091681
+安静听歌吖,http://jiandjh.51vip.biz:35455/huya/27729374
+EDM ◆音乐,http://jiandjh.51vip.biz:35455/huya/21241838
+阿兰ALAN,http://jiandjh.51vip.biz:35455/huya/22970983
+惊艳翻唱,http://jiandjh.51vip.biz:35455/huya/21241815
+电吉他少女,http://jiandjh.51vip.biz:35455/huya/21241765
+必听民谣经典,http://jiandjh.51vip.biz:35455/huya/21241831
+
 
 .阿斗归来了,http://aldirect.corp-hls.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1.m3u8??
 •小川看电影,http://aldirect.corp-hls.huya.com/src/94525224-2699462070-11594101307442462720-2966491422-10057-A-0-1.m3u8??
@@ -1908,9 +1915,6 @@ EDM ◆音乐,http://aldirect.corp-hls.huya.com/src/1099531753594-1099531753594-
 相声小品4,http://zb.688768.xyz/zubo/z.php?member=ldjcdbvq68&playurl=http://1.183.78.46:4022/udp/239.29.1.23:5001
 左手扑克,http://aldirect.corp-hls.huya.com/src/1199540686927-1199540686927-5346424007874838528-2399081497310-10057-A-0-1.m3u8??
 
-欧美大型魔术5,http://alist.xiaoya.pro/d/%E7%BB%BC%E8%89%BA/%E6%AC%A7%E7%BE%8E/Q%20%E5%85%A8%E7%90%83%E7%A6%81%E6%92%AD%E9%AD%94%E6%9C%AF%E5%A4%A7%E6%8F%AD%E7%A7%98/05.mkv
-欧美大型魔术7,http://alist.xiaoya.pro/d/%E7%BB%BC%E8%89%BA/%E6%AC%A7%E7%BE%8E/Q%20%E5%85%A8%E7%90%83%E7%A6%81%E6%92%AD%E9%AD%94%E6%9C%AF%E5%A4%A7%E6%8F%AD%E7%A7%98/07.mkv
-
 	
 🏆体育频道,#genre#
 CCTV-5,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8
@@ -2440,6 +2444,8 @@ CHC家庭影院,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8$超清1080P
 科幻系列,http://epg.112114.xyz/douyu/8107217
 	
 🔁热剧轮播,#genre#
+.康熙王朝http://jiandjh.51vip.biz:35455/huya/21277391
+
 鹿鼎记,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=28265277
 新三国,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29216766
 新三国,http://121.51.14.14/txdirect.hls.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1-imgplus.m3u8
