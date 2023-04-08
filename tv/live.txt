@@ -1385,6 +1385,7 @@ CNBeatbox,http://epg.112114.xyz/douyu/5455515
 .电吉他少女,http://jiandjh.51vip.biz:35455/huya/21241765
 .必听民谣经典,http://jiandjh.51vip.biz:35455/huya/21241831
 
+周星驰粤语,http://jiandjh.51vip.biz:35455/huya/zxc622
 沈腾电影,http://jiandjh.51vip.biz:35455/huya/11601968
 女神电影,http://jiandjh.51vip.biz:35455/huya/11336571
 
