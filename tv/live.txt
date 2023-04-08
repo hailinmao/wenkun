@@ -1374,15 +1374,21 @@ CNBeatbox,http://epg.112114.xyz/douyu/5455515
 .亮哥说电影,http://jiandjh.51vip.biz:35455/huya/16144175
 .亮哥说电影2,http://jiandjh.51vip.biz:35455/huya/21059622
 .止戈电影,http://jiandjh.51vip.biz:35455/huya/19863777
-.解密周星驰,http://jiandjh.51vip.biz:35455/huya/
+
 .80后脱口秀,http://jiandjh.51vip.biz:35455/huya/11352961
+
 .音乐小石榴,http://jiandjh.51vip.biz:35455/huya/17091681
+.阿兰ALAN,http://jiandjh.51vip.biz:35455/huya/22970983
 .安静听歌吖,http://jiandjh.51vip.biz:35455/huya/27729374
 .EDM ◆音乐,http://jiandjh.51vip.biz:35455/huya/21241838
-.阿兰ALAN,http://jiandjh.51vip.biz:35455/huya/22970983
 .惊艳翻唱,http://jiandjh.51vip.biz:35455/huya/21241815
 .电吉他少女,http://jiandjh.51vip.biz:35455/huya/21241765
 .必听民谣经典,http://jiandjh.51vip.biz:35455/huya/21241831
+
+沈腾电影,http://jiandjh.51vip.biz:35455/huya/11601968
+女神电影,http://jiandjh.51vip.biz:35455/huya/11336571
+
+.解密周星驰,http://jiandjh.51vip.biz:35455/huya/
 
 
 .阿斗归来了,http://aldirect.corp-hls.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1.m3u8??
@@ -2423,6 +2429,7 @@ CHC家庭影院,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8$超清1080P
 中国功夫,http://39.135.138.60:18890/PLTV/88888910/224/3221225660/index.m3u8$高清1080P
 周星驰1,http://mmitv.top/pltv/yy.php?id=1353881242$1高清1080P
 周星驰2,http://aldirect.corp-hls.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.m3u8??$2高清1080P
+
 电影台50,http://bp-caster.bestv.com.cn/494/1/video.m3u8
 电影台51,http://bp-caster.bestv.com.cn/532/1/video.m3u8
 电影台52,http://bp-caster.bestv.com.cn/490/1/video.m3u8
@@ -3415,19 +3422,21 @@ CF手游官方直播间,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2
 高三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 	
 🐯虎牙记录,#genre#
-动物记录,http://aldirect.corp-hls.huya.com/src/1099531752797-1099531752797-86436307026313216-2199063629050-10057-A-0-1.m3u8??
-海洋世界,http://aldirect.corp-hls.huya.com/src/1099531752702-1099531752702-86435899004420096-2199063628860-10057-A-0-1.m3u8??
-中国通史,http://aldirect.corp-hls.huya.com/src/1099531752661-1099531752661-86435722910760960-2199063628778-10057-A-0-1.m3u8??
-惊奇世界,http://aldirect.corp-hls.huya.com/src/1099531840863-1099531840863-86814547616202752-2199063805182-10057-A-0-1.m3u8??
-历史魅力,http://aldirect.corp-hls.huya.com/src/1099531752646-1099531752646-86435658486251520-2199063628748-10057-A-0-1.m3u8??
-美食诱惑,http://aldirect.corp-hls.huya.com/src/1423787851-1423787851-6115122256487120896-2847699158-10057-A-0-1.m3u8??
-科学探索,http://aldirect.corp-hls.huya.com/src/1099531752602-1099531752602-86435469507690496-2199063628660-10057-A-0-1.m3u8??
-超级工程,http://aldirect.corp-hls.huya.com/src/1099531840882-1099531840882-86814629220581376-2199063805220-10057-A-0-1.m3u8??
-科技穿越,http://aldirect.corp-hls.huya.com/src/1099531840875-1099531840875-86814599155810304-2199063805206-10057-A-0-1.m3u8??
-空战记录,http://aldirect.corp-hls.huya.com/src/1099531752618-1099531752618-86435538227167232-2199063628692-10057-A-0-1.m3u8??
-文明观球,http://aldirect.corp-hls.huya.com/src/1099531840858-1099531840858-86814526141366272-2199063805172-10057-A-0-1.m3u8??
-地球故事,http://aldirect.corp-hls.huya.com/src/1099531752795-1099531752795-86436298436378624-2199063629046-10057-A-0-1.m3u8??
-战场战争,http://aldirect.corp-hls.huya.com/src/1099531840910-1099531840910-86814749479665664-2199063805276-10057-A-0-1.m3u8??
+
+
+动物记录,http://jiandjh.51vip.biz:35455/huya/21059609
+海洋世界,http://jiandjh.51vip.biz:35455/huya/
+中国通史,http://jiandjh.51vip.biz:35455/huya/20985822
+惊奇世界,http://jiandjh.51vip.biz:35455/huya/25363475
+历史魅力,http://jiandjh.51vip.biz:35455/huya/20969117
+美食诱惑,http://jiandjh.51vip.biz:35455/huya/
+科学探索,http://jiandjh.51vip.biz:35455/huya/
+超级工程,http://jiandjh.51vip.biz:35455/huya/
+科技穿越,http://jiandjh.51vip.biz:35455/huya/
+空战记录,http://jiandjh.51vip.biz:35455/huya/20969140
+文明观球,http://jiandjh.51vip.biz:35455/huya/
+地球故事,http://jiandjh.51vip.biz:35455/huya/
+战场战争,http://jiandjh.51vip.biz:35455/huya/
 	
 	
 🐅动物世界,#genre#
