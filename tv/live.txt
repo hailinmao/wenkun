@@ -6,6 +6,7 @@
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+小A说周期,https://dghls.mcloud.139.com/hls/LQe7582ad671c66665235d7bb7b42d02e3/playlist.m3u8?ci=1811UaL6m35715420230408113622mzs&fileSize=140130913
 可能 程响,https://dghls.mcloud.139.com/hls/LNf7fe91bc41492763ef368d045b02f351/playlist.m3u8?ci=1811UaL6m35715520230407094155hv3&fileSize=61739461
 一半疯了一半算了,https://dghls.mcloud.139.com/hls/LMb7541204d2ec9fdd32dd3b4c1a8ff07e/playlist.m3u8?ci=1811UaL6m357154202304070919508cv&fileSize=26567217
 人生的道场,https://dghls.mcloud.139.com/hls/L5722088f6d101a3ccbcd0eaa3248c4b30/playlist.m3u8?ci=1811UaL6m35717820230407085612bm9&fileSize=60198542
@@ -1385,9 +1386,10 @@ CNBeatbox,http://epg.112114.xyz/douyu/5455515
 .电吉他少女,http://jiandjh.51vip.biz:35455/huya/21241765
 .必听民谣经典,http://jiandjh.51vip.biz:35455/huya/21241831
 
-周星驰粤语,http://jiandjh.51vip.biz:35455/huya/zxc622
-沈腾电影,http://jiandjh.51vip.biz:35455/huya/11601968
-女神电影,http://jiandjh.51vip.biz:35455/huya/11336571
+.周星驰粤语,http://jiandjh.51vip.biz:35455/huya/zxc622
+.周星驰,http://jiandjh.51vip.biz:35455/huya/11342412
+.沈腾电影,http://jiandjh.51vip.biz:35455/huya/11601968
+.女神电影,http://jiandjh.51vip.biz:35455/huya/11336571
 
 .解密周星驰,http://jiandjh.51vip.biz:35455/huya/
 
@@ -1905,7 +1907,7 @@ EDM ◆音乐,http://aldirect.corp-hls.huya.com/src/1099531753594-1099531753594-
 •笑傲帮,http://aldirect.corp-hls.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.m3u8??
 德云社2,http://aldirect.corp-hls.huya.com/src/1394575567-1394575567-5989656452065656832-2789274590-10057-A-0-1.m3u8??
 德云社4,http://bp-caster.bestv.com.cn/512/1/video.m3u8
-喜剧脱口秀,http://aldirect.corp-hls.huya.com/src/1423787824-1423787824-6115122140523003904-2847699104-10057-A-0-1.m3u8??
+喜剧脱口秀,http://jiandjh.51vip.biz:35455/huya/11352937
 唐唐,http://aldirect.corp-hls.huya.com/src/22303913-22303913-95794576907829248-4413173724-10057-A-0-1.m3u8??
 
 •马三立,http://aldirect.corp-hls.huya.com/src/1099531752635-1099531752635-86435611241611264-2199063628726-10057-A-0-1.m3u8??
@@ -2453,7 +2455,7 @@ CHC家庭影院,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8$超清1080P
 	
 🔁热剧轮播,#genre#
 .射雕英雄传,http://jiandjh.51vip.biz:35455/huya/23728674
-.康熙王朝,http://jiandjh.51vip.biz:35455/huya/21277391
+.康熙王朝,http://jiandjh.51vip.biz:35455/huya/11352940
 .新三国,http://jiandjh.51vip.biz:35455/huya/11352944
 .三国演义,http://jiandjh.51vip.biz:35455/huya/11602081
 
@@ -3406,8 +3408,9 @@ CF手游官方直播间,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2
 	
 	
 🏫空中课堂,#genre#
-网络编程,http://aldirect.corp-hls.huya.com/src/1199535237391-1199535237391-7005939644352838643-2399070598238-10057-A-1631201656-1.xs
-学习JAVA,http://aldirect.corp-hls.huya.com/src/1199540472116-1199540472116-0-2399081067688-10057-A-1631121508-1.xs
+
+网络编程,http://jiandjh.51vip.biz:35455/huya/21657901
+学习JAVA,http://jiandjh.51vip.biz:35455/huya/22206284
 	
 一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
 二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
@@ -3426,7 +3429,7 @@ CF手游官方直播间,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2
 
 
 动物记录,http://jiandjh.51vip.biz:35455/huya/21059609
-海洋世界,http://jiandjh.51vip.biz:35455/huya/
+海洋世界,http://jiandjh.51vip.biz:35455/huya/20985846
 中国通史,http://jiandjh.51vip.biz:35455/huya/20985822
 惊奇世界,http://jiandjh.51vip.biz:35455/huya/25363475
 历史魅力,http://jiandjh.51vip.biz:35455/huya/20969117
@@ -3435,7 +3438,7 @@ CF手游官方直播间,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2
 超级工程,http://jiandjh.51vip.biz:35455/huya/
 科技穿越,http://jiandjh.51vip.biz:35455/huya/
 空战记录,http://jiandjh.51vip.biz:35455/huya/20969140
-文明观球,http://jiandjh.51vip.biz:35455/huya/
+文明观球,http://jiandjh.51vip.biz:35455/huya/26355779
 地球故事,http://jiandjh.51vip.biz:35455/huya/
 战场战争,http://jiandjh.51vip.biz:35455/huya/
 	
