@@ -1366,8 +1366,19 @@ CNBeatbox,http://epg.112114.xyz/douyu/5455515
 	
 	
 🐯虎牙视频,#genre#
-阿斗归来了,http://jiandjh.51vip.biz:35455/huya/13303478
-阿斗归来了,http://aldirect.corp-hls.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1.m3u8??
+.阿斗归来了,http://jiandjh.51vip.biz:35455/huya/13303478
+.小川看电影,http://jiandjh.51vip.biz:35455/huya/15870999
+.鱼丸说电影,http://jiandjh.51vip.biz:35455/huya/16615910
+.扁豆看电影1,http://jiandjh.51vip.biz:35455/huya/bdcmovie
+.扁豆看电影2,http://jiandjh.51vip.biz:35455/huya/21059623
+.亮哥说电影,http://jiandjh.51vip.biz:35455/huya/16144175
+.亮哥说电影2,http://jiandjh.51vip.biz:35455/huya/21059622
+.止戈电影,http://jiandjh.51vip.biz:35455/huya/19863777
+.解密周星驰,http://jiandjh.51vip.biz:35455/huya/
+.80后脱口秀,http://jiandjh.51vip.biz:35455/huya/11352961
+.音乐小石榴,http://jiandjh.51vip.biz:35455/huya/17091681
+
+.阿斗归来了,http://aldirect.corp-hls.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1.m3u8??
 •小川看电影,http://aldirect.corp-hls.huya.com/src/94525224-2699462070-11594101307442462720-2966491422-10057-A-0-1.m3u8??
 •鱼丸说电影,http://aldirect.corp-hls.huya.com/src/1444281068-1444281068-6203139953291952128-4657213132-10057-A-0-1.m3u8??
 •扁豆看电影1,http://aldirect.corp-hls.huya.com/src/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1.m3u8??
