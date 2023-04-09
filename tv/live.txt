@@ -6,6 +6,7 @@
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+这是几,https://dghls.mcloud.139.com/hls/LLe88eb1aa3602c9ae04e39037d7d85c91/playlist.m3u8?ci=1811UaL6m35715720230409092349tx4&fileSize=6558844
 小A说周期,https://dghls.mcloud.139.com/hls/LQe7582ad671c66665235d7bb7b42d02e3/playlist.m3u8?ci=1811UaL6m35715420230408113622mzs&fileSize=140130913
 可能 程响,https://dghls.mcloud.139.com/hls/LNf7fe91bc41492763ef368d045b02f351/playlist.m3u8?ci=1811UaL6m35715520230407094155hv3&fileSize=61739461
 一半疯了一半算了,https://dghls.mcloud.139.com/hls/LMb7541204d2ec9fdd32dd3b4c1a8ff07e/playlist.m3u8?ci=1811UaL6m357154202304070919508cv&fileSize=26567217
@@ -1922,7 +1923,7 @@ EDM ◆音乐,http://aldirect.corp-hls.huya.com/src/1099531753594-1099531753594-
 •郭德纲于谦相声晚安音频,http://aldirect.corp-hls.huya.com/src/1671227111-1671227111-7177865785933561856-3342577678-10057-A-0-1.m3u8??
 小品相声3,http://tx.flv.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.flv?wsSecret=94d7d35bf3ce0666146e3e8442c16f6c&wsTime=61c0729b&uid=581998485&seqid=1640520614000.0&t=103&uuid=3029853032&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 相声小品4,http://zb.688768.xyz/zubo/z.php?member=ldjcdbvq68&playurl=http://1.183.78.46:4022/udp/239.29.1.23:5001
-左手扑克,http://aldirect.corp-hls.huya.com/src/1199540686927-1199540686927-5346424007874838528-2399081497310-10057-A-0-1.m3u8??
+左手扑克,http://jiandjh.51vip.biz:35455/huya/24577218
 
 	
 🏆体育频道,#genre#
