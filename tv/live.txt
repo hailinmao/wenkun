@@ -6,6 +6,8 @@
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+阿斗,https://hs.flv.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1.flv?wsSecret=d4d7718e1f5c057f1aa39b91f0bafaf7&wsTime=64349d35&u=0&seqid=1681083323099000&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Acp1%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,&t=103&ratio=2000
+
 这是几,https://dghls.mcloud.139.com/hls/LLe88eb1aa3602c9ae04e39037d7d85c91/playlist.m3u8?ci=1811UaL6m35715720230409092349tx4&fileSize=6558844
 小A说周期,https://dghls.mcloud.139.com/hls/LQe7582ad671c66665235d7bb7b42d02e3/playlist.m3u8?ci=1811UaL6m35715420230408113622mzs&fileSize=140130913
 可能 程响,https://dghls.mcloud.139.com/hls/LNf7fe91bc41492763ef368d045b02f351/playlist.m3u8?ci=1811UaL6m35715520230407094155hv3&fileSize=61739461
