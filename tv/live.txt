@@ -6,9 +6,7 @@
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-阿斗,https://hs.flv.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1.flv?wsSecret=d4d7718e1f5c057f1aa39b91f0bafaf7&wsTime=64349d35&u=0&seqid=1681083323099000&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Acp1%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,&t=103&ratio=2000
-
-这是几,https://dghls.mcloud.139.com/hls/LLe88eb1aa3602c9ae04e39037d7d85c91/playlist.m3u8?ci=1811UaL6m35715720230409092349tx4&fileSize=6558844
+你跟猪有区别吗,https://dghls.mcloud.139.com/hls/LLe88eb1aa3602c9ae04e39037d7d85c91/playlist.m3u8?ci=1811UaL6m35715720230409092349tx4&fileSize=6558844
 小A说周期,https://dghls.mcloud.139.com/hls/LQe7582ad671c66665235d7bb7b42d02e3/playlist.m3u8?ci=1811UaL6m35715420230408113622mzs&fileSize=140130913
 可能 程响,https://dghls.mcloud.139.com/hls/LNf7fe91bc41492763ef368d045b02f351/playlist.m3u8?ci=1811UaL6m35715520230407094155hv3&fileSize=61739461
 一半疯了一半算了,https://dghls.mcloud.139.com/hls/LMb7541204d2ec9fdd32dd3b4c1a8ff07e/playlist.m3u8?ci=1811UaL6m357154202304070919508cv&fileSize=26567217
@@ -161,7 +159,8 @@ CCTV-13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8
 CCTV-2,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8
 
-第一财经,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
+第一财经,http://134.122.170.64/dl/bs.php?id=21
+第一财经,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 第一财经,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 第一财经,https://www.yicai.com/api/dycj/liveIndex.m3u8
@@ -919,69 +918,6 @@ CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
 	
 ℹ️IPTV高清,#genre#
 
-CCTV-1 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-CCTV-2 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
-CCTV-3 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
-CCTV-4 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
-CCTV-5 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
-CCTV-6 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
-CCTV-7 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
-CCTV-8 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
-CCTV-9 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
-CCTV-10 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
-CCTV-11 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
-CCTV-12 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
-CCTV-13 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctvnewsHD/__op/default/__f/index.m3u8
-CCTV-14 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
-CCTV-15 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
-CCTV-16 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
-CCTV-17 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
-
-深圳卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
-湖南卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
-江苏卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
-浙江卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
-东方卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
-广东卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
-东南卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
-北京卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
-吉林卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
-四川卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
-天津卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
-安徽卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
-山西卫视http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8
-广西卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
-新疆卫视http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8
-江西卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8
-河北卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hebeiSD/__op/default/__f/index.m3u8
-河南卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
-海南卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
-湖北卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
-西藏卫视http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/xizangSD/__op/default/__f/index.m3u8
-贵州卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
-辽宁卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
-重庆卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
-青海卫视http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
-黑龙江卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
-三沙卫视http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8
-教育卫视http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f/index.m3u8
-兵团卫视http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8
-CCTV风云剧场高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shandongHD/__op/default/__f/index.m3u8
-CCTV风云剧场高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
-CCTV风云音乐高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
-CCTV风云足球高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
-CCTV怀旧剧场高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
-CCTV第一剧场高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
-CCTV兵器科技高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
-SiTV都市剧场高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/dsjcHD/__op/default/__f/index.m3u8
-SiTV魅力足球高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
-SiTV动漫秀场高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/dmxcHD/__op/default/__f/index.m3u8
-SiTV游戏风云高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/yxfyHD/__op/default/__f/index.m3u8
-求索纪录高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
-CHC高清电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
-CHC动作电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
-CHC家庭影院,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
-
 
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
@@ -1396,6 +1332,7 @@ CNBeatbox,http://epg.112114.xyz/douyu/5455515
 
 .解密周星驰,http://jiandjh.51vip.biz:35455/huya/
 
+阿斗归来了,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
 
 .阿斗归来了,http://aldirect.corp-hls.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1.m3u8??
 •小川看电影,http://aldirect.corp-hls.huya.com/src/94525224-2699462070-11594101307442462720-2966491422-10057-A-0-1.m3u8??
@@ -1894,8 +1831,38 @@ EDM ◆音乐,http://aldirect.corp-hls.huya.com/src/1099531753594-1099531753594-
 🐼咪咕TV,#genre#
 
 🐼百视通TV,#genre#
-	
+
+
 🎭综艺频道,#genre#
+
+完美的夏天,http://134.122.170.64/dl/bs.php?id=59
+极限挑战,http://134.122.170.64/dl/bs.php?id=27
+汤妈妈,http://134.122.170.64/dl/bs.php?id=213
+完美的夏天2,http://134.122.170.64/dl/bs.php?id=222
+王牌对王牌,http://134.122.170.64/dl/bs.php?id=193
+东方风云榜,http://134.122.170.64/dl/bs.php?id=146
+最好的舞台,http://134.122.170.64/dl/bs.php?id=128
+粤语好声音,http://134.122.170.64/dl/bs.php?id=229
+美好生活家,http://134.122.170.64/dl/bs.php?id=228
+金曲青春,http://134.122.170.64/dl/bs.php?id=96
+人气美食,http://134.122.170.64/dl/bs.php?id=144
+漫游记,http://134.122.170.64/dl/bs.php?id=218
+两个人的世界,http://134.122.170.64/dl/bs.php?id=124
+高能脱口秀,http://134.122.170.64/dl/bs.php?id=76
+也平凡,http://134.122.170.64/dl/bs.php?id=126
+奔跑吧兄弟,http://134.122.170.64/dl/bs.php?id=201
+童年国漫,http://134.122.170.64/dl/bs.php?id=37
+童年神剧,http://134.122.170.64/dl/bs.php?id=186
+城市真英雄,http://134.122.170.64/dl/bs.php?id=119
+荒野求生,http://134.122.170.64/dl/bs.php?id=226
+整容级妆教,http://134.122.170.64/dl/bs.php?id=216
+一路唱响,http://134.122.170.64/dl/bs.php?id=192
+天籁之战,http://134.122.170.64/dl/bs.php?id=156
+宅家瘦全身,http://134.122.170.64/dl/bs.php?id=40
+居家云打卡,http://134.122.170.64/dl/bs.php?id=120
+海派滑稽戏,,http://134.122.170.64/dl/bs.php?id=38
+领航,http://134.122.170.64/dl/bs.php?id=134
+带娃小妙招,http://134.122.170.64/dl/bs.php?id=52
 
 欢乐送,http://epg.112114.xyz/douyu/9273031
 欢乐集结号,http://epg.112114.xyz/douyu/9067836
