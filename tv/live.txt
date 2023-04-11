@@ -1626,10 +1626,14 @@ CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 魅力足球 8M,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
 
 
-🇨🇳丨音乐频道,#genre
+🇨🇳丨音乐频道,#genre#
 Say You,Say Me,https://vd2.bdstatic.com/mda-pd351m2fssxtneib/sc/cae_h264/1680581022312810007/mda-pd351m2fssxtneib.mp4?v_from_s=bdapp-unicomment-nanjing
-En attendant ses pas,https://vd2.bdstatic.com/mda-pd351m2fssxtneib/sc/cae_h264/1680581022312810007/mda-pd351m2fssxtneib.mp4?v_from_s=bdapp-unicomment-nanjing
-In The End,https://vd2.bdstatic.com/mda-pd351m2fssxtneib/sc/cae_h264/1680581022312810007/mda-pd351m2fssxtneib.mp4?v_from_s=bdapp-unicomment-nanjing
+Yesterday Once More,https://vd3.bdstatic.com/mda-pcg5d2d9r5wyukyk/sc/cae_h264/1679030360825247398/mda-pcg5d2d9r5wyukyk.mp4?v_from_s=bdapp-landingpage-api-nanjing
+Someone Like You,https://vd4.bdstatic.com/mda-pd1drei9zwtzmdxb/sc/cae_h264/1680430871341813058/mda-pd1drei9zwtzmdxb.mp4?v_from_s=bdapp-landingpage-api-nanjing
+卡萨布兰卡,https://vd2.bdstatic.com/mda-pckhjep7ibte14gx/sc/cae_h264/1679483466086569788/mda-pckhjep7ibte14gx.mp4?v_from_s=bdapp-landingpage-api-nanjing
+When You Believe,https://vd4.bdstatic.com/mda-pcnhfmxjz4igikun/sc/cae_h264/1679578154893889610/mda-pcnhfmxjz4igikun.mp4?v_from_s=bdapp-landingpage-api-nanjing
+My Love,https://vd4.bdstatic.com/mda-pcpdzwp62r2pft2q/720p/h264/1679651752204663263/mda-pcpdzwp62r2pft2q.mp4?v_from_s=bdapp-bdappcore-feed-nanjing
+Wings of Love,https://vd2.bdstatic.com/mda-pcnpp9tnzkrjbegq/sc/cae_h264/1681204028210519803/mda-pcnpp9tnzkrjbegq.mp4?v_from_s=bdapp-landingpage-api-nanjing
 
 01 Shawn Mendes Camila Cabello - Se orita 2019,	https://alist.52qy.repl.co/d/AliPan16/%E9%9F%B3%E4%B9%90/%E3%80%90%E6%97%A0%E6%8D%9F%E9%9F%B3%E4%B9%90MV%E5%90%88%E9%9B%86%E3%80%91/%E5%A5%BD%E5%90%AC%E5%A4%96%E8%AF%ADMV%EF%BC%882017-2019%EF%BC%89/01%20Shawn%20Mendes%20%20Camila%20Cabello%20-%20Se%20orita%202019.mp4
 02 Ruby - Toarna 2019,	https://alist.52qy.repl.co/d/AliPan16/%E9%9F%B3%E4%B9%90/%E3%80%90%E6%97%A0%E6%8D%9F%E9%9F%B3%E4%B9%90MV%E5%90%88%E9%9B%86%E3%80%91/%E5%A5%BD%E5%90%AC%E5%A4%96%E8%AF%ADMV%EF%BC%882017-2019%EF%BC%89/02%20Ruby%20-%20Toarna%20%202019.mp4
