@@ -121,7 +121,7 @@
   
   
 "sites":[
-{"key":"csp_AppMr","name":"👻明明┃App","type":3,"api":"csp_AppMr","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_77","name":"👒宝真影视A","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎宝真影视B","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"💘宝真影视C","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
