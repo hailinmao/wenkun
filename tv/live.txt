@@ -1691,6 +1691,7 @@ CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 
 
  🎵音乐频道,#genre#
+Ready For The Times To Get Better,https://vd2.bdstatic.com/mda-pd69ciw63rs9f87s/sc/cae_h264/1680850474673489697/mda-pd69ciw63rs9f87s.mp4?v_from_s=bdapp-landingpage-api-nanjing
 Say You,Say Me,https://vd2.bdstatic.com/mda-pd351m2fssxtneib/sc/cae_h264/1680581022312810007/mda-pd351m2fssxtneib.mp4?v_from_s=bdapp-unicomment-nanjing
 Yesterday Once More,https://vd3.bdstatic.com/mda-pcg5d2d9r5wyukyk/sc/cae_h264/1679030360825247398/mda-pcg5d2d9r5wyukyk.mp4?v_from_s=bdapp-landingpage-api-nanjing
 Someone Like You,https://vd4.bdstatic.com/mda-pd1drei9zwtzmdxb/sc/cae_h264/1680430871341813058/mda-pd1drei9zwtzmdxb.mp4?v_from_s=bdapp-landingpage-api-nanjing
