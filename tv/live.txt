@@ -4,6 +4,9 @@
 多屏1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+ChatGPT系统讲解,https://dghls.mcloud.139.com/hls/LN4ef38772cbc1bf320dd42765fe6b72a9/playlist.m3u8?ci=1811UaL6m35715520230413222333kew&fileSize=67580514
+AgentGPT,https://dghls.mcloud.139.com/hls/LMabe0d043ced951ac1ba83f8f2ffda71a/playlist.m3u8?ci=1811UaL6m35715820230413221515r5p&fileSize=4137657
+AutoGPT来了,https://dghls.mcloud.139.com/hls/LM846b56818280d80ebfb6944c164cc8a1/playlist.m3u8?ci=1811UaL6m35717820230413220154rht&fileSize=9464136
 你跟猪有区别吗,https://dghls.mcloud.139.com/hls/LLe88eb1aa3602c9ae04e39037d7d85c91/playlist.m3u8?ci=1811UaL6m35715720230409092349tx4&fileSize=6558844
 小A说周期,https://dghls.mcloud.139.com/hls/LQe7582ad671c66665235d7bb7b42d02e3/playlist.m3u8?ci=1811UaL6m35715420230408113622mzs&fileSize=140130913
 
@@ -1763,6 +1766,13 @@ Super Disco超级迪斯科,https://vd4.bdstatic.com/mda-pcg1fhs8mu2u6dsj/sc/cae_
 Sunshine in the Rain,https://vd3.bdstatic.com/mda-pc53s5rrk6vumw8v/sc/cae_h264/1678071264483311568/mda-pc53s5rrk6vumw8v.mp4?v_from_s=bdapp-resbox-nanjing
 The Message,https://vd2.bdstatic.com/mda-pcprjbm5yjbu6hey/720p/h264/1679682438980488846/mda-pcprjbm5yjbu6hey.mp4?v_from_s=bdapp-landingpage-api-nanjing
 All Out of Love,https://vd2.bdstatic.com/mda-pd0hgiebc1jk03jt/sc/cae_h264/1680353344791122925/mda-pd0hgiebc1jk03jt.mp4?v_from_s=bdapp-landingpage-api-nanjing
+You Don't Know Me,https://vd3.bdstatic.com/mda-pbg4wv4dr93zj3hn/sc/cae_h264/1676685689557732974/mda-pbg4wv4dr93zj3hn.mp4?v_from_s=bdapp-landingpage-api-nanjing
+Lover's Symphony,https://vd2.bdstatic.com/mda-pcg18h82am39d9fd/sc/cae_h264/1679036003460198048/mda-pcg18h82am39d9fd.mp4?v_from_s=bdapp-landingpage-api-nanjing
+Kirobbanó Energia爆炸的能量,https://vd2.bdstatic.com/mda-pd24cwhw7wn098i8/sc/cae_h264/1680492515499777286/mda-pd24cwhw7wn098i8.mp4?v_from_s=bdapp-landingpage-api-nanjing
+Tu vivi nell'aria,https://vd3.bdstatic.com/mda-pcnafwu25iz72g7b/sc/cae_h264/1679556740633316250/mda-pcnafwu25iz72g7b.mp4?v_from_s=bdapp-author-tide-nanjing
+You ll Be My Love,https://vd2.bdstatic.com/mda-pd7cc20xhkir6ywb/sc/cae_h264/1680943893221883167/mda-pd7cc20xhkir6ywb.mp4?v_from_s=bdapp-resbox-zan-nanjing
+everytime we touch,https://vd4.bdstatic.com/mda-pcwdstf473sn4s8f/sc/cae_h264/1680258448333466128/mda-pcwdstf473sn4s8f.mp4?v_from_s=bdapp-unicomment-nanjing
+I Will Never Let You Down,https://vd4.bdstatic.com/mda-pd55zn6up0p3af88/sc/cae_h264/1680761534949707423/mda-pd55zn6up0p3af88.mp4?v_from_s=bdapp-feedserver-nanjing
 
 🎤KTV 现代,#genre#
 赵雷成都,https://vd3.bdstatic.com/mda-pcj2mqdub2euthhx/sc/cae_h264/1679277707954445121/mda-pcj2mqdub2euthhx.mp4?v_from_s=bdapp-landingpage-api-nanjing
