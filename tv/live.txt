@@ -23,6 +23,7 @@ GPT进化插件,https://dghls.mcloud.139.com/hls/LAc9ad446cbf85e5f9c206822b7b060
 萌娃籼籼,https://dghls.mcloud.139.com/hls/LPc6e4af053edc65ed6977cef64cb6c611/playlist.m3u8?ci=1811UaL6m35715820230321112551n7j&fileSize=40788701
 东北萌娃,https://dghls.mcloud.139.com/hls/LP5253e334967dc5c7670fb563c51a122b/playlist.m3u8?ci=1811UaL6m357177202303211126559re&fileSize=22106831
 女生版太想念,https://dghls.mcloud.139.com/hls/LR52c5f31b851d9da7cf4b1981077e7faf/playlist.m3u8?ci=1811UaL6m35715420230321113802rlt&fileSize=24311894
+小石头不修,https://vd3.bdstatic.com/mda-pcefwsv47cztwjtz/sc/cae_h264/1678883601786113207/mda-pcefwsv47cztwjtz.mp4?v_from_s=bdapp-bdappcore-feed-nanjing
 小石头不修,https://dghls.mcloud.139.com/hls/LR8b0b824c6dc07bfcee813859dcfc8c61/playlist.m3u8?ci=1811UaL6m35715520230321113813fme&fileSize=90749280
 Jimmy Jimmy jimmy Aaja,https://dghls.mcloud.139.com/hls/L563bca26561579876924e00fa688dbe95/playlist.m3u8?ci=1811UaL6m35715720230321150631zpe&fileSize=10690567
 我是你的格桑花,https://dghls.mcloud.139.com/hls/L4ae417c1025621270c7b7cf55e12f0777/playlist.m3u8?ci=1811UaL6m35715420230321152443wlj&fileSize=34841110
@@ -1690,6 +1691,7 @@ Nice+徒手练腹,http://jiandjh.51vip.biz:35455/huya/18501107
 
  🎵音乐频道,#genre#
 
+Butterflies,https://vd4.bdstatic.com/mda-pdbihwmpb8b31jfj/sc/cae_h264/1681392049184029751/mda-pdbihwmpb8b31jfj.mp4?v_from_s=bdapp-landingpage-api-nanjing
 Dancing With Your Ghost,https://vd3.bdstatic.com/mda-pcika81ahc66za1n/sc/cae_h264/1679235914907908037/mda-pcika81ahc66za1n.mp4?v_from_s=bdapp-landingpage-api-nanjing
 everytime we touch,https://vd4.bdstatic.com/mda-pcwdstf473sn4s8f/sc/cae_h264/1680258448333466128/mda-pcwdstf473sn4s8f.mp4?v_from_s=bdapp-feedserver-nanjing
 Apologize,https://vd3.bdstatic.com/mda-pd01cw92p111645c/720p/h264/1680310865699322261/mda-pd01cw92p111645c.mp4?v_from_s=bdapp-author-nanjing
