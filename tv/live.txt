@@ -2,7 +2,7 @@
 🔨点播测试,#genre#
 	
 多屏1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+多屏2,https://store2.gofile.io/download/2f61785e-bb29-4963-b783-a83d712ac2cb/%E8%BF%99%E6%98%AF%E5%87%A0.mp4
 
 ChatGPT系统讲解,https://dghls.mcloud.139.com/hls/LN4ef38772cbc1bf320dd42765fe6b72a9/playlist.m3u8?ci=1811UaL6m35715520230413222333kew&fileSize=67580514
 AgentGPT,https://dghls.mcloud.139.com/hls/LMabe0d043ced951ac1ba83f8f2ffda71a/playlist.m3u8?ci=1811UaL6m35715820230413221515r5p&fileSize=4137657
