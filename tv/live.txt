@@ -1290,33 +1290,10 @@ CBN风尚生活,http://xjayrf.eatuo.com:9901/tsfile/live/1057_1.m3u8
 CBN每日影院,http://fyld.eatuo.com:9901/tsfile/live/1046_1.m3u8
 CBN幸福剧场,http://fyld.eatuo.com:9901/tsfile/live/1047_1.m3u8
 
-中国教育4台,http://[2409:8087:5011:1020::15]/180000001001/00000001000000001017000000440665/index.m3u8?IAS,
-IPTV古装剧场,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000010/main.m3u8?IAS,
-IPTV家庭剧场,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000011/main.m3u8?IAS,
-IPTV芒果互娱,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001025000000196970/main.m3u8?IAS,
-IPTV芒果热剧,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001026000000099232/main.m3u8?IAS,
-湖南经视,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000027983/main.m3u8?IAS,
-CGTNDOCUMENTARY,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IAS,
-湖南电视剧,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000037/main.m3u8?IAS,
-湖南电影,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000038/main.m3u8?IAS,
-金鹰卡通,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000039/main.m3u8?IAS,
-湖南娱乐,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000040/main.m3u8?IAS,
-湖南都市,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000041/main.m3u8?IAS,
-湖南公共,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000044/main.m3u8?IAS,
-湖南卫视国际,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000045/main.m3u8?IAS,
-IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000292438/main.m3u8?IAS,
-湖南教育,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001016000000368716/main.m3u8?IAS,
-IPTV芒果好看,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001026000000099174/main.m3u8?IAS,
-IPTV抗战剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000007/main.m3u8?IAS,
-IPTV高清院线,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000009/main.m3u8?IAS,
-IPTV经典剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000012/main.m3u8?IAS,
-陕西卫视,http://[2409:8087:5011:1020::2b]/180000001002/00000001000000000090000000215607/main.m3u8?IAS,
-卡酷少儿,http://[2409:8087:5011:1020::2b]/180000001002/00000001000000000090000000215608/main.m3u8?IAS,
-青海卫视,http://[2409:8087:5011:1020::2b]/180000001002/00000001000000000090000000215609/main.m3u8?IAS,
 
 		
 
-🅱️百视通TV,#genre
+🅱️百视通TV,#genre#
 CCTV1 8M,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2 8M,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 CCTV3 8M,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
@@ -5666,7 +5643,7 @@ Y📺云南频道,
 广东珠江,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
 广西桂林象鼻山,https://gccncc.v.wscdns.com/gc/ztn_1/index.m3u8?contentid=2820180516001
 贵州安顺黄果树瀑布,http://gctxyc.liveplay.myqcloud.com/gc/nxspthhpl_1_md.m3u8
-贵州黔西南小镇,https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8?contentid=2820180516001
+山东济南大明湖,https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8?contentid=2820180516001
 贵州十里画廊,http://gcbsc.v.live.baishancdnx.cn/gc/wysyxdhp_1/index.m3u8
 河南焦作红石峡,http://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
 黑龙江黑河自贸区,https://gccncc.v.wscdns.com/gc/hsmbsh_1/index.m3u8?contentid=2820180516001
@@ -5709,9 +5686,9 @@ Y📺云南频道,
 青海海北仙女湾,https://gccncc.v.wscdns.com/gc/yxhcyz_1/index.m3u8?contentid=282018051600
 青海门源仙米国家森林公园,https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-山东城市风光,http://gctxyc.liveplay.myqcloud.com/gc/xysrf_1_md.m3u8
+城市风光,http://gctxyc.liveplay.myqcloud.com/gc/xysrf_1_md.m3u8
 山东东营鸣翠湖,http://gcbsc.v.live.baishancdnx.cn/gc/dlst01_1/index.m3u8
-山东东营清风湖,http://gctxyc.liveplay.myqcloud.com/gc/sgns02_1_md.m3u8
+福建福州码头,http://gctxyc.liveplay.myqcloud.com/gc/sgns02_1_md.m3u8
 山东菏泽牡丹园,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
 山东菏泽赵王河,http://gcksc.v.kcdnvip.com/gc/hlwxt_1/index.m3u8
 山东济南奥体中心,https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
