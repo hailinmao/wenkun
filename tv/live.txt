@@ -512,6 +512,23 @@ CCTV16,http://113.207.84.197:8090/__cl/cg:live/__c/cctv16HD/__op/default/__f/ind
 CCTV17,http://113.207.84.197:8090/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
 CCTV5+,http://113.207.84.197:8090/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
 
+CCTV1,http://jycb.f3322.net:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://jycb.f3322.net:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://jycb.f3322.net:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://jycb.f3322.net:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://jycb.f3322.net:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://jycb.f3322.net:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://jycb.f3322.net:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://jycb.f3322.net:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://jycb.f3322.net:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://jycb.f3322.net:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://jycb.f3322.net:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://jycb.f3322.net:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://jycb.f3322.net:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://jycb.f3322.net:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 CCTV风云剧场,http://113.207.84.197:8090/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
 CCTV风云音乐,http://113.207.84.197:8090/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
 CCTV风云足球,http://113.207.84.197:8090/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
@@ -733,6 +750,18 @@ CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
 浙江卫视,http://222.71.90.218:8888/newlive/live/hls/20/live.m3u8
 重庆卫视,http://222.71.90.218:8888/newlive/live/hls/34/live.m3u8
 黑龙江卫视,http://222.71.90.218:8888/newlive/live/hls/25/live.m3u8
+
+安徽卫视,http://jycb.f3322.net:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://jycb.f3322.net:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://jycb.f3322.net:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://jycb.f3322.net:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://jycb.f3322.net:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://jycb.f3322.net:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://jycb.f3322.net:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://jycb.f3322.net:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://jycb.f3322.net:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://jycb.f3322.net:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://jycb.f3322.net:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 
 深圳卫视,http://113.207.84.197:8090/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
 湖南卫视,http://113.207.84.197:8090/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
