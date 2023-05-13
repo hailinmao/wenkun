@@ -800,8 +800,8 @@ CCTV5+,http://39.135.138.59:18890/TVOD/88888910/224/3221225706/index.m3u8
 CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225706/index.m3u8
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8
 CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-CNC新华英文,http://39.135.138.58:18890/PLTV/88888888/224/3221225693/index.m3u8
-CNC新华英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
+CNC英文,http://39.135.138.58:18890/PLTV/88888888/224/3221225693/index.m3u8
+CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 
 CCTV风云足球,http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
 CCTV风云音乐,http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
@@ -850,8 +850,8 @@ CCTV15,http://jycb.f3322.net:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&au
 CCTV17,http://jycb.f3322.net:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
-CNC新闻中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-CNC新闻英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8$超清1080P
 
