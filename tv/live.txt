@@ -460,7 +460,7 @@ TVBS,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
 🇨🇳󠁧󠁢󠁥󠁮央视频道,#genre#
 
-CCTV-1 高清,http://113.207.84.197:8090/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+CCTV-1,http://113.207.84.197:8090/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV-2,http://113.207.84.197:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
 CCTV-3,http://113.207.84.197:8090/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
 CCTV-4,http://113.207.84.197:8090/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
@@ -536,15 +536,12 @@ CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/i
 CNC新闻中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC新闻英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
-CCTV1,http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
 CCTV1,http://1.195.111.251:11190/tsfile/live/0001_1.m3u8
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
-
 CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
 
 CCTV2,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
 CCTV2,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8
-
 CCTV2,http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
 CCTV2,http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8$超清1080P
 CCTV2,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8$超清1080P
