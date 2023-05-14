@@ -205,19 +205,7 @@ CCTV-2,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8
 🌴港澳台湾,#genre#
 
 
-凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
-凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
-凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
-卫视中文台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941624&extension=ts&play_token=xmfFOBilCP
-卫视电影台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&extension=ts&play_token=UX6nxpu1TT
-东森美洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156397&extension=ts&play_token=2fQZ7EF20L
-东森卫视,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156394&extension=ts&play_token=UEKTIim7lP
-TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF
-TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA
-HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571204&extension=ts&play_token=TQWwwF8fB9
-HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941648&extension=ts&play_token=U9qP9sjHUP
-HBO2,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56105&extension=ts&play_token=TYYmi0O3a2
-HBO3,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56104&extension=ts&play_token=HqqAESBfCa
+
 
 凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
@@ -312,6 +300,19 @@ Star Movies,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=15
 时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 国家地理野生,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
+凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
+凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
+凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+卫视中文台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941624&extension=ts&play_token=xmfFOBilCP
+卫视电影台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&extension=ts&play_token=UX6nxpu1TT
+东森美洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156397&extension=ts&play_token=2fQZ7EF20L
+东森卫视,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156394&extension=ts&play_token=UEKTIim7lP
+TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF
+TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA
+HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571204&extension=ts&play_token=TQWwwF8fB9
+HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941648&extension=ts&play_token=U9qP9sjHUP
+HBO2,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56105&extension=ts&play_token=TYYmi0O3a2
+HBO3,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56104&extension=ts&play_token=HqqAESBfCa
 
 凤凰卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
