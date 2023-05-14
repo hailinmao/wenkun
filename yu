@@ -122,41 +122,41 @@
   
 "sites":[
 
-{"key":"csp_77","name":"👒宝真影视A","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_LiteApple","name":"🍎宝真影视B","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SP360","name":"💘宝真影视C","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Kuaikan","name":"👀宝真影视D","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_Bttoo","name":"✌宝真影视F","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"👒于氏影业A","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_LiteApple","name":"🍎于氏影业B","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SP360","name":"💘于氏影业C","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kuaikan","name":"👀于氏影业D","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Bttoo","name":"✌于氏影业F","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Lezhu","name":"🐷宝真影视G","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_fant","name":"🍙宝真影视H","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_Ddrk","name":"⤵宝真影视J","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Lezhu","name":"🐷于氏影业G","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_fant","name":"🍙于氏影业H","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_Ddrk","name":"⤵于氏影业J","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Tkys","name":"⛅宝真影视K","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Tkys","name":"⛅于氏影业K","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Czsapp","name":"🏭宝真影视L","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Nkdy","name":"🏸宝真影视M","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ysgc","name":"🎥宝真影视N","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Dy1010","name":"🔟宝真影视O","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Xinsj","name":"✨宝真影视P","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_BuLei","name":"⚡宝真影视Q","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Czsapp","name":"🏭于氏影业L","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Nkdy","name":"🏸于氏影业M","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ysgc","name":"🎥于氏影业N","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Dy1010","name":"🔟于氏影业O","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Xinsj","name":"✨于氏影业P","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_BuLei","name":"⚡于氏影业Q","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Cokemv","name":"🚗宝真影视R","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Voflix","name":"🌀宝真影视S","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Lib","name":"🔷宝真影视T","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Auete","name":"🐼宝真影视U","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Lgyy","name":"💧宝真影视V","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Juhuang","name":"👿宝真影视W","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Bd","name":"💥宝真影视X","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Cokemv","name":"🚗于氏影业R","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Voflix","name":"🌀于氏影业S","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Lib","name":"🔷于氏影业T","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Auete","name":"🐼于氏影业U","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Lgyy","name":"💧于氏影业V","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Juhuang","name":"👿于氏影业W","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bd","name":"💥于氏影业X","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
-//{"key":"世界杯","name":"🏌️‍♀️宝真影视Y","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"ts.jar"},
-//{"key":"利奥影院","name":"🍪宝真影视Z","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"01/%E5%88%A9%E5%A5%A5%E5%BD%B1%E9%99%A2.json"},
+//{"key":"世界杯","name":"🏌️‍♀️于氏影业Y","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"ts.jar"},
+//{"key":"利奥影院","name":"🍪于氏影业Z","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"01/%E5%88%A9%E5%A5%A5%E5%BD%B1%E9%99%A2.json"},
 
 {"key":"py_bilimd","name":"🚣B站(解析)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_bilimd.py"},
 {"key":"csp_IQIYI","name":"�IQIYI(解析)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"🐥企鹅(解析)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"🍋芒果(解析)","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Yj1211","name":"🎙️宝真直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Yj1211","name":"🎙️于氏直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
 //{"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Xiaoh","name":"Xiaoh(墙外)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
@@ -165,7 +165,7 @@
 
 {"key":"py_cctv","name":"❤️央视栏目","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_cctv.py"},
 
-//{"key":"csp_xpath_音范丝磁力","name":"🐛宝真影视4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"01/音范丝磁力.json","jar":"ali.jpg;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
+//{"key":"csp_xpath_音范丝磁力","name":"🐛于氏影业4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"01/音范丝磁力.json","jar":"ali.jpg;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
 
 {"key":"dr_豆瓣","name":"🤺豆瓣荐片","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
 
