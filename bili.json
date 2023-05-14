@@ -24,6 +24,7 @@
 {"key": "csp_Bili综艺","name": "哔哩┃综艺节目","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/bili综艺.json"},
 
 {"key": "csp_教程","name": "哔哩┃程序教程","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/教程.json"},
+{"key": "csp_医学","name": "哔哩┃医学健康","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/医学.json"},
 {"key": "csp_学堂","name": "哔哩┃学堂教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/学堂.json"},
 {"key": "csp_美食","name": "哔哩┃各类美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/美食.json"},
 //{"key": "csp_课堂","name": "哔哩┃教育课堂","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/教育.json"},
