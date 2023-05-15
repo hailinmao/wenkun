@@ -6089,7 +6089,7 @@ Istralandia livecam – Six water slide square,https://cdn-004.whatsupcams.com/h
 Webcam Sutivan – Brač island,https://cdn-002.whatsupcams.com/hls/hr_sutivan01.m3u8
 Durrës Live cam,https://hd-auth.skylinewebcams.com/live.m3u8?a=7365tb4lnrtq119om27nq30f23
 Sandy Springs,https://frn.rtsp.me/fiGkiw6xfXfrYc3-WNr5TQ/1684141721/hls/SKb2STra.m3u8?ip=123.233.30.21
-Sandy Springs airport,https://s82.ipcamlive.com/streams/52deujrpy9yxaqdna/stream.m3u8
+Atlanta Airport,https://s82.ipcamlive.com/streams/52deujrpy9yxaqdna/stream.m3u8
 Sandy Springs4,,https://s1.worldcam.live:8082/rabien/index.m3u8
 WSFA Weather Camera,https://s80.ipcamlive.com/streams/50bgqnti4eowsoex5/stream.m3u8
 Sandy Springs5,https://e1-na3.angelcam.com/cameras/105796/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiIxMDU3OTYiLCJkZXZpY2VfaWQiOiIxMDU3OTYiLCJ0aW1lIjoxNjg0MTM5MDA5ODgzMjE1LCJ0aW1lb3V0IjozNjAwfQ%3D%3D%2E324b6a254c7c3eadb2c038e46e591e1eccb14e356b1cfc40ae03dff1ae5c1141
@@ -6102,7 +6102,7 @@ Djakovo livecam – Korzo,https://s4.ipcamlive.com/streams/04m9dgeg1f0jq3l48/str
 Cape Canaveral - Cape Marina,https://wms-prod-3.wetmet.net/live/283-01-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDIzIDg6NDg6MzUgQU0maGFzaF92YWx1ZT1pMGlWZTRNTXVGd3pjQWpBdURCTlpnPT0mdmFsaWRtaW51dGVzPTMw
 Cape Canaveral - Port Canaveral,https://wms-prod-3.wetmet.net/live/283-01-01/chunks.m3u8?nimblesessionid=9031469&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDIzIDg6NDg6MzUgQU0maGFzaF92YWx1ZT1pMGlWZTRNTXVGd3pjQWpBdURCTlpnPT0mdmFsaWRtaW51dGVzPTMw
 I-85 in Dekalb County,https://s9.ipcamlive.com/streams/09vlgq0mbvtj4of75/stream.m3u8
-Atlanta Airport,https://wms-prod-1.wetmet.net/live/73-08-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDIzIDg6NTY6NDIgQU0maGFzaF92YWx1ZT1jR24zRm1DTmQ0NmFoQy94Z2lLMnZ3PT0mdmFsaWRtaW51dGVzPTMw
+Steak House,https://itl.rtsp.me/jJgrogVAGc-52oA7Zwbutg/1684147246/hls/nEdyyRZD.m3u8?ip=123.233.30.21
 Sandy Springs2,https://s22.ipcamlive.com/streams/16nciekermbjn05po/stream.m3u8
 
 🏯亚洲日韩,#genre#
