@@ -6099,7 +6099,7 @@ The Next Best Thing to Visiting2,https://56cf3370d8dd3.streamlock.net:1935/live/
 seacolony,https://e1-na3.angelcam.com/cameras/65391/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI2NTM5MSIsImRldmljZV9pZCI6IjY1MzkxIiwidGltZSI6MTY4NDEzOTg4OTI4Mjg5MSwidGltZW91dCI6MzYwMH0%3D%2E02d54add9884f1dc561faae3acb7ac97e518f15fb49b7c7d0c9b69bddcbe5b9a
 Webcam Kovacine,https://s14.ipcamlive.com/streams/0eu9svcskntfxq2m0/stream.m3u8
 Djakovo livecam – Korzo,https://s4.ipcamlive.com/streams/04m9dgeg1f0jq3l48/stream.m3u8
-上田城跡公園,https://ucv.co.jp/video/202304/mm0410-5.mp4
+上田城跡公園,https://hd-auth.skylinewebcams.com/live.m3u8?a=7365tb4lnrtq119om27nq30f23#https://ucv.co.jp/video/202304/mm0410-5.mp4
 Cape Canaveral - Port Canaveral,https://wms-prod-3.wetmet.net/live/283-01-01/chunks.m3u8?nimblesessionid=9031469&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDIzIDg6NDg6MzUgQU0maGFzaF92YWx1ZT1pMGlWZTRNTXVGd3pjQWpBdURCTlpnPT0mdmFsaWRtaW51dGVzPTMw
 I-85 in Dekalb County,https://s9.ipcamlive.com/streams/09vlgq0mbvtj4of75/stream.m3u8
 Steak House,https://itl.rtsp.me/jJgrogVAGc-52oA7Zwbutg/1684147246/hls/nEdyyRZD.m3u8?ip=123.233.30.21
