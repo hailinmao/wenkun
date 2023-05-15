@@ -6087,12 +6087,14 @@ Y📺云南频道,
 🏯直播世界,#genre#
 纽约城市天际线,https://frn.rtsp.me/fiGkiw6xfXfrYc3-WNr5TQ/1684141721/hls/SKb2STra.m3u8?ip=123.233.30.21
 纽约-第42街麦迪逊大街,https://s82.ipcamlive.com/streams/52deujrpy9yxaqdna/stream.m3u8
-米兰大教堂,https://hd-auth.skylinewebcams.com/live.m3u8?a=7365tb4lnrtq119om27nq30f23
 罗马竞技场,https://s1.worldcam.live:8082/rabien/index.m3u8
 WSFA Weather Camera,https://s80.ipcamlive.com/streams/50bgqnti4eowsoex5/stream.m3u8
-威尼斯-圣马可广场,http://piercam.cofairhope.com/
 罗马-特莱维喷泉,https://e1-na3.angelcam.com/cameras/105796/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiIxMDU3OTYiLCJkZXZpY2VfaWQiOiIxMDU3OTYiLCJ0aW1lIjoxNjg0MTM5MDA5ODgzMjE1LCJ0aW1lb3V0IjozNjAwfQ%3D%3D%2E324b6a254c7c3eadb2c038e46e591e1eccb14e356b1cfc40ae03dff1ae5c1141
-Live Stream from RHADC, Bermuda,https://s90.ipcamlive.com/streams/5avekhytgfieum4qj/stream.m3u8
+Live Stream from RHADC Bermuda,https://s90.ipcamlive.com/streams/5avekhytgfieum4qj/stream.m3u8
+The Next Best Thing to Visiting,https://56cf3370d8dd3.streamlock.net:1935/live/knotts1.stream/playlist.m3u8
+The Next Best Thing to Visiting2,https://56cf3370d8dd3.streamlock.net:1935/live/knotts2.stream/playlist.m3u8
+seacolony,https://e1-na3.angelcam.com/cameras/65391/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI2NTM5MSIsImRldmljZV9pZCI6IjY1MzkxIiwidGltZSI6MTY4NDEzOTg4OTI4Mjg5MSwidGltZW91dCI6MzYwMH0%3D%2E02d54add9884f1dc561faae3acb7ac97e518f15fb49b7c7d0c9b69bddcbe5b9a
+
 
 🏯亚洲日韩,#genre#
 日本 Tokyo MX1 [Not 24-7,https://movie.mcas.jp/mcas/mx1_2/master.m3u8
