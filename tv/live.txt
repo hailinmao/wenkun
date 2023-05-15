@@ -6085,10 +6085,10 @@ Y📺云南频道,
 
 
 🏯直播世界,#genre#
-纽约城市天际线,https://hd-auth.skylinewebcams.com/live.m3u8?a=pd0rnlrn3iv01um229vn70nab4
-纽约-第42街麦迪逊大街,https://hd-auth.skylinewebcams.com/live.m3u8?a=pd0rnlrn3iv01um229vn70nab4
-米兰大教堂,https://hd-auth.skylinewebcams.com/live.m3u8?a=pd0rnlrn3iv01um229vn70nab4
-罗马竞技场,https://hd-auth.skylinewebcams.com/live.m3u8?a=pd0rnlrn3iv01um229vn70nab4
+纽约城市天际线,https://frn.rtsp.me/fiGkiw6xfXfrYc3-WNr5TQ/1684141721/hls/SKb2STra.m3u8?ip=123.233.30.21
+纽约-第42街麦迪逊大街,https://s82.ipcamlive.com/streams/52deujrpy9yxaqdna/stream.m3u8
+米兰大教堂,https://hd-auth.skylinewebcams.com/live.m3u8?a=7365tb4lnrtq119om27nq30f23
+罗马竞技场,https://s1.worldcam.live:8082/rabien/index.m3u8
 威尼斯-里亚托桥,https://hd-auth.skylinewebcams.com/live.m3u8?a=pd0rnlrn3iv01um229vn70nab4
 威尼斯-圣马可广场,https://hd-auth.skylinewebcams.com/live.m3u8?a=pd0rnlrn3iv01um229vn70nab4
 罗马-特莱维喷泉,https://hd-auth.skylinewebcams.com/live.m3u8?a=pd0rnlrn3iv01um229vn70nab4
