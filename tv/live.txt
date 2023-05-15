@@ -6085,11 +6085,18 @@ Y📺云南频道,
 
 
 🏯直播世界,#genre#
+Canberra Airport (澳大利亚堪培拉机场),https://s82.ipcamlive.com/streams/52deujrpy9yxaqdna/stream.m3u8
+CYC Lake Burley Griffin WebCams (澳大利亚游艇俱乐部),https://s35.ipcamlive.com/streams/23fp9yfuz7jb61hrb/stream.m3u8
+Canberra live stream (澳大利亚伯利湖),https://s35.ipcamlive.com/streams/23aiswn5hnr1qlsud/stream.m3u8
+Mo'orea - Aremiti (澳大利亚莫奥雷亚),https://s35.ipcamlive.com/streams/23crwd6k5v3ojyzin/stream.m3u8
+Malolo Lailai - Plantation Island (澳大利亚斐济梦之岛),https://s90.ipcamlive.com/streams/5aoliknwfel26gevy/stream.m3u8
+
+Auch - Saint Mary's Cathedral (法国圣玛丽大教堂),https://deliverys4.joada.net/contents/encodings/vod/5d42bc9c-fcbf-48e4-3439-3530-6d61-63-9f5a-15241fb7bef7d/master.m3u8
+
 Istralandia livecam – Six water slide square,https://cdn-004.whatsupcams.com/hls/hr_istralandia02.m3u8
 Webcam Sutivan – Brač island,https://cdn-002.whatsupcams.com/hls/hr_sutivan01.m3u8
 Durrës Live cam,https://hd-auth.skylinewebcams.com/live.m3u8?a=7365tb4lnrtq119om27nq30f23
 Sandy Springs,https://frn.rtsp.me/fiGkiw6xfXfrYc3-WNr5TQ/1684141721/hls/SKb2STra.m3u8?ip=123.233.30.21
-Atlanta Airport,https://s82.ipcamlive.com/streams/52deujrpy9yxaqdna/stream.m3u8
 Sandy Springs4,,https://s1.worldcam.live:8082/rabien/index.m3u8
 WSFA Weather Camera,https://s80.ipcamlive.com/streams/50bgqnti4eowsoex5/stream.m3u8
 Sandy Springs5,https://e1-na3.angelcam.com/cameras/105796/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiIxMDU3OTYiLCJkZXZpY2VfaWQiOiIxMDU3OTYiLCJ0aW1lIjoxNjg0MTM5MDA5ODgzMjE1LCJ0aW1lb3V0IjozNjAwfQ%3D%3D%2E324b6a254c7c3eadb2c038e46e591e1eccb14e356b1cfc40ae03dff1ae5c1141
