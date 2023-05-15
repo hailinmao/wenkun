@@ -6089,9 +6089,10 @@ Y📺云南频道,
 纽约-第42街麦迪逊大街,https://s82.ipcamlive.com/streams/52deujrpy9yxaqdna/stream.m3u8
 米兰大教堂,https://hd-auth.skylinewebcams.com/live.m3u8?a=7365tb4lnrtq119om27nq30f23
 罗马竞技场,https://s1.worldcam.live:8082/rabien/index.m3u8
-威尼斯-里亚托桥,https://hd-auth.skylinewebcams.com/live.m3u8?a=pd0rnlrn3iv01um229vn70nab4
-威尼斯-圣马可广场,https://hd-auth.skylinewebcams.com/live.m3u8?a=pd0rnlrn3iv01um229vn70nab4
-罗马-特莱维喷泉,https://hd-auth.skylinewebcams.com/live.m3u8?a=pd0rnlrn3iv01um229vn70nab4
+WSFA Weather Camera,https://s80.ipcamlive.com/streams/50bgqnti4eowsoex5/stream.m3u8
+威尼斯-圣马可广场,http://piercam.cofairhope.com/
+罗马-特莱维喷泉,https://e1-na3.angelcam.com/cameras/105796/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiIxMDU3OTYiLCJkZXZpY2VfaWQiOiIxMDU3OTYiLCJ0aW1lIjoxNjg0MTM5MDA5ODgzMjE1LCJ0aW1lb3V0IjozNjAwfQ%3D%3D%2E324b6a254c7c3eadb2c038e46e591e1eccb14e356b1cfc40ae03dff1ae5c1141
+Live Stream from RHADC, Bermuda,https://s90.ipcamlive.com/streams/5avekhytgfieum4qj/stream.m3u8
 
 🏯亚洲日韩,#genre#
 日本 Tokyo MX1 [Not 24-7,https://movie.mcas.jp/mcas/mx1_2/master.m3u8
