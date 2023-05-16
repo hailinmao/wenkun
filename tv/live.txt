@@ -6102,6 +6102,12 @@ Y📺云南频道,
 新西兰汤加里罗河Turangi - The Tongariro River,https://e1-na3.angelcam.com/cameras/8101/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI4MTAxIiwiZGV2aWNlX2lkIjoiODEwMSIsInRpbWUiOjE2ODQyMDg5MzgyMzU1MzgsInRpbWVvdXQiOjM2MDB9%2E891fa03b1a272cf5d10c65fc5b7776999cabb4d8084fca01720035d0f1f05e89
 新西兰法卡塔尼港口 Whakatane - Harbour,https://e1-na3.angelcam.com/cameras/2673/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiIyNjczIiwiZGV2aWNlX2lkIjoiMjY3MyIsInRpbWUiOjE2ODQyMDkxMTg2ODU5NTksInRpbWVvdXQiOjM2MDB9%2E59a5aa406a1928840e502a79ca85f977a5549ae49dc83519155f7551ab3137d3
 
+澳大利亚悉尼邦迪海滩Bondi Beach,https://cams.cdn-surfline.com/cdn-au/au-midbondi/playlist.m3u8
+澳大利亚悉尼万达海滩Sutherland - Cronulla - Wanda Beach1https://cams.cdn-surfline.com/cdn-au/au-cronulla/playlist.m3u8
+澳大利亚悉尼万达海滩Sutherland - Cronulla - Wanda Beach2https://cams.cdn-surfline.com/cdn-au/au-cronullawanda/playlist.m3u8
+澳大利亚悉尼万达海滩Sutherland - Cronulla - Wanda Beach3https://cams.cdn-surfline.com/cdn-au/au-sharkisland/playlist.m3u8
+
+
 英国伦敦桑德里奇公园高尔夫俱乐部London - Bromley - Sundridge Park,https://camsecure.uk/HLS/sundridgegolf.m3u8
 英国伦敦菲尔奥克斯机场London - Chobham - Fairoaks Airport,https://camsecure.co/HLS/ltfc.m3u8
 英国伦敦肯萨尔格林London - Kensal Green,https://itl.rtsp.me/znr5yDqtLxJR5xrQctK7IA/1684199920/hls/GKt5FFRh.m3u8?
