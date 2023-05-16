@@ -6087,7 +6087,7 @@ Y📺云南频道,
 🏯直播世界,#genre#
 
 英国伦敦桑德里奇公园高尔夫俱乐部London - Bromley - Sundridge Park,https://camsecure.uk/HLS/sundridgegolf.m3u8
-英国伦敦乔治五世国王水库London - Chingford - King George,https://itl.rtsp.me/aBh7jphCf_cIl38k2earTA/1684199179/hls/i6AfnRaf.m3u8
+英国伦敦菲尔奥克斯机场London - Chobham - Fairoaks Airport,https://camsecure.co/HLS/ltfc.m3u8
 
 
 英国Acle ibc cam1,https://s100.ipcamlive.com/streams/64oigksdhtzrfil0r/stream.m3u8
