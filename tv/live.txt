@@ -7,6 +7,7 @@
 多屏4,http://111.20.40.160/PLTV/88888893/224/3221226337/index.m3u8
 多屏5,http://111.20.40.160/PLTV/88888893/224/3221226338/index.m3u8
 
+GPT4开放联网插件了,https://dghls.mcloud.139.com/hls/L4c7ddd507bd66e5de68b548bbf8735ee0/playlist.m3u8?ci=1811UaL6m35715720230517064754dhp&fileSize=15439826
 GOOGLO AI 新版20230512,https://dghls.mcloud.139.com/hls/L5ed62f6857513e2f2a6919569682ffaf3/playlist.m3u8?ci=1811UaL6m35717820230512061614qcr&fileSize=6328650
 GOOGLO新nerf地图,https://dghls.mcloud.139.com/hls/L549b6cac86e83d3578b08fe4128b8f473/playlist.m3u8?ci=1811UaL6m35715520230512061734wbp&fileSize=24192294
 读心术,https://dghls.mcloud.139.com/hls/LI0a3a6ed67d3a3356a37d3915c565f454/playlist.m3u8?ci=1811UaL6m35715720230508123331ry0&fileSize=15295021
