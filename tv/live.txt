@@ -6086,6 +6086,22 @@ Y📺云南频道,
 
 🏯直播世界,#genre#
 
+新西兰陶波湖Taupo - Lake Taupō,https://sn.rtsp.me/PqUaGbnrsafZps9ZvV54gg/1684212343/hls/3tQ63R2t.m3u8#https://sn.rtsp.me/Dim6ncea-q0CUzQEGYHBDg/1684212400/hls/3tQ63R2t.m3u8?
+新西兰森考特酒店Taupō - Suncourt Hotel,https://s40.ipcamlive.com/streams/287opbilxsdn2la01/stream.m3u8
+新西兰莱文牛津街Levin - Oxford Street,https://s82.ipcamlive.com/streams/525syyko1kmzvhpqr/stream.m3u8#https://s51.ipcamlive.com/streams/33qfrlday4y6tgpbs/stream.m3u8
+新西兰金海湾塔拉科赫Golden Bay - Port Tarakohe,https://s82.ipcamlive.com/streams/522x9dlywjxrncigm/stream.m3u8
+新西兰奥克兰伊甸园球场Auckland Eden Park Stadium,https://stream.edenpark.co.nz/hls/turfcam.m3u8
+新西兰基督城萨姆纳2,https://5ddd47d64e730.streamlock.net:444/nzsurfcam2/nzsurfcam2.stream/playlist.m3u8
+新西兰基督城萨姆纳1,https://5ddd47d64e730.streamlock.net:444/nzsurfcam1/nzsurfcam1.stream/playlist.m3u8
+新西兰但尼丁圣克莱尔海滩,https://e1-na3.angelcam.com/cameras/88477/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI4ODQ3NyIsImRldmljZV9pZCI6Ijg4NDc3IiwidGltZSI6MTY4NDIwNzc5MTk1MTc2OCwidGltZW91dCI6MzYwMH0%3D%2E4c74a48a216f58c315b25429acbec4dfc19822a3942ec2181329039c452fc80c#
+新西兰塔塔波里钓鱼俱乐部Gisborne - Tatapouri Fishing Club,https://s38.ipcamlive.com/streams/26kcekq6aplcm4wnz/stream.m3u8
+新西兰卡瓦卡瓦泰晤士湾Kawakawa - Firth of Thames,https://e1-na7.angelcam.com/cameras/24405/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiIyNDQwNSIsImRldmljZV9pZCI6IjI0NDA1IiwidGltZSI6MTY4NDIwODIxNDgwMTI0MiwidGltZW91dCI6MzYwMH0%3D%2E016045da183d1cf3b33b1f44e6a1c583db50e1f246cc032d104cb5763791fee1
+新西兰新普利茅斯New Plymouth - Marina1,https://e1-na3.angelcam.com/cameras/9746/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI5NzQ2IiwiZGV2aWNlX2lkIjoiOTc0NiIsInRpbWUiOjE2ODQyMDg0MjY1NDkwODgsInRpbWVvdXQiOjM2MDB9%2E33a87d26b2b8212b9ab51f8d3f8c956ac043b5550eb403fe39dcb42330477681
+新西兰新普利茅斯New Plymouth - Marina2,https://e1-na3.angelcam.com/cameras/9745/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI5NzQ1IiwiZGV2aWNlX2lkIjoiOTc0NSIsInRpbWUiOjE2ODQyMDg0MjY1MTUzNzcsInRpbWVvdXQiOjM2MDB9%2Ec8948bcad9b2e904ee5fc69d6c204a640a0ad174e24ab4a635d4e9d9b80235f7
+新西兰新普利茅斯New Plymouth - Marina3,https://e1-na3.angelcam.com/cameras/9746/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI5NzQ2IiwiZGV2aWNlX2lkIjoiOTc0NiIsInRpbWUiOjE2ODQyMDg1NTEyMjc2NjgsInRpbWVvdXQiOjM2MDB9%2E7eff05df3c23a01217ad722ca9c1cd0f6cb94d6739295f1b3757672907892ecf
+新西兰汤加里罗河Turangi - The Tongariro River,https://e1-na3.angelcam.com/cameras/8101/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI4MTAxIiwiZGV2aWNlX2lkIjoiODEwMSIsInRpbWUiOjE2ODQyMDg5MzgyMzU1MzgsInRpbWVvdXQiOjM2MDB9%2E891fa03b1a272cf5d10c65fc5b7776999cabb4d8084fca01720035d0f1f05e89
+新西兰法卡塔尼港口 Whakatane - Harbour,https://e1-na3.angelcam.com/cameras/2673/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiIyNjczIiwiZGV2aWNlX2lkIjoiMjY3MyIsInRpbWUiOjE2ODQyMDkxMTg2ODU5NTksInRpbWVvdXQiOjM2MDB9%2E59a5aa406a1928840e502a79ca85f977a5549ae49dc83519155f7551ab3137d3
+
 英国伦敦桑德里奇公园高尔夫俱乐部London - Bromley - Sundridge Park,https://camsecure.uk/HLS/sundridgegolf.m3u8
 英国伦敦菲尔奥克斯机场London - Chobham - Fairoaks Airport,https://camsecure.co/HLS/ltfc.m3u8
 英国伦敦肯萨尔格林London - Kensal Green,https://itl.rtsp.me/znr5yDqtLxJR5xrQctK7IA/1684199920/hls/GKt5FFRh.m3u8?
@@ -6138,11 +6154,13 @@ Y📺云南频道,
 美国西雅图国会山Seattle - Capital Hill,https://wms-prod-3.wetmet.net/live/285-05-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDI6MzA6NTMgQU0maGFzaF92YWx1ZT13c1lWUG5KdW43eTBKRnZQREw5RWRRPT0mdmFsaWRtaW51dGVzPTMw#https://wms-prod-3.wetmet.net/live/285-05-01/chunks.m3u8?nimblesessionid=9047154&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDI6MzA6NTMgQU0maGFzaF92YWx1ZT13c1lWUG5KdW43eTBKRnZQREw5RWRRPT0mdmFsaWRtaW51dGVzPTMw
 
 加拿大蓝山滑雪场Boiestown - Southwest Miramichi River,https://s89.ipcamlive.com/streams/59hspjjlcytmw3srf/stream.m3u8
-加拿大,
-加拿大,
-加拿大,
-加拿大,
-加拿大,
+加拿大湖景草甸 Invermere - Lakeview Meadows Hit,https://s73.ipcamlive.com/streams/49dp9sl0xmga8bns7/stream.m3u8
+加拿大海森岛,https://outbound-production.explore.org/stream-production-216/.m3u8
+加拿大海森岛海狮海滩,https://outbound-production.explore.org/stream-production-111/.m3u8
+加拿大海森岛3,https://outbound-production.explore.org/stream-production-84/.m3u8
+加拿大海森岛4,https://outbound-production.explore.org/stream-production-4/.m3u8
+加拿大海普顿城市广场Hampton - Town Square,https://s33.ipcamlive.com/streams/218bzd3zokh6tqwuo/stream.m3u8
+加拿大哈利法克斯码头Halifax - Pier 21,https://streaming-1.qvisto.net/live/westin_1152x720/playlist.m3u8
 
 
 Canberra Airport (澳大利亚堪培拉机场),https://s82.ipcamlive.com/streams/52deujrpy9yxaqdna/stream.m3u8
