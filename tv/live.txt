@@ -6089,7 +6089,9 @@ Y📺云南频道,
 英国伦敦桑德里奇公园高尔夫俱乐部London - Bromley - Sundridge Park,https://camsecure.uk/HLS/sundridgegolf.m3u8
 英国伦敦菲尔奥克斯机场London - Chobham - Fairoaks Airport,https://camsecure.co/HLS/ltfc.m3u8
 英国伦敦肯萨尔格林London - Kensal Green,https://itl.rtsp.me/znr5yDqtLxJR5xrQctK7IA/1684199920/hls/GKt5FFRh.m3u8?
-
+英国伦敦大都会火箭制造London - London Met - Rocket Building - Beehives,https://streaming.londonmet.ac.uk/live/57719557live/playlist.m3u8?token=(A0aihjfd)
+英国伦敦苏赛克斯花园London - Sussex Gardens,https://s29.ipcamlive.com/streams/1d5cj2ovd8qmgxypk/stream.m3u8
+英国伦敦金普顿公园London - Sutton - Kimpton Park Way,https://s61.ipcamlive.com/streams/3dus5uesh7iv6lhwo/stream.m3u8
 英国Acle ibc cam1,https://s100.ipcamlive.com/streams/64oigksdhtzrfil0r/stream.m3u8
 英国教堂St John the Evangelist , Banbury,https://d7x5qir1ay3j1.cloudfront.net/live/definst_54a05ee5b1c6ae1a54c6dfd24c3d58684f0510e4_206.stream/playlist.m3u8
 英国芯片店Arnside Chip Shop,https://camsecure.co/HLS/arnside.m3u8
@@ -6109,22 +6111,40 @@ Y📺云南频道,
 英国老怀伊桥Hereford - Old Wye Bridge,https://hd-auth.skylinewebcams.com/live.m3u8?a=7365tb4lnrtq119om27nq30f23
 英国霍宁布雷河Horning - River Bure,https://itl.rtsp.me/MMPiPbJc27w-BcCI74F7_Q/1684198566/hls/hzH4EAd8.m3u8?ip=123.233.30.21
 英国凯西克Keswick - Panoramic view,https://stream-eu1-bravo.dropcam.com/nexus_aac/1d49659634c14d379a5f3c4125738149/playlist.m3u8?public=pkatSIF14h
-英国,
-英国,
-英国,
-英国,
-英国,
-英国,
-英国,
-英国,
-英国,
-英国,
-英国,
 
+法国巴黎Paris - Arc de Triomphe,https://deliverys4.joada.net/contents/encodings/vod/09b75aa6-cae2-4bf0-3638-3330-6d61-63-96b0-066bece9aafbd/master.m3u8
+法国巴黎埃菲尔铁塔Paris - Eiffel Tower,https://deliverys4.joada.net/contents/encodings/vod/5ebd5fda-2c3d-41c4-3638-3330-6d61-63-918e-7db6f4a3f33cd/master.m3u8
+法国巴黎Paris - Bd Périphérique,https://deliverys4.joada.net/contents/encodings/vod/d304c31d-fa75-475c-3338-3030-6d61-63-a8f8-4337ec7ace60d/master.m3u8
+法国巴黎圣母院Paris - Notre-Dame Hit,https://deliverys4.joada.net/contents/encodings/vod/dc2e3521-3ec6-432a-3638-3330-6d61-63-8115-33aa1c197149d/master.m3u8#https://deliverys4.joada.net/contents/encodings/vod/dc2e3521-3ec6-432a-3638-3330-6d61-63-8115-33aa1c197149d/media_1.m3u8
+法国巴黎荣军院Paris - Les Invalides,https://deliverys4.joada.net/contents/encodings/vod/86b286c1-8b36-47ab-3638-3330-6d61-63-b026-56f19c93c428d/master.m3u8#https://deliverys4.joada.net/contents/encodings/vod/86b286c1-8b36-47ab-3638-3330-6d61-63-b026-56f19c93c428d/media_1.m3u8
 
+德国柏林奥林匹克体育场Berlin - Olympiastadion,https://ch-fra-n10.livespotting.com/vpu/d5qak6qj/bqmqghk2_1080.m3u8?session=YcGYmjYHTn3oQj5QoQueAm#https://ch-fra-n10.livespotting.com/vpu/d5qak6qj/bqmqghk2.m3u8?
+德国柏林柯布西耶故居Berlin - Corbusierhaus,https://ch-fra-n9.livespotting.com/vpu/d5qak6qj/c4277ys1_720.m3u8?session=RPN5Mdwc3v6rg4wuwFjcnL
+德国柏林勃兰登堡门Berlin - Brandenburg Gate,https://sts061.feratel.co.at/streams/stsstore055/1/03385_6462d00f-42faVid.mp4?dcsdesign=WTP_feratel.com
+德国纽伦堡Nuremberg - Castle - Peregrine Falcon,https://e1-eu3.angelcam.com/cameras/99910/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI5OTkxMCIsImRldmljZV9pZCI6Ijk5OTEwIiwidGltZSI6MTY4NDE5NjcxMTkyNzE3OCwidGltZW91dCI6MzYwMH0%3D%2E7b5b92f2f883eb0f32316571c05b70db353ac24a48ce1667eff833880f950879
+德国纽伦堡全景Nuremberg - Panoramic view,https://sts014.feratel.co.at/streams/stsstore001/1/03020_646293d4-8a61Vid.mp4?dcsdesign=WTP_worldcam.pl
 
+奥地利克里斯特伦,https://sts106.feratel.co.at/streams/stsstore104/1/05501_64627ccd-705bVid.mp4?dcsdesign=WTP_worldcam.pl
+奥地利阿克萨姆斯,https://e1-eu3.angelcam.com/cameras/47629/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI0NzYyOSIsImRldmljZV9pZCI6IjQ3NjI5IiwidGltZSI6MTY4NDIwMDAxMzk4NDIzNSwidGltZW91dCI6MzYwMH0%3D%2E925fca9cc591bc2d50b01caade97b9da36ecc9c93522abe24d61ff0cbbd88dd7
 
-
+美国纽约奥尔巴尼市中心Albany - Downtown,https://wms-prod-2.wetmet.net/live/225-05-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDE6NDg6MzcgQU0maGFzaF92YWx1ZT1QRHUrTU45VGxzWWxSNVZwUWpXd3VnPT0mdmFsaWRtaW51dGVzPTMw#https://wms-prod-2.wetmet.net/live/225-05-01/chunks.m3u8?nimblesessionid=302879299&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDE6NDg6MzcgQU0maGFzaF92YWx1ZT1QRHUrTU45VGxzWWxSNVZwUWpXd3VnPT0mdmFsaWRtaW51dGVzPTMw
+美国贝斯特广场Chautauqua - Bestor Plaza,https://valkyrie.it.chq.org:8080/hls/stream.m3u8
+美国克林顿汉密尔顿学院Clinton - Hamilton College,https://e1-na3.angelcam.com/cameras/101899/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiIxMDE4OTkiLCJkZXZpY2VfaWQiOiIxMDE4OTkiLCJ0aW1lIjoxNjg0MjAyMzYyMDQxOTQ5LCJ0aW1lb3V0IjozNjAwfQ%3D%3D%2E7e14c333404cd54f36239240394d8f518434b8501c0df6dea946c0fb3bf5a1db
+美国,
+美国,
+美国,
+美国,
+美国,
+美国,
+美国,
+美国,
+美国,
+美国,
+美国,
+美国,
+美国,
+美国,
+美国,
 
 
 Canberra Airport (澳大利亚堪培拉机场),https://s82.ipcamlive.com/streams/52deujrpy9yxaqdna/stream.m3u8
