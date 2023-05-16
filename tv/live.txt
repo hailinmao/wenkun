@@ -6088,7 +6088,7 @@ Y📺云南频道,
 
 英国伦敦桑德里奇公园高尔夫俱乐部London - Bromley - Sundridge Park,https://camsecure.uk/HLS/sundridgegolf.m3u8
 英国伦敦菲尔奥克斯机场London - Chobham - Fairoaks Airport,https://camsecure.co/HLS/ltfc.m3u8
-英国伦敦肯萨尔格林London - Kensal Green,https://itl.rtsp.me/znr5yDqtLxJR5xrQctK7IA/1684199920/hls/GKt5FFRh.m3u8?ip=123.233.30.21
+英国伦敦肯萨尔格林London - Kensal Green,https://itl.rtsp.me/znr5yDqtLxJR5xrQctK7IA/1684199920/hls/GKt5FFRh.m3u8?
 
 英国Acle ibc cam1,https://s100.ipcamlive.com/streams/64oigksdhtzrfil0r/stream.m3u8
 英国教堂St John the Evangelist , Banbury,https://d7x5qir1ay3j1.cloudfront.net/live/definst_54a05ee5b1c6ae1a54c6dfd24c3d58684f0510e4_206.stream/playlist.m3u8
