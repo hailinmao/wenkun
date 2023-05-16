@@ -149,6 +149,10 @@ CCTV-2,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8
 	
 🌴港澳台湾,#genre#
 
+凤凰卫视资讯台,https://epg.pw/stream/feef91f40b85dafbfec7b968db0c1fc20f8fafdbbef2dfd751cfbcfd51f6ea5d.m3u8
+凤凰卫视中文台,https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb39412924a.m3u8
+凤凰卫视中文台,https://epg.pw/stream/9e3fe5f9642e7267868b40fbf117d947562cc2e9221ab020d670d1cc9bbc4800.m3u8
+
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
@@ -1747,6 +1751,8 @@ Nice+徒手练腹,http://jiandjh.51vip.biz:35455/huya/18501107
 
 2023年最新英语歌曲,https://vd3.bdstatic.com/mda-pdtfq6ft1egrj4yb/sc/cae_h264/1682723666733214512/mda-pdtfq6ft1egrj4yb.mp4?v_from_s=bdapp-bdappcore-feed-nanjing
 
+Roses,https://vd2.bdstatic.com/mda-pdimbcnwx0n15bws/720p/h264/1681917666785611702/mda-pdimbcnwx0n15bws.mp4?v_from_s=bdapp-landingpage-nanjing
+The Speed Of Life,https://vd4.bdstatic.com/mda-pdt6wrtw5nn1ht00/720p/h264/1682659069472903746/mda-pdt6wrtw5nn1ht00.mp4?v_from_s=bdapp-bdappcore-feed-nanjing
 Swear It Again,https://vd4.bdstatic.com/mda-pdf48bi5adn0m66w/sc/cae_h264/1681614622087947270/mda-pdf48bi5adn0m66w.mp4?v_from_s=bdapp-landingpage-nanjing
 Waka Waka,https://vd3.bdstatic.com/mda-pe2i3srg3w9sr83e/sc/cae_h264/1683228330615274033/mda-pe2i3srg3w9sr83e.mp4?v_from_s=bdapp-resbox-nanjing
 Close to You,https://vd2.bdstatic.com/mda-pdt8huj9a0ys30ep/sc/cae_h264/1682692281508188460/mda-pdt8huj9a0ys30ep.mp4?v_from_s=bdapp-landingpage-api-nanjing
