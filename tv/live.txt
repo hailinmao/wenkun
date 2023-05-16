@@ -6130,21 +6130,19 @@ Y📺云南频道,
 美国纽约奥尔巴尼市中心Albany - Downtown,https://wms-prod-2.wetmet.net/live/225-05-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDE6NDg6MzcgQU0maGFzaF92YWx1ZT1QRHUrTU45VGxzWWxSNVZwUWpXd3VnPT0mdmFsaWRtaW51dGVzPTMw#https://wms-prod-2.wetmet.net/live/225-05-01/chunks.m3u8?nimblesessionid=302879299&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDE6NDg6MzcgQU0maGFzaF92YWx1ZT1QRHUrTU45VGxzWWxSNVZwUWpXd3VnPT0mdmFsaWRtaW51dGVzPTMw
 美国贝斯特广场Chautauqua - Bestor Plaza,https://valkyrie.it.chq.org:8080/hls/stream.m3u8
 美国克林顿汉密尔顿学院Clinton - Hamilton College,https://e1-na3.angelcam.com/cameras/101899/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiIxMDE4OTkiLCJkZXZpY2VfaWQiOiIxMDE4OTkiLCJ0aW1lIjoxNjg0MjAyMzYyMDQxOTQ5LCJ0aW1lb3V0IjozNjAwfQ%3D%3D%2E7e14c333404cd54f36239240394d8f518434b8501c0df6dea946c0fb3bf5a1db
-美国,
-美国,
-美国,
-美国,
-美国,
-美国,
-美国,
-美国,
-美国,
-美国,
-美国,
-美国,
-美国,
-美国,
-美国,
+美国东北港乒乓球俱乐部East Northport Table Tennis Club,https://stream-uc2-delta.dropcam.com/nexus_aac/4cdb1e720fd24a47b86899189e61733d/playlist.m3u8?public=WNbX7IHIdh
+美国猎人山Hunter Mountain,https://63034befe01e5.streamlock.net:444/hunter1/hunter1.stream/playlist.m3u8
+美国乔治湖海港Lake George - Harbour,https://wms-prod-2.wetmet.net/live/225-04-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDI6MDg6MjAgQU0maGFzaF92YWx1ZT1ud3RXdy9OYmRyWWhOOHhXSERXSjhnPT0mdmFsaWRtaW51dGVzPTMw#https://wms-prod-2.wetmet.net/live/225-04-01/chunks.m3u8?nimblesessionid=302879542&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDI6MDg6MjAgQU0maGFzaF92YWx1ZT1ud3RXdy9OYmRyWWhOOHhXSERXSjhnPT0mdmFsaWRtaW51dGVzPTMw
+美国谢罗谢尔网球俱乐部New Rochelle - Tennis Club,https://stream-us1-charlie.dropcam.com/nexus_aac/75de261fc3994f3588f17c1c81f68230/playlist.m3u8?public=NeqVy2G40x
+美国纽约上东区New York City - Upper East Side,https://edge01.balticlivecam.com/blc/NewYork2/index.m3u8?token=4d9830f3888a652bb32e0abb175151de:1684203858208
+美国西雅图国会山Seattle - Capital Hill,https://wms-prod-3.wetmet.net/live/285-05-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDI6MzA6NTMgQU0maGFzaF92YWx1ZT13c1lWUG5KdW43eTBKRnZQREw5RWRRPT0mdmFsaWRtaW51dGVzPTMw#https://wms-prod-3.wetmet.net/live/285-05-01/chunks.m3u8?nimblesessionid=9047154&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDI6MzA6NTMgQU0maGFzaF92YWx1ZT13c1lWUG5KdW43eTBKRnZQREw5RWRRPT0mdmFsaWRtaW51dGVzPTMw
+
+加拿大蓝山滑雪场Boiestown - Southwest Miramichi River,https://s89.ipcamlive.com/streams/59hspjjlcytmw3srf/stream.m3u8
+加拿大,
+加拿大,
+加拿大,
+加拿大,
+加拿大,
 
 
 Canberra Airport (澳大利亚堪培拉机场),https://s82.ipcamlive.com/streams/52deujrpy9yxaqdna/stream.m3u8
