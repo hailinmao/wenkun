@@ -7,7 +7,8 @@
 多屏4,http://111.20.40.160/PLTV/88888893/224/3221226337/index.m3u8
 多屏5,http://111.20.40.160/PLTV/88888893/224/3221226338/index.m3u8
 
-你知道他们怎么打假球吗,https://dghls.mcloud.139.com/hls/L2f8d39c4d77be1a2eb72d2e4dd7be0281/playlist.m3u8?ci=1811UaL6m35715520230518211838jgk&fileSize=8089349
+
+openAI的苹果app来了,https://dghls.mcloud.139.com/hls/L4d1898fc0ac6620b26dee931d4e5d473e/playlist.m3u8?ci=1811UaL6m35715820230520043055t7j&fileSize=31999853
 谷歌6个新AI黑科技,https://dghls.mcloud.139.com/hls/L7e06ec0a304fc9577f12b7d7c4bd865fc/playlist.m3u8?ci=1811UaL6m35717820230517192047jel&fileSize=8912034
 GPT4联网插件,https://dghls.mcloud.139.com/hls/LDfd1591ba9624db948ae16d200e7ded09/playlist.m3u8?ci=1811UaL6m35717820230517180442p57&fileSize=17078603
 GPT4开放联网插件了,https://dghls.mcloud.139.com/hls/L4c7ddd507bd66e5de68b548bbf8735ee0/playlist.m3u8?ci=1811UaL6m35715720230517064754dhp&fileSize=15439826
@@ -1419,6 +1420,7 @@ CNBeatbox,http://epg.112114.xyz/douyu/5455515
 	
 	
 🐯虎牙视频,#genre#
+
 .阿斗归来了,http://jiandjh.51vip.biz:35455/huya/13303478
 .小川看电影,http://jiandjh.51vip.biz:35455/huya/15870999
 .鱼丸说电影,http://jiandjh.51vip.biz:35455/huya/16615910
