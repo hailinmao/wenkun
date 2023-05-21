@@ -1,6 +1,37 @@
 ﻿	
 🔨点播测试,#genre#
 	
+1	CCTV1,	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227163/index.m3u8
+2	CCTV2,	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227165/index.m3u8
+3	CCTV4,	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227167/index.m3u8
+4	CCTV7,	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
+5	CCTV9,	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227182/index.m3u8
+6	CCTV10,	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227169/index.m3u8
+7	CCTV12,	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227184/index.m3u8
+8	CCTV13,	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227186/index.m3u8
+9	花屏	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
+10	花屏	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227182/index.m3u8
+11	花屏	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227184/index.m3u8
+12	花屏	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227186/index.m3u8
+13	花屏	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227199/index.m3u8
+14	花屏	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227201/index.m3u8
+15	花屏	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8
+16	花屏	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227203/index.m3u8
+17	花屏	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227205/index.m3u8
+18	花屏	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227207/index.m3u8
+19	花屏	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227209/index.m3u8
+20	花屏	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227228/index.m3u8
+21	花屏	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227230/index.m3u8
+22	花屏	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227232/index.m3u8
+23	花屏	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227234/index.m3u8
+24	花屏	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227236/index.m3u8
+25	花屏	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227238/index.m3u8
+26	花屏1	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227163/index.m3u8
+27	花屏2	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227165/index.m3u8
+28	花屏3	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227167/index.m3u8
+29	花屏4	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227169/index.m3u8
+
+	
 多屏1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏3,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8?
