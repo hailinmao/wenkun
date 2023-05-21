@@ -1,23 +1,5 @@
 ﻿	
 🔨点播测试,#genre#
-0CCTV1,http://1.195.111.251:11190/tsfile/live/0001_1.m3u8
-0CCTV2,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
-0CCTV3,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8
-0CCTV4,http://1.195.111.251:11190/tsfile/live/0004_1.m3u8
-0CCTV5,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
-0CCTV6,http://1.195.111.251:11190/tsfile/live/0006_1.m3u8
-0CCTV7,http://1.195.111.251:11190/tsfile/live/0007_1.m3u8
-0CCTV8,http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
-0CCTV9,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
-0CCTV10,http://1.195.111.251:11190/tsfile/live/0010_1.m3u8
-0CCTV11,http://1.195.111.251:11190/tsfile/live/0011_1.m3u8
-0CCTV12,http://1.195.111.251:11190/tsfile/live/0012_1.m3u8
-0CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
-0CCTV14,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
-0CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
-0CCTV16,http://1.195.111.251:11190/tsfile/live/0016_1.m3u8
-0CCTV17,http://1.195.111.251:11190/tsfile/live/0017_1.m3u8
-0CCTV18,http://1.195.111.251:11190/tsfile/live/0018_1.m3u8
 
 多屏1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -323,13 +305,11 @@ CCTV5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 
 CCTV1,http://1.195.111.251:11190/tsfile/live/0001_1.m3u8
 CCTV2,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
-CCTV5,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
 CCTV6,http://1.195.111.251:11190/tsfile/live/0006_1.m3u8
 CCTV7,http://1.195.111.251:11190/tsfile/live/0007_1.m3u8
 CCTV8,http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
 CCTV9,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
 CCTV10,http://1.195.111.251:11190/tsfile/live/0010_1.m3u8
-CCTV11,http://1.195.111.251:11190/tsfile/live/0011_1.m3u8
 CCTV12,http://1.195.111.251:11190/tsfile/live/0012_1.m3u8
 CCTV14,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
 CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
@@ -661,30 +641,6 @@ CCTV7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 CCTV8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 
-CCTV1,http://113.207.84.197:8090/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-CCTV2,http://113.207.84.197:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
-CCTV3,http://113.207.84.197:8090/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
-CCTV4,http://113.207.84.197:8090/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
-CCTV5,http://113.207.84.197:8090/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
-CCTV6,http://113.207.84.197:8090/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
-CCTV7,http://113.207.84.197:8090/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
-CCTV8,http://113.207.84.197:8090/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
-CCTV9,http://113.207.84.197:8090/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
-CCTV10,http://113.207.84.197:8090/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
-CCTV11,http://113.207.84.197:8090/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
-CCTV12,http://113.207.84.197:8090/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
-CCTV13,http://113.207.84.197:8090/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
-CCTV14,http://113.207.84.197:8090/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
-CCTV15,http://113.207.84.197:8090/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
-CCTV16,http://113.207.84.197:8090/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
-CCTV17,http://113.207.84.197:8090/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
-CCTV5+,http://113.207.84.197:8090/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
-CCTV兵器科技,http://113.207.84.197:8090/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
-CCTV第一剧场,http://113.207.84.197:8090/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
-CCTV风云剧场,http://113.207.84.197:8090/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
-CCTV风云音乐,http://113.207.84.197:8090/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
-CCTV风云足球,http://113.207.84.197:8090/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
-CCTV怀旧剧场,http://113.207.84.197:8090/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
 
 🛰️卫视频道,#genre#
 
