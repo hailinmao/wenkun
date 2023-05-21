@@ -255,6 +255,30 @@ ViuTV Six FHD,http://radius.8866.org:800/hls/85/index.m3u8,
 
 
 🇨🇳󠁧󠁢󠁥󠁮央视频道,#genre#
+CCTV1,http://113.207.84.197:8090/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+CCTV2,http://113.207.84.197:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
+CCTV3,http://113.207.84.197:8090/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
+CCTV4,http://113.207.84.197:8090/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
+CCTV5,http://113.207.84.197:8090/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
+CCTV6,http://113.207.84.197:8090/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
+CCTV7,http://113.207.84.197:8090/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
+CCTV8,http://113.207.84.197:8090/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
+CCTV9,http://113.207.84.197:8090/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
+CCTV10,http://113.207.84.197:8090/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
+CCTV11,http://113.207.84.197:8090/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
+CCTV12,http://113.207.84.197:8090/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
+CCTV13,http://113.207.84.197:8090/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
+CCTV14,http://113.207.84.197:8090/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
+CCTV15,http://113.207.84.197:8090/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
+CCTV16,http://113.207.84.197:8090/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
+CCTV17,http://113.207.84.197:8090/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
+CCTV5+,http://113.207.84.197:8090/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
+CCTV兵器科技,http://113.207.84.197:8090/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
+CCTV第一剧场,http://113.207.84.197:8090/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
+CCTV风云剧场,http://113.207.84.197:8090/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
+CCTV风云音乐,http://113.207.84.197:8090/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
+CCTV风云足球,http://113.207.84.197:8090/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
+CCTV怀旧剧场,http://113.207.84.197:8090/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
 
 CCTV1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV2,http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
@@ -437,31 +461,6 @@ CCTV文化精品,http://111.20.40.165/PLTV/88888893/224/3221226981/index.m3u8
 CCTV文化精品,http://111.20.40.166/PLTV/88888893/224/3221226981/index.m3u8
 CCTV文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m3u8
 CCTV央视台球,http://111.20.40.160/PLTV/88888893/224/3221226956/index.m3u8
-
-CCTV1,http://113.207.84.197:8090/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-CCTV2,http://113.207.84.197:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
-CCTV3,http://113.207.84.197:8090/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
-CCTV4,http://113.207.84.197:8090/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
-CCTV5,http://113.207.84.197:8090/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
-CCTV6,http://113.207.84.197:8090/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
-CCTV7,http://113.207.84.197:8090/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
-CCTV8,http://113.207.84.197:8090/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
-CCTV9,http://113.207.84.197:8090/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
-CCTV10,http://113.207.84.197:8090/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
-CCTV11,http://113.207.84.197:8090/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
-CCTV12,http://113.207.84.197:8090/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
-CCTV13,http://113.207.84.197:8090/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
-CCTV14,http://113.207.84.197:8090/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
-CCTV15,http://113.207.84.197:8090/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
-CCTV16,http://113.207.84.197:8090/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
-CCTV17,http://113.207.84.197:8090/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
-CCTV5+,http://113.207.84.197:8090/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
-CCTV兵器科技,http://113.207.84.197:8090/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
-CCTV第一剧场,http://113.207.84.197:8090/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
-CCTV风云剧场,http://113.207.84.197:8090/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
-CCTV风云音乐,http://113.207.84.197:8090/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
-CCTV风云足球,http://113.207.84.197:8090/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
-CCTV怀旧剧场,http://113.207.84.197:8090/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
 
 CCTV1,http://183.196.25.171:808/hls/1/index.m3u8
 CCTV2,http://183.196.25.171:808/hls/2/index.m3u8
