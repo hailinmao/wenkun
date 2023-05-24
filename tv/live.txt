@@ -1242,7 +1242,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225745/index.m3u8
 
-🅱️高清CNTV,#genre#
+🅱️高清CNTV,#genre
 
 CCTV1,https://cntv.sbs/live05?id=cctv1
 CCTV2,https://cntv.sbs/live05?id=cctv2
@@ -1262,44 +1262,43 @@ CCTV15,https://cntv.sbs/live05?id=cctv15
 CCTV16,https://cntv.sbs/live05?id=cctv16
 CCTV17,https://cntv.sbs/live05?id=cctv17
 CCTV5+,https://cntv.sbs/live05?id=cctv5p
-CGTN,https://cntv.sbs/live05?id=cgtn
 
-北京卫视,https://cntv.sbs/live05?id=bjws
+深圳卫视,https://cntv.sbs/live05?id=szws
+湖南卫视,https://cntv.sbs/live05?id=hunws
+江苏卫视,https://cntv.sbs/live05?id=jsws
+浙江卫视,https://cntv.sbs/live05?id=zjws
 东方卫视,https://cntv.sbs/live05?id=dfws
+广东卫视,https://cntv.sbs/live05?id=gdws
 天津卫视,https://cntv.sbs/live05?id=tjws
+北京卫视,https://cntv.sbs/live05?id=bjws
 重庆卫视,https://cntv.sbs/live05?id=cqws
-黑龙江卫视,https://cntv.sbs/live05?id=hljws
-吉林卫视,https://cntv.sbs/live05?id=jlws
-辽宁卫视,https://cntv.sbs/live05?id=lnws
-内蒙古卫视,https://cntv.sbs/live05?id=nmws
-宁夏卫视,https://cntv.sbs/live05?id=nxws
-甘肃卫视,https://cntv.sbs/live05?id=gsws
-青海卫视,https://cntv.sbs/live05?id=qhws
-陕西卫视,https://cntv.sbs/live05?id=sxws
 河北卫视,https://cntv.sbs/live05?id=hbws
-山西卫视,https://cntv.sbs/live05?id=sxiws
 山东卫视,https://cntv.sbs/live05?id=sdws
 安徽卫视,https://cntv.sbs/live05?id=ahws
 河南卫视,https://cntv.sbs/live05?id=hnws
-湖北卫视,https://cntv.sbs/live05?id=hubws
-湖南卫视,https://cntv.sbs/live05?id=hunws
 江西卫视,https://cntv.sbs/live05?id=jxws
-江苏卫视,https://cntv.sbs/live05?id=jsws
-浙江卫视,https://cntv.sbs/live05?id=zjws
 东南卫视,https://cntv.sbs/live05?id=dnws
-厦门卫视,https://cntv.sbs/live05?id=xmws
-广东卫视,https://cntv.sbs/live05?id=gdws
-深圳卫视,https://cntv.sbs/live05?id=szws
 广西卫视,https://cntv.sbs/live05?id=gxws
 云南卫视,https://cntv.sbs/live05?id=ynws
 贵州卫视,https://cntv.sbs/live05?id=gzws
 四川卫视,https://cntv.sbs/live05?id=scws
-康巴卫视,https://cntv.sbs/live05?id=kbws
-新疆卫视,https://cntv.sbs/live05?id=xjws
-兵团卫视,https://cntv.sbs/live05?id=btws
-西藏卫视,https://cntv.sbs/live05?id=xzws
 海南卫视,https://cntv.sbs/live05?id=hinws
 三沙卫视,https://cntv.sbs/live05?id=ssws
+甘肃卫视,https://cntv.sbs/live05?id=gsws
+吉林卫视,https://cntv.sbs/live05?id=jlws
+辽宁卫视,https://cntv.sbs/live05?id=lnws
+黑龙江卫视,https://cntv.sbs/live05?id=hljws
+内蒙古卫视,https://cntv.sbs/live05?id=nmws
+湖北卫视,https://cntv.sbs/live05?id=hubws
+山西卫视,https://cntv.sbs/live05?id=sxiws
+陕西卫视,https://cntv.sbs/live05?id=sxws
+宁夏卫视,https://cntv.sbs/live05?id=nxws
+青海卫视,https://cntv.sbs/live05?id=qhws
+厦门卫视,https://cntv.sbs/live05?id=xmws
+新疆卫视,https://cntv.sbs/live05?id=xjws
+西藏卫视,https://cntv.sbs/live05?id=xzws
+康巴卫视,https://cntv.sbs/live05?id=kbws
+兵团卫视,https://cntv.sbs/live05?id=btws
 
 中国天气,https://cntv.sbs/live05?id=zgtq
 华语影院,https://cntv.sbs/live05?id=hyyy
@@ -1311,6 +1310,7 @@ CETV1,https://cntv.sbs/live05?id=cetv1
 CETV2,https://cntv.sbs/live05?id=cetv2
 CETV3,https://cntv.sbs/live05?id=cetv3
 CETV4,https://cntv.sbs/live05?id=cetv4
+CGTN,https://cntv.sbs/live05?id=cgtn
 
 🅱️C高清NTV#genre
 
