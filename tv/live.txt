@@ -1242,6 +1242,8 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225745/index.m3u8
 
+🅱️高清CNTV#genre#
+
 CCTV1,https://cntv.sbs/live05?id=cctv1
 CCTV2,https://cntv.sbs/live05?id=cctv2
 CCTV3,https://cntv.sbs/live05?id=cctv3
@@ -1310,7 +1312,7 @@ CETV2,https://cntv.sbs/live05?id=cetv2
 CETV3,https://cntv.sbs/live05?id=cetv3
 CETV4,https://cntv.sbs/live05?id=cetv4
 
-🅱️C高清NTV#genre#
+🅱️C高清NTV#genre
 
 		
 🐠斗鱼精选,#genre#
