@@ -1,7 +1,8 @@
 //BILI
 
 {
-"spider":"https://agit.ai/sejinan/app/raw/branch/box/xo.jpg;md5;edaac605b8f6c297b19d34464721f869",
+//"spider":"https://agit.ai/sejinan/app/raw/branch/box/xo.jpg;md5;edaac605b8f6c297b19d34464721f869",
+"spider":"https://agit.ai/sejinan/app/raw/branch/box/1007.jpg;md5;7151e9617fa11e13823a8dca88eef2f0",
 
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL+aIkeS4jeaYry7ogqXnjKsubG92ZTo2My9UVi90dnpiLnR4dA=="]}]}],
