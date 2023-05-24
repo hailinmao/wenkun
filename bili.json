@@ -8,10 +8,10 @@
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 
 //吾爱 http://52bsj.vip:81/api/v3/file/get/82052/%E7%9B%B4%E6%92%AD.txt?sign=b-b_UB6w42W8NJHFwimM4KZTSSPzPfcm8-wGSZ4NXaM%3D%3A0
-//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvODIwNTIvJUU3JTlCJUI0JUU2JTkyJUFELnR4dD9zaWduPWItYl9VQjZ3NDJXOE5KSEZ3aW1NNEtaVFNTUHpQZmNtOC13R1NaNE5YYU0lM0QlM0Ew"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvODIwNTIvJUU3JTlCJUI0JUU2JTkyJUFELnR4dD9zaWduPWItYl9VQjZ3NDJXOE5KSEZ3aW1NNEtaVFNTUHpQZmNtOC13R1NaNE5YYU0lM0QlM0Ew"]}]}],
 
 //刚刚 http://我不是.肥猫.love:63/TV/tvzb.txt
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL+aIkeS4jeaYry7ogqXnjKsubG92ZTo2My9UVi90dnpiLnR4dA=="]}]}],
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL+aIkeS4jeaYry7ogqXnjKsubG92ZTo2My9UVi90dnpiLnR4dA=="]}]}],
 
 // tvbox 主影视
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3NlamluYW4vYXBwL3Jhdy9icmFuY2gvYm94L3R2L2xpdmUudHh0"]}]}],
