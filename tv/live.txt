@@ -165,9 +165,24 @@ CCTV2财经,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225599/index.
 凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
 凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1?zgangd
 
-凤凰中文,	http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
-凤凰资讯,	http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
+凤凰中文,http://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+凤凰中文,http://tlive.fengshows.cn/live/0201pcchd.flv?txSecret=33377e7477b3f5d3c19aff913b683738&txTime=646d96aa
+凤凰中文,http://qctv.fengshows.cn/live/0701pcc72.flv?txSecret=8675bbbf341b6755612db5f6fe25addd&txTime=646d9715
+凤凰中文,http://tlive.fengshows.cn/live/0201pcchd.flv?txSecret=de2c39d13bff31d1cf1beb737be54da2&txTime=646d998c
+凤凰中文,http://qctv.fengshows.cn/live/0701pcc72.flv?txSecret=4b713ce057448196d3291a15b668f4dc&txTime=646d99f8
 
+凤凰资讯,http://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+凤凰资讯,http://tlive.fengshows.cn/live/0201pinhd.flv?txSecret=1e5d1e49b23e800425b07b191567451a&txTime=646d9b00
+凤凰资讯,http://qctv.fengshows.cn/live/0701pin72.flv?txSecret=8dd2266a5f3d3e039f820b4fd87b9d42&txTime=646d9b6f
+
+
+凤凰香港,http://tlive.fengshows.cn/live/0201phkhd.flv?txSecret=ccdcfa755eafe727b889a9e1b4939603&txTime=646d9b63
+凤凰香港,http://qctv.fengshows.cn/live/0701phk72.flv?txSecret=6e2780c0f95d150072bcfa29ab012f35&txTime=646d9be2
+
+香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+
+
+凤凰资讯,http://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 
 凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
 新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
