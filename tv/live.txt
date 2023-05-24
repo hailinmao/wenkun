@@ -1,33 +1,5 @@
 ﻿	
 🔨点播测试,#genre#
-1	凤凰中文,	https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-2	凤凰资讯,	https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-3	凤凰香港,	http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
-4	香港文旅,	http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
-5	面包台,	https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-6	翡翠台,	http://nsszds.f3322.net:808/hls/67/index.m3u8  
-7	耀才财经,	https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-8	有线新闻,	https://api.leonardpark.dev/live/icable/109
-9	有线新闻,	http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-10	TVBRICS,	http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-11	TVB星河,	http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
-12	RTHK31,	https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-13	RTHK32,	https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-14	RTHK32,	https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-15	澳亚卫视,	https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-16	澳视资讯,	http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
-17	澳视综艺,	http://61.244.22.5/ch6/hd_ch6.live/playlist.m3u8
-18	澳视Macau,	http://61.244.22.5/ch3/ch3.live/index.m3u8
-19	澳视澳門,	http://61.244.22.5/ch1/ch1.live/playlist.m3u8
-20	澳门体育,	http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
-21	澳门莲花,	http://nettvpro.live/hls/lotustv.php
-22	澳门莲花,	http://anren.live/HK/BiIOU11uLA.m3u8
-23	澳门莲花,	https://p.ggiptv.com/v/macaulotustv.php
-24	大立電視,	http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-25	龙祥时代,	http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
-26	大爱,	https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-27	大爱,	https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-28	亚洲新闻,	https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 多屏1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -197,23 +169,9 @@ CCTV2财经,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225599/index.
 凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
 凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1?zgangd
 
-凤凰中文,http://tlive.fengshows.cn/live/0201pcchd.flv?txSecret=33377e7477b3f5d3c19aff913b683738&txTime=646d96aa
-凤凰中文,http://qctv.fengshows.cn/live/0701pcc72.flv?txSecret=8675bbbf341b6755612db5f6fe25addd&txTime=646d9715
-
-凤凰中文,http://tlive.fengshows.cn/live/0201pcchd.flv?txSecret=de2c39d13bff31d1cf1beb737be54da2&txTime=646d998c
-凤凰中文,http://qctv.fengshows.cn/live/0701pcc72.flv?txSecret=4b713ce057448196d3291a15b668f4dc&txTime=
-
-凤凰资讯,http://tlive.fengshows.cn/live/0201pinhd.flv?txSecret=1e5d1e49b23e800425b07b191567451a&txTime=646d9b00
-凤凰资讯,http://qctv.fengshows.cn/live/0701pin72.flv?txSecret=8dd2266a5f3d3e039f820b4fd87b9d42&txTime=646d9b6f
-
-
-凤凰香港,http://tlive.fengshows.cn/live/0201phkhd.flv?txSecret=ccdcfa755eafe727b889a9e1b4939603&txTime=646d9b63
-凤凰香港,http://qctv.fengshows.cn/live/0701phk72.flv?txSecret=6e2780c0f95d150072bcfa29ab012f35&txTime=646d9be2
-
 凤凰中文,http://files4.3y1.xyz/media/video/nosignal_h264/playlist.m3u8
 
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-
 
 
 凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
@@ -303,6 +261,36 @@ ViuTV Six FHD,http://radius.8866.org:800/hls/85/index.m3u8,
 番薯,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
+澳门体育,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
+澳视Macau,http://61.244.22.5/ch3/ch3.live/index.m3u8
+澳视澳門,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
+澳视资讯,http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
+澳视综艺,http://61.244.22.5/ch6/hd_ch6.live/playlist.m3u8
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+龙祥时代,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+有线新闻,https://api.leonardpark.dev/live/icable/109
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+
+凤凰中文http://tlive.fengshows.cn/live/0201pcchd.flv?txSecret=33377e7477b3f5d3c19aff913b683738&txTime=646d96aa
+凤凰中文http://qctv.fengshows.cn/live/0701pcc72.flv?txSecret=8675bbbf341b6755612db5f6fe25addd&txTime=646d9715
+凤凰中文http://tlive.fengshows.cn/live/0201pcchd.flv?txSecret=de2c39d13bff31d1cf1beb737be54da2&txTime=646d998c
+凤凰中文http://qctv.fengshows.cn/live/0701pcc72.flv?txSecret=4b713ce057448196d3291a15b668f4dc&txTime=
+凤凰资讯http://tlive.fengshows.cn/live/0201pinhd.flv?txSecret=1e5d1e49b23e800425b07b191567451a&txTime=646d9b00
+凤凰资讯http://qctv.fengshows.cn/live/0701pin72.flv?txSecret=8dd2266a5f3d3e039f820b4fd87b9d42&txTime=646d9b6f
+凤凰香港http://tlive.fengshows.cn/live/0201phkhd.flv?txSecret=ccdcfa755eafe727b889a9e1b4939603&txTime=646d9b63
+凤凰香港http://qctv.fengshows.cn/live/0701phk72.flv?txSecret=6e2780c0f95d150072bcfa29ab012f35&txTime=646d9be2
 
 
 🇨🇳󠁧󠁢󠁥󠁮央视频道,#genre#
