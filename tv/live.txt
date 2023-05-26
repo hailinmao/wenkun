@@ -183,7 +183,6 @@ CCTV2财经,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225599/index.
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
 凤凰香港,https://cntv.sbs/fs?id=fhhk
-有限新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 无线财经体育,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 澳门莲花,http://hz752.live:63/vvs/lotus.php
 耀财财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
