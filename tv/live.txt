@@ -190,13 +190,6 @@ TBBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
-
-凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
-凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
-凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1?zgangd
-
-凤凰中文,http://files4.3y1.xyz/media/video/nosignal_h264/playlist.m3u8
-
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 
 凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
@@ -302,8 +295,12 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 有线新闻,https://api.leonardpark.dev/live/icable/109
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰中文https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰中文http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
+凤凰资讯http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
+凤凰资讯http://stream.guihet.com/t/ifeng2.php?id=1?zgangd
+凤凰中文http://files4.3y1.xyz/media/video/nosignal_h264/playlist.m3u8
 
 凤凰中文https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb39412924a.m3u8
 凤凰中文https://epg.pw/stream/9e3fe5f9642e7267868b40fbf117d947562cc2e9221ab020d670d1cc9bbc4800.m3u8
