@@ -1,11 +1,11 @@
 ﻿	
 🔨点播测试,#genre#
 
-多屏1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-多屏2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-多屏3,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8?
-多屏4,http://111.20.40.160/PLTV/88888893/224/3221226337/index.m3u8
-多屏5,http://111.20.40.160/PLTV/88888893/224/3221226338/index.m3u8
+多屏监控,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+多屏监控,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+多屏监控,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8?
+多屏监控,http://111.20.40.160/PLTV/88888893/224/3221226337/index.m3u8
+多屏监控,http://111.20.40.160/PLTV/88888893/224/3221226338/index.m3u8
 
 AI将取代所有白领工作?,https://dghls.mcloud.139.com/hls/L888bf6168c91b915c9b9c2f96f7da9c9b/playlist.m3u8?ci=1811UaL6m35715520230523070855be6&fileSize=7121412
 openAI的苹果app来了,https://dghls.mcloud.139.com/hls/L4d1898fc0ac6620b26dee931d4e5d473e/playlist.m3u8?ci=1811UaL6m35715820230520043055t7j&fileSize=31999853
