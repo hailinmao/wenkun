@@ -1,8 +1,8 @@
 //维护主站
 
 {
-"spider":"https://agit.ai/sejinan/app/raw/branch/box/1007.jpg;md5;7151e9617fa11e13823a8dca88eef2f0",
-
+//"spider":"https://agit.ai/sejinan/app/raw/branch/box/1007.jpg;md5;7151e9617fa11e13823a8dca88eef2f0",
+"spider":"https://agit.ai/sejinan/app/raw/branch/box/cc.jar;md5;8912c907f7381dd4e39802637b71f2e5",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3NlamluYW4vYXBwL3Jhdy9icmFuY2gvYm94L3R2L2xpdmUudHh0"]}]}],
 "wallpaper":"https://agit.ai/sejinan/app/raw/branch/box/api.php",
