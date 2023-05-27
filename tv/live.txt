@@ -133,7 +133,7 @@ CCTV13新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226543/ind
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
 新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 美国中文电视,https://jpts.sinovision.net/livestream.m3u8
 民视新闻HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8$高清720P
 民视新闻HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8$高清720P
@@ -189,7 +189,6 @@ CCTV2财经,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225599/index.
 
 
 凤凰香港,https://cntv.sbs/fs?id=fhhk
-无线财经体育,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 澳门莲花,http://hz752.live:63/vvs/lotus.php
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 无线新闻,http://r.jdshipin.com/CkuBd
@@ -212,6 +211,7 @@ TBBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8$高清1080P
 无线财经体育,http://radius.8866.org:800/hls/83/index.m3u8,
+无线财经体育,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
 无线新闻,http://radius.8866.org:800/hls/82/index.m3u8,
 香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
