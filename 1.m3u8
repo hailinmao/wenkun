@@ -135,6 +135,11 @@
   
 "sites":[
 
+{ "key" : "直播", "name" : "💻电视直播", "type" : 3,
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/lmlmi/ooo/master/js/lib/直播转点播.js",
+            "ext" : "肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#俊于$http://home.jundie.top:81/Cat/tv/live.txt&&&https://api.caonm.net/api/mc/#测试$https://agit.ai/sejinan/app/raw/branch/box/tv/live.txt"
+        },
+
 {"key": "csp_XYQ_lu1","name": "️TV直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://download.kstore.space/download/2883/tvtv.txt", "jar": "https://download.kstore.space/download/2883/tvtv.jar;md5; E80798750ECA57470F29D1942BCE39BB"},
 
 {"key":"csp_77","name":"👒七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
