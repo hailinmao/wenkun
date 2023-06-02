@@ -1,12 +1,12 @@
 //维护主站
 
 {
-//"spider":"Yoursmile.jar;md5;8977DB03D3374537FDAD0C396BB1FE99",
-"spider":"https://agit.ai/sejinan/app/raw/branch/box/cc.jar;md5;8912c907f7381dd4e39802637b71f2e5",
+
+"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;10EB32E7F059984CBA18EE3A8B764470",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3NlamluYW4vYXBwL3Jhdy9icmFuY2gvYm94L3R2L2xpdmUudHh0"]}]}],
 
-"wallpaper":"https://agit.ai/sejinan/app/raw/branch/box/api4.php",
+"wallpaper":"https://tool.weetai.cn/api", 
 
 
 // 每日一言 (随机显示欢迎语)
