@@ -3,11 +3,16 @@
 {
 //"spider":"https://agit.ai/sejinan/app/raw/branch/box/1007.jpg;md5;7151e9617fa11e13823a8dca88eef2f0",
 //"spider":"https://agit.ai/sejinan/app/raw/branch/box/cc.jar;md5;8912c907f7381dd4e39802637b71f2e5",
-"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;10EB32E7F059984CBA18EE3A8B764470",
+//"wallpaper":"http://w.g9.pub:66/381203888/jar/content_1668931404876.jar;md5;cfa8b6dee6f44dd7ee4e135935b70f11",
+
+//"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;10EB32E7F059984CBA18EE3A8B764470",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3NlamluYW4vYXBwL3Jhdy9icmFuY2gvYm94L3R2L2xpdmUudHh0"]}]}],
-"wallpaper":"https://agit.ai/sejinan/app/raw/branch/box/api.php",
-//"wallpaper":"http://w.g9.pub:66/381203888/jar/content_1668931404876.jar;md5;cfa8b6dee6f44dd7ee4e135935b70f11",
+//"wallpaper":"https://agit.ai/sejinan/app/raw/branch/box/api.php",
+
+//刚猫
+"wallpaper":"https://tool.weetai.cn/api", 
+"spider":"http://w.g9.pub:66/381203888/jar/content_1668931404876.jar"}
 
 
 // 每日一言 (随机显示欢迎语)
