@@ -140,6 +140,8 @@
   
   
 "sites":[
+{"key":"douban","name":"🐼豆瓣荐片┃t4首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
+
 
 { "key" : "直播", "name" : "💻电视直播", "type" : 3, "api" : "https://ghproxy.com/https://raw.githubusercontent.com/lmlmi/ooo/master/js/lib/直播转点播.js",
             "ext" : "肥猫1$http://我不是.肥猫.love:63/TV/tvzb.txt#LMLMI2$https://github.com/lmlmi/gooo/raw/main/TV/live.txt#俊于3$http://home.jundie.top:81/Cat/tv/live.txt&&&https://api.caonm.net/api/mc/"},
@@ -149,6 +151,10 @@
 
 {"key":"csp_77","name":"👒七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+
+
+
+
 {"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Ysgc","name":"🎥影视工厂2","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
 
