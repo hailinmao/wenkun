@@ -171,20 +171,10 @@ CCTV2财经,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225599/index.
 
 🌴港澳台湾,#genre#
 
-凤凰中文,http://hz752.live:63/vvs/hk.php?id=fhzw
-凤凰资讯,http://hz752.live:63/vvs/hk.php?id=fhzx
-凤凰香港,http://hz752.live:63/vvs/hk.php?id=fhhk
-
-凤凰中文,http://hz752.live:63/vvs/hkif.php?id=fhzw
-凤凰资讯,http://hz752.live:63/vvs/hkif.php?id=fhzx
-凤凰香港,http://hz752.live:63/vvs/hkif.php?id=fhhk
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
-
-凤凰中文,http://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
-凤凰资讯,http://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
@@ -195,11 +185,22 @@ CCTV2财经,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225599/index.
 凤凰中文,http://103.112.191.9:880/LAOSAT1015.m3u8
 凤凰资讯,http://103.112.191.9:880/LAOSAT1068.m3u8
 
-凤凰中文1,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-凤凰资讯1,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-凤凰资讯1,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-凤凰资讯1,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+
+凤凰中文,http://hz752.live:63/vvs/hk.php?id=fhzw
+凤凰资讯,http://hz752.live:63/vvs/hk.php?id=fhzx
+凤凰香港,http://hz752.live:63/vvs/hk.php?id=fhhk
+
+凤凰中文,http://hz752.live:63/vvs/hkif.php?id=fhzw
+凤凰资讯,http://hz752.live:63/vvs/hkif.php?id=fhzx
+凤凰香港,http://hz752.live:63/vvs/hkif.php?id=fhhk
+
+凤凰中文,http://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+凤凰资讯,http://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 
 
 凤凰香港,https://cntv.sbs/fs?id=fhhk
