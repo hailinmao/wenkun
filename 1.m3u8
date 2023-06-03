@@ -167,6 +167,7 @@
 {"key":"csp_XBPQ_ 咕噜咕噜","name":"💢咕噜咕噜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/咕噜咕噜.json"},
 {"key":"csp_XBPQ_ 端木","name":"💢端木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/端木.json"},
 {"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
+{ "key": "csp_AppTT", "name": "图图影视", "type": 3, "api": "csp_AppTT", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "SldZWXFaWkhXTU1sTlpadFNSSyN0elRJdzlMQVJSQ00=$$$Q1ppbkoxUzdvNnNZbU1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==" }, 
 
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_panghu","name":"🐯胖虎影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
@@ -204,7 +205,7 @@
 {"key":"csp_Yj1211","name":"📽️在线直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key":"AppTT","name":"🇹🇹图图影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile8/dream/raw/branch/main/ts.jar"},
+//{"key":"AppTT","name":"🇹🇹图图影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile8/dream/raw/branch/main/ts.jar"},
 {"key":"csp_Nmys","name":"🥝农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
 {"key":"csp_Gitcafe","name":"💴小纸条","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitea.com/Yoursmile8/dream/raw/branch/main/ts.jar"},
 {"key":"IKan","name":"👓爱看影视","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile8/dream/raw/branch/main/ts.jar"},
