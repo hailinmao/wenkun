@@ -16,7 +16,7 @@ var rule = {
 		"User-Agent":"okhttp/3.12.0"
 	},
     timeout:5000,
-    class_name:'全部&电影&电视剧&综艺&动漫',
+    class_name:'全部&电影&电视剧&综艺&动漫2',
     class_url:'0&1&2&3&4',
     limit:20,
     play_parse:true,
