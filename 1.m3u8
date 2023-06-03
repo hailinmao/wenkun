@@ -142,7 +142,7 @@
 "sites":[
 //{"key":"csp_77","name":"👒七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"js七七","name":"🌈七七影视","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/酷云77.js","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"js七七","name":"🌈七七影视","type":3,"api":"https://agit.ai/sejinan/app/raw/branch/box/1/drpy2.min.js","ext":"https://agit.ai/sejinan/app/raw/branch/box/1/酷云77.js","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"js七七","name":"🌈七七影视","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"https://agit.ai/sejinan/app/raw/branch/box/1/酷云77.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
 {"key":"csp_LiteApple","name":"🍎小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
