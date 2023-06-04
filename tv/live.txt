@@ -1224,13 +1224,6 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 河南新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226346/index.m3u8
 河南新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226404/index.m3u8
 
-视频高清1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
-视频高清2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
-纪实高清,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
-小马过河,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226716/index.m3u8
-小马过河,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226357/index.m3u8
-小马过河,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226491/index.m3u8
-
 
 CCTV-1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-2,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225599/index.m3u8
@@ -1304,75 +1297,8 @@ CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225745/index.m3u8
 
 🅱️高清CNTV,#genre
 
-CCTV-1,https://cntv.sbs/live05?id=cctv1
-CCTV-2,https://cntv.sbs/live05?id=cctv2
-CCTV-3,https://cntv.sbs/live05?id=cctv3
-CCTV-4,https://cntv.sbs/live05?id=cctv4
-CCTV-5,https://cntv.sbs/live05?id=cctv5
-CCTV-6,https://cntv.sbs/live05?id=cctv6
-CCTV-7,https://cntv.sbs/live05?id=cctv7
-CCTV-8,https://cntv.sbs/live05?id=cctv8
-CCTV-9,https://cntv.sbs/live05?id=cctv9
-CCTV-10,https://cntv.sbs/live05?id=cctv10
-CCTV-11,https://cntv.sbs/live05?id=cctv11
-CCTV-12,https://cntv.sbs/live05?id=cctv12
-CCTV-13,https://cntv.sbs/live05?id=cctv13
-CCTV-14,https://cntv.sbs/live05?id=cctv14
-CCTV-15,https://cntv.sbs/live05?id=cctv15
-CCTV-16,https://cntv.sbs/live05?id=cctv16
-CCTV-17,https://cntv.sbs/live05?id=cctv17
-CCTV-5+,https://cntv.sbs/live05?id=cctv5p
 
-深圳卫视,https://cntv.sbs/live05?id=szws
-湖南卫视,https://cntv.sbs/live05?id=hunws
-江苏卫视,https://cntv.sbs/live05?id=jsws
-浙江卫视,https://cntv.sbs/live05?id=zjws
-东方卫视,https://cntv.sbs/live05?id=dfws
-广东卫视,https://cntv.sbs/live05?id=gdws
-天津卫视,https://cntv.sbs/live05?id=tjws
-北京卫视,https://cntv.sbs/live05?id=bjws
-重庆卫视,https://cntv.sbs/live05?id=cqws
-河北卫视,https://cntv.sbs/live05?id=hbws
-山东卫视,https://cntv.sbs/live05?id=sdws
-安徽卫视,https://cntv.sbs/live05?id=ahws
-河南卫视,https://cntv.sbs/live05?id=hnws
-江西卫视,https://cntv.sbs/live05?id=jxws
-东南卫视,https://cntv.sbs/live05?id=dnws
-广西卫视,https://cntv.sbs/live05?id=gxws
-云南卫视,https://cntv.sbs/live05?id=ynws
-贵州卫视,https://cntv.sbs/live05?id=gzws
-四川卫视,https://cntv.sbs/live05?id=scws
-海南卫视,https://cntv.sbs/live05?id=hinws
-三沙卫视,https://cntv.sbs/live05?id=ssws
-甘肃卫视,https://cntv.sbs/live05?id=gsws
-吉林卫视,https://cntv.sbs/live05?id=jlws
-辽宁卫视,https://cntv.sbs/live05?id=lnws
-黑龙江卫视,https://cntv.sbs/live05?id=hljws
-内蒙古卫视,https://cntv.sbs/live05?id=nmws
-湖北卫视,https://cntv.sbs/live05?id=hubws
-山西卫视,https://cntv.sbs/live05?id=sxiws
-陕西卫视,https://cntv.sbs/live05?id=sxws
-宁夏卫视,https://cntv.sbs/live05?id=nxws
-青海卫视,https://cntv.sbs/live05?id=qhws
-厦门卫视,https://cntv.sbs/live05?id=xmws
-新疆卫视,https://cntv.sbs/live05?id=xjws
-西藏卫视,https://cntv.sbs/live05?id=xzws
-康巴卫视,https://cntv.sbs/live05?id=kbws
-兵团卫视,https://cntv.sbs/live05?id=btws
-
-中国天气,https://cntv.sbs/live05?id=zgtq
-华语影院,https://cntv.sbs/live05?id=hyyy
-金鹰纪实,https://cntv.sbs/live05?id=jyjs
-生活时尚,https://cntv.sbs/live05?id=shss
-都市剧场,https://cntv.sbs/live05?id=dsjc
-法制天地,https://cntv.sbs/live05?id=fztd
-CETV1,https://cntv.sbs/live05?id=cetv1
-CETV2,https://cntv.sbs/live05?id=cetv2
-CETV3
-CETV4,https://cntv.sbs/live05?id=cetv4
-CGTN,https://cntv.sbs/live05?id=cgtn
-
-🅱️高清IPV6,#genre#
+🅱️高清IPV6,#genre
 
 CCTV-1,	http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 CCTV-2,	http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3589111099_-1793408755/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8?icpid=3&RTS=1668594088&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
@@ -1414,8 +1340,8 @@ CETV-02,	http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
 CETV-03,	http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 CETV-04,	http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 
-凤凰中文,	http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-凤凰资讯,	http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+凤凰资讯,	http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+凤凰中文,	http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 NHK世界,	https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 CNA新闻,	https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛新闻,	http://live-hls-web-aje.getaj.net/AJE/01.m3u8
