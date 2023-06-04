@@ -208,7 +208,7 @@
 {"key":"csp_Tkys","name":"⛅天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_panghu","name":"🐯胖虎影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ_胖虎","name":"🐯胖虎影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/ph.json"}, 
-{"key":"csp_xBPQ_胖虎","name":"(胖鸭➤线路廿二)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/cyl518/yl/raw/branch/master/ph.json"}, 
+//{"key":"csp_xBPQ_胖虎","name":"(胖鸭➤线路廿二)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/cyl518/yl/raw/branch/master/ph.json"}, 
 
 {"key":"csp_Nkdy","name":"⏺南柯影视","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 
