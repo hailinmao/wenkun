@@ -154,7 +154,7 @@
 //{"key": "csp_XYQ_lu1","name": "️TV直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://download.kstore.space/download/2883/tvtv.txt", "jar": "https://download.kstore.space/download/2883/tvtv.jar;md5; E80798750ECA57470F29D1942BCE39BB"},
 //{"key": "T4直播转点播","name": "T4直播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9hZ2l0LmFpL3NlamluYW4vYXBwL3Jhdy9icmFuY2gvYm94L3R2L2xpdmUudHh0","searchable": 1,"quickSearch": 1,"filterable": 1 },
 
-{"key":"csp_xBPQ_鸭奈飞2","name":"胖鸭奈飞","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/ynf.json"}, 
+{"key":"csp_xBPQ_鸭奈飞","name":"胖鸭奈飞","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/cyl518/yl/raw/branch/master/ynf.json"}, 
 
 {"key":"csp_Czsapp","name":"🏭厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
