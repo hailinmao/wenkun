@@ -21,10 +21,6 @@
             "name": "刚刚线路"
         },
         {
-            "url": "https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv.json",
-            "name": "刺桐线路"
-        },
-        {
             "url": "https://raw.iqiq.io/Yosakoii/Yosakoii.github.io/main/2023.json",
             "name": "Yosakoii"
         },
@@ -60,6 +56,10 @@
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "南风agit"
         },   
+        {
+            "url": "https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv.json",
+            "name": "刺桐线路"
+        },
         {
             "url": "https://神器每日推送.tk/pz.json",
             "name": "神器推送"
