@@ -210,6 +210,7 @@
 {"key":"csp_Bd","name":"💥哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"利奥影院","name":"🍪利奥影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/seji/app/raw/branch/main/01/%E5%88%A9%E5%A5%A5%E5%BD%B1%E9%99%A2.json"},
+{"key":"csp_xpath_音范丝磁力","name":"🐛音范丝4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/seji/app/raw/branch/main/01/音范丝磁力.json","jar":"https://codeberg.org/seji/app/raw/branch/main/ali.jpg;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
 
 {"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"csp_一起看","name":"👨‍👩‍👧一起看(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8e3aefcba838d8dc5102ac786719d837"},
@@ -221,9 +222,6 @@
 //{"key":"csp_Tkys","name":"⛅天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Nkdy","name":"⏺南柯影视","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"py_bilimd","name":"B站(解析)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_bilimd.py"},
-{"key":"csp_IQIYI","name":"奇异果(解析)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_QQ","name":"企鹅(解析)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Qtv","name":"🐧┃企鹅官源","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"csp_SP360","name":"📺┃360官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
 //{"key":"MGT","name":"🍋芒果官源","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
@@ -234,7 +232,11 @@
 {"key":"drpy_js_奇异","name":"🥝奇异(js)","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/js/奇珍异兽.js"},
 {"key":"drpy_js_菜狗","name":"🐶菜狗(js)","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/js/菜狗.js"},
 
-{"key":"csp_MGTV","name":"芒果(解析)","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_MGTV","name":"芒果(解析)","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"py_bilimd","name":"B站(解析)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_bilimd.py"},
+//{"key":"csp_IQIYI","name":"奇异果(解析)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_QQ","name":"企鹅(解析)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_Yj1211","name":"📽️在线直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"py_cctvdq","name":"🌏央视大全(PY)","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/Py/py_cctvdq.py"},
@@ -265,7 +267,6 @@
 
 //{"key":"Yanet","name":"鸭奈飞影视","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://codeberg.org/seji/app/raw/branch/main/ts.jar"},
 
-{"key":"csp_xpath_音范丝磁力","name":"🐛音范丝4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/seji/app/raw/branch/main/01/音范丝磁力.json","jar":"https://codeberg.org/seji/app/raw/branch/main/ali.jpg;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
 
 {"key":"csp_XYQBiu_凌云影视","name":"💢凌云影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://codeberg.org/seji/app/raw/branch/main/01/lyys.json"},
 
