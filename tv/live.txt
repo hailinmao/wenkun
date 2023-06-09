@@ -81,7 +81,7 @@ GPT4联网了,https://dghls.mcloud.139.com/hls/L7eec8eb6ffc4702f633a1cabc1dd321a
 LIVE民谣,https://vd4.bdstatic.com/mda-pbnajxcz6raambr0/sc/cae_h264/1677137814219814459/mda-pbnajxcz6raambr0.mp4?v_from_s=bdapp-landingpage-api-nanjing
 
 
-🎈高清频道,#genre
+🎈高清频道,#genre#
 
 高清中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
