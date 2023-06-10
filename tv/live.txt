@@ -7482,7 +7482,7 @@ Y📺云南频道,
 英国伦敦苏赛克斯花园London - Sussex Gardens,https://s29.ipcamlive.com/streams/1d5cj2ovd8qmgxypk/stream.m3u8
 英国伦敦金普顿公园London - Sutton - Kimpton Park Way,https://s61.ipcamlive.com/streams/3dus5uesh7iv6lhwo/stream.m3u8
 英国Acle ibc cam1,https://s100.ipcamlive.com/streams/64oigksdhtzrfil0r/stream.m3u8
-英国教堂St John the Evangelist , Banbury,https://d7x5qir1ay3j1.cloudfront.net/live/definst_54a05ee5b1c6ae1a54c6dfd24c3d58684f0510e4_206.stream/playlist.m3u8
+英国教堂St John the Evangelist ， Banbury,https://d7x5qir1ay3j1.cloudfront.net/live/definst_54a05ee5b1c6ae1a54c6dfd24c3d58684f0510e4_206.stream/playlist.m3u8
 英国芯片店Arnside Chip Shop,https://camsecure.co/HLS/arnside.m3u8
 英国高尔夫俱乐部Bideford - The Royal North Devon Golf Club,https://s14.ipcamlive.com/streams/0eowmznvfbqi48rsj/stream.m3u8
 英国Our Lady of Lourdes Church,https://dlagxen2f371o.cloudfront.net/live/definst_c7e2b4400de6d6afa7dab43eb1db12e1ac6094cd_613.stream/playlist.m3u8
@@ -7548,7 +7548,7 @@ Istralandia livecam – Six water slide square,https://cdn-004.whatsupcams.com/h
 Webcam Sutivan – Brač island,https://cdn-002.whatsupcams.com/hls/hr_sutivan01.m3u8
 Durrës Live cam,https://hd-auth.skylinewebcams.com/live.m3u8?a=7365tb4lnrtq119om27nq30f23
 Sandy Springs,https://frn.rtsp.me/fiGkiw6xfXfrYc3-WNr5TQ/1684141721/hls/SKb2STra.m3u8?ip=123.233.30.21
-Sandy Springs4,,https://s1.worldcam.live:8082/rabien/index.m3u8
+Sandy Springs4，,https://s1.worldcam.live:8082/rabien/index.m3u8
 WSFA Weather Camera,https://s80.ipcamlive.com/streams/50bgqnti4eowsoex5/stream.m3u8
 Sandy Springs5,https://e1-na3.angelcam.com/cameras/105796/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiIxMDU3OTYiLCJkZXZpY2VfaWQiOiIxMDU3OTYiLCJ0aW1lIjoxNjg0MTM5MDA5ODgzMjE1LCJ0aW1lb3V0IjozNjAwfQ%3D%3D%2E324b6a254c7c3eadb2c038e46e591e1eccb14e356b1cfc40ae03dff1ae5c1141
 Live Stream from RHADC Bermuda,https://s90.ipcamlive.com/streams/5avekhytgfieum4qj/stream.m3u8
