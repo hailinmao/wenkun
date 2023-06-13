@@ -164,7 +164,9 @@
 //{"key":"csp_panghu","name":"🐯胖虎影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_XBPQ_胖虎","name":"(胖鸭➤线路廿二)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/cyl518/yl/raw/branch/master/ph.json"}, 
 
-
+{"key": "csp_xb_zbk", "name": "🚅真不卡(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"   },
+{"key":"drpy_js_达达龟", "name":"🐢达达龟[js]", "type":3, "api":"https://xhdwc.tk/lib/drpy2.min.js", "ext":"https://xhdwc.tk/js/达达龟.js" },
+{"key":"drpy_js_FreeOK", "name":"🆓FreeOK[js]", "type":3, "api":"https://xhdwc.tk/lib/drpy2.min.js", "ext":"https://xhdwc.tk/js/FreeOK.js" },
 
 {"key":"csp_Czsapp","name":"🏭厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
