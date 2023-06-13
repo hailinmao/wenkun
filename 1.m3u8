@@ -164,7 +164,7 @@
 //{"key":"csp_panghu","name":"🐯胖虎影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_XBPQ_胖虎","name":"(胖鸭➤线路廿二)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/cyl518/yl/raw/branch/master/ph.json"}, 
 
-{"key": "csp_xb_zbk", "name": "🚅真不卡(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"   },
+{"key": "csp_xb_zbk", "name": "🚅真不卡(XB)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"   },
 {"key":"drpy_js_达达龟", "name":"🐢达达龟[js]", "type":3, "api":"https://xhdwc.tk/lib/drpy2.min.js", "ext":"https://xhdwc.tk/js/达达龟.js" },
 {"key":"drpy_js_FreeOK", "name":"🆓FreeOK[js]", "type":3, "api":"https://xhdwc.tk/lib/drpy2.min.js", "ext":"https://xhdwc.tk/js/FreeOK.js" },
 
@@ -290,7 +290,7 @@
 //{"key":"csp_xml_快播云","name":"🐝快播云","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 //{"key":"csp_xml_xinlang","name":"🐝新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
-{"key":"csp_XBPQ_达达龟","name":"💠达达龟(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/xBPQ/达达龟.json"},
+//{"key":"csp_XBPQ_达达龟","name":"💠达达龟(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/xBPQ/达达龟.json"},
 {"key":"csp_XBPQ_52看剧","name":"💠52看剧(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/xBPQ/52看剧.json"},
 {"key":"csp_XBPQ_巨人影视","name":"💠巨人影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/xBPQ/巨人影视.json"},
 {"key":"csp_XBPQ_大米星球","name":"💠大米星球(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/xBPQ/大米星球.json"},
