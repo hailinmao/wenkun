@@ -177,12 +177,6 @@ CCTV2财经,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225599/index.
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
-凤凰中文,http://hz752.love:63/6720/hkif.php?id=fhzw
-凤凰资讯,http://hz752.love:63/6720/hkif.php?id=fhzx
-
-凤凰中文,http://hz752.love:63/6720/hk.php?id=fhzw
-凤凰资讯,http://hz752.love:63/6720/hk.php?id=fhzx
-
 凤凰中文,http://sc2022.stream-link.org/list.php?id=h014
 凤凰资讯,http://sc2022.stream-link.org/list.php?id=h013
 
@@ -193,7 +187,6 @@ CCTV2财经,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225599/index.
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 
-凤凰中文,http://hz752.live:63/7352/cqyx.php?id=xfjcHD
 
 
 凤凰香港,http://sc2022.stream-link.org/list.php?id=h015
@@ -405,6 +398,13 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
+凤凰中文http://hz752.live:63/7352/cqyx.php?id=xfjcHD
+
+凤凰中文http://hz752.love:63/6720/hkif.php?id=fhzw
+凤凰资讯http://hz752.love:63/6720/hkif.php?id=fhzx
+
+凤凰中文http://hz752.love:63/6720/hk.php?id=fhzw
+凤凰资讯http://hz752.love:63/6720/hk.php?id=fhzx
 
 凤凰中文http://hz752.live:63/vvs/hk.php?id=fhzw
 凤凰资讯http://hz752.live:63/vvs/hk.php?id=fhzx
@@ -1867,34 +1867,6 @@ da宋提刑官[243],https://epg.112114.xyz/huya/11279251
 🐼咪咕TV,#genre#
 
 🐼百视通TV,#genre#
-漫游记,http://hz752.love:63/6720/bstv.php?id=218
-带娃小妙招,http://hz752.love:63/6720/bstv.php?id=52
-奔跑吧兄弟,http://hz752.love:63/6720/bstv.php?id=201
-宅家瘦全身,http://hz752.love:63/6720/bstv.php?id=40
-两个人的世界,http://hz752.love:63/6720/bstv.php?id=124
-粤语好声音,http://hz752.love:63/6720/bstv.php?id=229
-闪电咖啡馆,http://hz752.love:63/6720/bstv.php?id=247
-海派滑稽戏,http://hz752.love:63/6720/bstv.php?id=38
-王牌对王牌,http://hz752.love:63/6720/bstv.php?id=193
-人气美食,http://hz752.love:63/6720/bstv.php?id=144
-也平凡,http://hz752.love:63/6720/bstv.php?id=126
-金曲青春,http://hz752.love:63/6720/bstv.php?id=96
-极限挑战,http://hz752.love:63/6720/bstv.php?id=27
-童年神剧,http://hz752.love:63/6720/bstv.php?id=186
-东方风云榜,http://hz752.love:63/6720/bstv.php?id=146
-最好的舞台,http://hz752.love:63/6720/bstv.php?id=128
-高能脱口秀,http://hz752.love:63/6720/bstv.php?id=76
-我们的歌,http://hz752.love:63/6720/bstv.php?id=41
-梦想改造家,http://hz752.love:63/6720/bstv.php?id=33
-整容级妆教,http://hz752.love:63/6720/bstv.php?id=216
-完美的夏天,http://hz752.love:63/6720/bstv.php?id=59
-汤妈妈,http://hz752.love:63/6720/bstv.php?id=213
-美好生活家,http://hz752.love:63/6720/bstv.php?id=228
-经典电影,http://hz752.love:63/6720/bstv.php?id=246
-纪实人文,http://hz752.love:63/6720/bstv.php?id=28
-262,http://hz752.love:63/6720/bstv.php?id=262
-265,http://hz752.love:63/6720/bstv.php?id=265
-267,http://hz752.love:63/6720/bstv.php?id=267
 
 
 🐼虎牙影视,#genre#
