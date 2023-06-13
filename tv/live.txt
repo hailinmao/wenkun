@@ -3561,6 +3561,9 @@ CCTV风云足球,http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
 
 --斗鱼体育	
 篮球人物,http://epg.112114.xyz/douyu/8434598
+屿风体育,http://epg.112114.xyz/douyu/10329889
+校园体育,http://epg.112114.xyz/douyu/8914471
+
 
 --虎牙体育	
 	
