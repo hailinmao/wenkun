@@ -3556,19 +3556,28 @@ CCTV-5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225
 CCTV16-4K,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV16-4K,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 CCTV16-4K,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
-CCTV风云足球,http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
+风云足球,http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
 
 
 --斗鱼体育	
 篮球人物,http://epg.112114.xyz/douyu/8434598
-屿风体育,http://epg.112114.xyz/douyu/10329889
 校园体育,http://epg.112114.xyz/douyu/8914471
 篮球赛事,http://epg.112114.xyz/douyu/9184257
 足球驿站,http://epg.112114.xyz/douyu/5692232
+屿风体育,http://epg.112114.xyz/douyu/10329889
+
+--虎牙体育
+体育赛场,https://epg.112114.xyz/huya/880224
+虎牙网球,https://epg.112114.xyz/huya/880275
+虎牙斯诺克,https://epg.112114.xyz/huya/880625
+台球经典局,https://epg.112114.xyz/huya/yinuotaiqiu
+TPC台球,https://epg.112114.xyz/huya/28681554
+德甲重播,https://epg.112114.xyz/huya/19197378
+重温世界杯,https://epg.112114.xyz/huya/dejia
+乒乓无极限,https://epg.112114.xyz/huya/pongfinity
+乒乓国球汇,https://epg.112114.xyz/huya/23505696
 
 
---虎牙体育	
-	
 🎬电影频道,#genre#
 	
 埋堆堆42,http://jiandjh.51vip.biz:35455/huya/23735181
