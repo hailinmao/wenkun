@@ -399,18 +399,15 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
-凤凰中文http://hz752.live:63/7352/cqyx.php?id=xfjcHD
-凤凰中文,http://hz752.live:63/4761/cqyx.php?id=xfjcHD
+凤凰中文,http://hz752.live:63/4416/cqyx.php?id=xfjcHD
 
-凤凰中文http://hz752.love:63/6720/hkif.php?id=fhzw
-凤凰资讯http://hz752.love:63/6720/hkif.php?id=fhzx
+凤凰中文,http://hz752.love:63/4416/hkif.php?id=fhzw
+凤凰资讯,http://hz752.love:63/4416/hkif.php?id=fhzx
+凤凰香港,http://hz752.live:63/4416/hkif.php?id=fhhk
 
-凤凰中文http://hz752.love:63/6720/hk.php?id=fhzw
-凤凰资讯http://hz752.love:63/6720/hk.php?id=fhzx
-
-凤凰中文http://hz752.live:63/vvs/hk.php?id=fhzw
-凤凰资讯http://hz752.live:63/vvs/hk.php?id=fhzx
-凤凰香港http://hz752.live:63/vvs/hk.php?id=fhhk
+凤凰中文,http://hz752.live:63/4416/hk.php?id=fhzw
+凤凰资讯,http://hz752.live:63/4416/hk.php?id=fhzx
+凤凰香港,http://hz752.live:63/4416/hk.php?id=fhhk
 
 凤凰中文http://hz752.live:63/vvs/hkif.php?id=fhzw
 凤凰资讯http://hz752.live:63/vvs/hkif.php?id=fhzx
