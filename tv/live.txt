@@ -1,1252 +1,1252 @@
 ﻿	
 🔨点播测试,#genre#
-1	江西风尚购物
-2	江西都市
-3	江西公共
-4	江西经视
-5	江西少儿
-6	江西新闻
-7	江西移动
-8	江西影视
-9	CCTV4K
-10	爱看导视
-11	安徽卫视
-12	北京卫视
-13	兵团卫视
-14	北京纪实科教
-15	卡酷少儿
-16	兵器科技
-17	CCTV10
-18	CCTV11
-19	CCTV12
-20	CCTV15
-21	CCTV16
-22	CCTV16-4K
-23	CCTV16
-24	CCTV17
-25	CCTV1
-26	CCTV2
-27	CCTV3
-28	CCTV4
-29	CCTV4K
-30	CCTV4K
-31	CCTV5
-32	CCTV5+
-33	CCTV6
-34	CCTV7
-35	CCTV8
-36	CCTV9
-37	CCTV13
-38	CCTV14
-39	CGTN
-40	重庆卫视
-41	重庆卫视
-42	重庆汽摩
-43	重庆新农村
-44	重广融媒
-45	重庆少儿
-46	重庆时尚生活
-47	重庆科教
-48	重庆新闻
-49	重庆社会与法
-50	重庆文体娱乐
-51	重庆影视
-52	第一剧场
-53	东南卫视
-54	风云剧场
-55	风云音乐
-56	风云足球
-57	高尔夫网球
-58	广东卫视
-59	广西卫视
-60	贵州卫视
-61	老故事
-62	海南卫视
-63	河北卫视
-64	黑龙江卫视
-65	河南卫视
-66	怀旧剧场
-67	湖北卫视
-68	湖南卫视
-69	欢笑剧场4K
-70	江苏卫视
-71	江西卫视
-72	吉林卫视
-73	金鹰卡通
-74	辽宁卫视
-75	重庆移动
-76	内蒙古卫视
-77	宁夏卫视
-78	中学生
-79	青海卫视
-80	三沙卫视
-81	山东教育卫视
-82	东方卫视
-83	山西卫视
-84	深圳卫视
-85	四川卫视
-86	天津卫视
-87	中国天气
-88	凤凰中文
-89	凤凰中文
-90	新疆卫视
-91	西藏卫视
-92	央视台球
-93	央视文化精品
-94	云南卫视
-95	浙江卫视
-96	CCTV4K
-97	安吉生活
-98	安吉新闻综合
-99	安吉影视
-100	阿克苏1套汉语综合
-101	阿克苏2套汉语文艺
-102	阿克苏3套维语综合
-103	安庆经济生活
-104	安庆新闻综合
-105	巴中文旅生活
-106	巴中综合
-107	昌吉生活
-108	昌吉综合
-109	长乐台
-110	慈溪民生休闲
-111	慈溪新闻综合
-112	慈溪影视图文
-113	大厂一套
-114	大厂二套
-115	大庆公共
-116	大庆新闻综合
-117	大庆教育
-118	砀山经济文化
-119	砀山新闻综合
-120	儋州电视台
-121	肥东生活
-122	肥东综合
-123	阜南新闻综合
-124	福清综合
-125	阜阳都市文艺
-126	阜阳公共
-127	阜阳教育
-128	阜阳新闻综合
-129	富阳新闻综合
-130	鹤壁综合
-131	侯马新闻综合
-132	金普一套
-133	金普二套
-134	冀州综合
-135	开平生活
-136	开平综合
-137	吕梁一套
-138	吕梁二套
-139	临平新闻
-140	临泉新闻
-141	泸县新闻综合
-142	闽侯综合
-143	绵竹电视
-144	宁安综合
-145	宁国新闻综合
-146	宁海新闻综合
-147	南阳公共
-148	南阳科教
-149	南阳新闻综合
-150	平潭新闻综合
-151	芮城综合
-152	射洪综合
-153	三明综合
-154	三明公共
-155	沙县综合
-156	铁岭综合
-157	铁岭新闻综合
-158	温岭民生休闲
-159	温岭新闻综合
-160	新昌生活
-161	新昌新闻
-162	休宁综合
-163	仙桃生活文体
-164	仙桃新闻综合
-165	信宜综合
-166	永安综合
-167	印江电视台
-168	乐清新闻
-169	乐清综合
-170	尤溪旅游宣传
-171	尤溪新闻综合
-172	漳浦综合
-173	漳州一套
-174	安徽公共
-175	安徽国际
-176	安徽生活
-177	安徽农业
-178	安徽卫视
-179	安徽卫视
-180	安徽移动
-181	安徽影视
-182	安徽综艺
-183	安徽卫视
-184	安徽卫视
-185	爱上4K
-186	爱上4K
-187	北京卫视
-188	北京卫视
-189	兵团卫视
-190	兵团卫视
-191	CCTV10
-192	CCTV11
-193	CCTV12
-194	CCTV13
-195	CCTV14
-196	CCTV14
-197	CCTV15
-198	CCTV16
-199	CCTV16-4K
-200	CCTV16
-201	CCTV17
-202	CCTV1
-203	CCTV2
-204	CCTV3
-205	CCTV4
-206	CCTV4欧洲
-207	CCTV5
-208	CCTV5+
-209	CCTV6
-210	CCTV7
-211	CCTV8
-212	CCTV9
-213	CETV1
-214	CETV2
-215	CETV4
-216	财富天下
-217	CGTN阿语
-218	CGTN西语
-219	CGTN法语
-220	CGTN
-221	CGTN纪录
-222	CGTN俄语
-223	CHC动作电影
-224	CHC电影
-225	CHC家庭影院
-226	重庆卫视
-227	重庆卫视
-228	东方卫视
-229	东方卫视
-230	动画
-231	地理
-232	东南卫视
-233	东南卫视
-234	动作
-235	动作影院
-236	广东卫视
-237	广东卫视
-238	甘肃卫视
-239	甘肃卫视
-240	高网
-241	国学
-242	广西卫视
-243	广西卫视
-244	光影
-245	古装
-246	贵州卫视
-247	贵州卫视
-248	河北卫视
-249	海南卫视
-250	黑龙江卫视
-251	黑龙江卫视
-252	河南卫视
-253	河南卫视
-254	湖北卫视
-255	湖北卫视
-256	湖南卫视
-257	湖南卫视
-258	IPTV3+
-259	IPTV5+
-260	IPTV6+
-261	IPTV8+
-262	IPTV谍战剧场
-263	IPTV法治
-264	IPTV经典电影
-265	IPTV魅力时尚
-266	IPTV热播剧场
-267	IPTV少儿动画
-268	IPTV收视指南
-269	IPTV相声小品
-270	IPTV野外
-271	嘉佳卡通
-272	嘉佳卡通
-273	军旅
-274	吉林卫视
-275	军事
-276	鉴赏
-277	江苏卫视
-278	江苏卫视
-279	家庭
-280	家庭影院
-281	精选
-282	江西卫视
-283	江西卫视
-284	金鹰纪实
-285	金鹰卡通
-286	金鹰卡通
-287	康巴卫视
-288	卡酷少儿
-289	卡酷少儿
-290	课堂
-291	科学
-292	辽宁卫视
-293	辽宁卫视
-294	美妆
-295	内蒙古卫视
-296	内蒙古卫视
-297	宁夏卫视
-298	宁夏卫视
-299	青海卫视
-300	热门
-301	四川卫视
-302	四川卫视
-303	山东教育卫视
-304	山东教育卫视
-305	山东教育
-306	山东卫视
-307	山东卫视
-308	三沙卫视
-309	山西卫视
-310	山西卫视
-311	陕西卫视
-312	陕西卫视
-313	深圳卫视
-314	深圳卫视
-315	天津卫视
-316	天津卫视
-317	台球
-318	探索
-319	味道
-320	网络棋牌
-321	武术
-322	武侠
-323	武侠剧场
-324	新动漫
-325	先锋乒羽
-326	喜剧
-327	新疆卫视
-328	新疆卫视
-329	喜剧影院
-330	厦门卫视
-331	戏曲
-332	星影
-333	西藏卫视
-334	云南卫视
-335	云南卫视
-336	音乐
-337	早教
-338	浙江卫视
-339	足球
-340	辽宁卫视
-341	沈阳新闻综合
-342	CCTV2
-343	CCTV3
-344	CCTV4
-345	CCTV5
-346	CCTV6
-347	CCTV8
-348	CCTV13
-349	辽宁都市
-350	辽宁影视
-351	辽宁北方
-352	辽宁体育
-353	辽宁生活
-354	辽宁教育
-355	辽宁经济
-356	辽宁公共
-357	天津卫视
-358	湖南卫视
-359	黑龙江卫视
-360	安徽卫视
-361	吉林卫视
-362	江西卫视
-363	贵州卫视
-364	四川卫视
-365	河南卫视
-366	卡酷少儿
-367	重庆卫视
-368	河北卫视
-369	山西卫视
-370	内蒙古卫视
-371	青海卫视
-372	山东教育卫视
-373	北京纪实科教
-374	广西卫视
-375	宁夏卫视
-376	甘肃卫视
-377	西藏卫视
-378	农林卫视
-379	农林卫视
-380	兵团卫视
-381	CCTV7
-382	CCTV9
-383	CCTV10
-384	CCTV11
-385	CCTV12
-386	CCTV14
-387	CCTV15
-388	家庭理财
-389	新动漫
-390	网络棋牌
-391	天元围棋
-392	车迷频道
-393	环球旅游
-394	生态环境
-395	新疆卫视
-396	优优宝贝
-397	收藏天下
-398	中华特产
-399	法治天地
-400	老故事
-401	重庆汽摩
-402	江苏靓妆
-403	书画频道
-404	茶频道
-405	北方导视
-406	北方导视
-407	CCTV17
-408	百姓健康
-409	摄影频道
-410	财富天下
-411	CCTV5+
-412	大连新闻综合
-413	鞍山新闻综合
-414	抚顺综合
-415	丹东新闻综合
-416	锦州新闻综合
-417	营口新闻综合
-418	阜新综合
-419	辽阳新闻综合
-420	铁岭新闻综合
-421	朝阳新闻综合
-422	盘锦新闻综合
-423	葫芦岛新闻综合
-424	风尚音乐
-425	本溪综合
-426	海南卫视
-427	辽宁经济
-428	辽宁公共
-429	云南卫视
-430	东南卫视
-431	CCTV1
-432	龙港区综合
-433	连山区综合
-434	陕西卫视
-435	北京卫视
-436	北京卫视
-437	北京财经
-438	北京纪实科教
-439	北京生活
-440	北京文艺
-441	北京新闻
-442	北京影视
-443	北京影视
-444	卡酷少儿
-445	卡酷少儿
-446	北京卫视
-447	北京财经
-448	北京纪实科教
-449	北京生活
-450	北京文艺
-451	北京新闻
-452	北京影视
-453	北京影视
-454	卡酷少儿
-455	北京IPTV-8K
-456	安徽卫视
-457	北京卫视
-458	兵团卫视
-459	CCTV1
-460	CCTV10
-461	CCTV11
-462	CCTV12
-463	CCTV13
-464	CCTV14
-465	CCTV15
-466	CCTV16
-467	CCTV16-4K
-468	CCTV17
-469	CCTV2
-470	CCTV2
-471	CCTV3
-472	CCTV4
-473	CCTV4K
-474	CCTV4K
-475	CCTV5
-476	CCTV5+
-477	CCTV6
-478	CCTV7
-479	CCTV8
-480	CCTV9
-481	重庆卫视
-482	东方卫视
-483	东方影视
-484	东方影视
-485	东南卫视
-486	广东卫视
-487	甘肃卫视
-488	广西卫视
-489	贵州卫视
-490	河北卫视
-491	哈哈炫动
-492	海南卫视
-493	黑龙江卫视
-494	河南卫视
-495	湖北卫视
-496	湖南卫视
-497	欢笑剧场4K
-498	吉林卫视
-499	江苏卫视
-500	江西卫视
-501	康巴卫视
-502	辽宁卫视
-503	内蒙古卫视
-504	宁夏卫视
-505	青海卫视
-506	四川卫视
-507	山东卫视
-508	山西卫视
-509	陕西卫视
-510	深圳卫视
-511	天津卫视
-512	新疆卫视
-513	厦门卫视
-514	西藏卫视
-515	云南卫视
-516	中国天气
-517	浙江卫视
-518	两个人的世界
-519	也平凡
-520	最好的舞台
-521	人气美食
-522	东方风云榜
-523	东方卫视
-524	东方卫视
-525	上海外语
-526	上海都市
-527	童年神剧
-528	哈哈炫动
-529	哈哈炫动
-530	王牌对王牌
-531	上海新闻
-532	奔跑吧兄弟
-533	第一财经
-534	汤妈妈
-535	整容级妆教
-536	漫游记
-537	美好生活家
-538	粤语好声音
-539	经典电影
-540	闪电咖啡馆
-541	极限挑战
-542	梦想改造家
-543	海派滑稽戏
-544	宅家瘦全身
-545	我们的歌
-546	带娃小妙招
-547	完美的夏天
-548	高能脱口秀
-549	金曲青春
-550	汕尾公共
-551	汕尾综合
-552	CCTV4K
-553	CCTV4K
-554	重庆卫视
-555	重庆卫视
-556	重庆新闻
-557	福建综合
-558	东南卫视
-559	福建公共
-560	福建新闻
-561	福建电视剧
-562	福建旅游
-563	福建经视
-564	福建文体
-565	福建少儿
-566	海峡卫视
-567	海峡卫视
-568	东莞综合
-569	东莞生活
-570	佛山公共
-571	佛山高明
-572	佛山南海
-573	佛山顺德
-574	佛山三水
-575	佛山影视
-576	佛山综合
-577	江门生活
-578	江门综合
-579	清远生活
-580	清远综合
-581	深圳财经
-582	深圳都市
-583	深圳电视剧
-584	深圳公共
-585	深圳国际
-586	深圳少儿
-587	深圳体育
-588	深圳卫视
-589	深圳卫视
-590	深圳移动
-591	深圳娱乐
-592	深圳宜和购物
-593	广东房产
-594	广东民生
-595	广东国际
-596	GRTN健康
-597	广东少儿
-598	广东体育
-599	广东文化
-600	广东卫视
-601	广东卫视
-602	广东新闻
-603	广东移动
-604	广东影视
-605	广东影视
-606	广东珠江
-607	广东综艺
-608	广东经济科教
-609	嘉佳卡通
-610	嘉佳卡通
-611	岭南戏曲
-612	南方购物
-613	大湾区卫视
-614	大湾区卫视
-615	现代教育
-616	湛江公共
-617	湛江综合
-618	江门生活
-619	江门综合
-620	广州法治
-621	广州竞赛
-622	广州南国都市
-623	广州新闻
-624	广州影视
-625	广州综合
-626	贵州法治
-627	贵州公共
-628	贵州经济
-629	贵州购物
-630	贵州科教
-631	贵州生活
-632	贵州卫视
-633	贵州卫视
-634	贵州影视
-635	贵州移动
-636	海南卫视
-637	海南卫视
-638	海南影视
-639	海南经济
-640	海南新闻
-641	海南公共
-642	三沙卫视
-643	海南文旅
-644	海南少儿
-645	凤凰香港
-646	凤凰中文
-647	凤凰中文
-648	凤凰资讯
-649	凤凰香港
-650	凤凰中文
-651	凤凰中文
-652	凤凰资讯
-653	丹江口综合
-654	恩施文旅
-655	恩施综合
-656	湖北公共
-657	湖北经视
-658	湖北教育
-659	湖北垄上
-660	湖北生活
-661	湖北卫视
-662	湖北卫视
-663	湖北影视
-664	湖北综合
-665	罗田旅游
-666	罗田综合
-667	蕲春旅游养生
-668	蕲春综合
-669	武穴综合
-670	襄阳经济生活
-671	襄阳综合
-672	湖南都市
-673	湖南电视剧
-674	湖南电影
-675	湖南公共
-676	湖南国际
-677	湖南经视
-678	湖南娱乐
-679	海峡卫视
-680	海峡卫视
-681	滨城TV
-682	博兴生活
-683	博兴
-684	惠民影视
-685	惠民综合
-686	无棣综合
-687	无棣综艺
-688	阳信综合
-689	沾化综合
-690	邹平民生
-691	邹平新闻
-692	广饶科教文艺
-693	广饶综合
-694	垦利综合
-695	利津文化生活
-696	利津综合
-697	东营区科教影视
-698	东营区新闻综合
-699	德州经济生活
-700	陵城综合
-701	乐陵城市生活
-702	乐陵综合
-703	临邑1
-704	临邑2
-705	宁津综合
-706	平原
-707	齐河综合
-708	庆云生活
-709	庆云综合
-710	武城综合
-711	武城综艺影视
-712	夏津公共
-713	夏津综合
-714	德州综合
-715	禹城综合
-716	禹城综艺
-717	成武综合
-718	成武综艺
-719	曹县综合
-720	东明综合
-721	定陶频道
-722	定陶教育频道
-723	鄄城综合
-724	鄄城综艺
-725	巨野综合
-726	牡丹区综合
-727	牡丹区综艺
-728	单县综合
-729	郓城综合
-730	郓城综艺
-731	嘉祥生活
-732	嘉祥综合
-733	金乡生活
-734	金乡新闻
-735	梁山综合
-736	曲阜综合
-737	任城综合
-738	任城影视娱乐
-739	泗水文化生活
-740	泗水综合
-741	微山1
-742	微山2
-743	汶上生活
-744	汶上
-745	鱼台生活
-746	鱼台
-747	兖州生活
-748	兖州新闻
-749	邹城文化生活
-750	邹城综合
-751	长清生活
-752	长清
-753	济铁电视台
-754	济阳影视
-755	济阳综合
-756	历城综合
-757	平阴生活
-758	平阴综合
-759	商河影视
-760	商河综合
-761	章丘综合
-762	章丘TV-2
-763	茌平生活
-764	茌平综合
-765	东昌综合
-766	东阿综合
-767	东阿综艺信息
-768	高唐生活
-769	高唐综合
-770	冠县综合
-771	临清经济信息
-772	临清综合
-773	莘县综合
-774	莘县公共
-775	阳谷综合
-776	阳谷影视
-777	费县生活
-778	费县综合
-779	河东影视
-780	河东综合
-781	莒南影视
-782	莒南综合
-783	兰山综合
-784	兰陵公共
-785	兰陵综合
-786	临沭TV-1
-787	临沭TV-2
-788	罗庄影视
-789	罗庄综合
-790	蒙阴1
-791	蒙阴2
-792	平邑生活
-793	平邑综合
-794	郯城TV-1
-795	郯城TV-2
-796	沂南温泉旅游
-797	沂南综合
-798	沂水TV1
-799	沂水TV2
-800	黄岛生活
-801	黄岛综合
-802	即墨生活服务
-803	即墨综合
-804	胶州生活
-805	胶州综合
-806	李沧综合
-807	崂山综合
-808	莱西生活
-809	莱西综合
-810	平度生活服务
-811	平度综合
-812	莒县1
-813	莒县2
-814	莒县
-815	岚山
-816	五莲文化旅游
-817	五莲综合
-818	东平民生
-819	东平新闻
-820	岱岳综合
-821	肥城生活
-822	肥城综合
-823	宁阳1
-824	宁阳2
-825	泰山TV
-826	新泰乡村
-827	新泰综合
-828	安丘民生
-829	安丘综合
-830	滨海综合
-831	昌乐综合
-832	昌邑经济生活
-833	昌邑综合
-834	坊子综合
-835	高密综合
-836	寒亭新闻
-837	奎文综合
-838	临朐综合
-839	青州文化
-840	青州综合
-841	潍城TV
-842	诸城生活娱乐
-843	诸城综合
-844	威海生活
-845	威海海洋
-846	荣成生活
-847	荣成综合
-848	乳山生活
-849	乳山综合
-850	文登TV1
-851	文登TV2
-852	威海综合
-853	长岛综合
-854	福山影视
-855	福山综合
-856	海阳综合
-857	龙口生活
-858	龙口综合
-859	莱山影视
-860	莱山综合
-861	莱阳民生综艺
-862	莱阳综合
-863	莱州商务
-864	莱州综合
-865	牟平综合
-866	蓬莱新闻
-867	蓬莱综合
-868	栖霞苹果
-869	栖霞综合
-870	招远综合
-871	招远综艺
-872	博山图文
-873	博山综合
-874	高青影视
-875	高青综合
-876	桓台TV1
-877	桓台TV2
-878	临淄生活服务
-879	临淄综合
-880	沂源生活
-881	沂源综合
-882	淄川生活
-883	淄川综合
-884	张店综合
-885	张店公共
-886	周村生活
-887	周村新闻
-888	山亭综合
-889	市中综合
-890	台儿庄综合
-891	滕州民生
-892	滕州综合
-893	薛城综合
-894	峄城综合
-895	江苏体育
-896	江苏城市
-897	江苏公共
-898	江苏国际
-899	江苏教育
-900	江苏靓妆
-901	江苏卫视
-902	江苏卫视
-903	江苏影视
-904	江苏影视
-905	江苏综艺
-906	江苏学习
-907	优漫卡通
-908	优漫卡通
-909	安义电视台
-910	进贤电视台
-911	南昌都市
-912	南昌公共
-913	南昌新闻综合
-914	南昌资讯政法
-915	湾里电视台
-916	新建电视台
-917	揭阳生活
-918	揭阳综合
-919	澳门莲花
-920	咪咕24小时体育台
-921	爱国影展
-922	爆款动画电影
-923	纯爱文艺影院
-924	CCTV1
-925	CCTV10
-926	CCTV11
-927	CCTV12
-928	CCTV14
-929	CCTV15
-930	CCTV17
-931	CCTV2
-932	CCTV3
-933	CCTV4
-934	CCTV4美洲
-935	CCTV4欧洲
-936	CCTV5
-937	CCTV5+
-938	CCTV6
-939	CCTV7
-940	CCTV8
-941	CCTV9
-942	CGTN
-943	CGTN阿语
-944	CGTN西语
-945	CGTN法语
-946	CGTN纪录
-947	CGTN俄语
-948	昌黎综合
-949	成龙作品集
-950	重庆卫视
-951	CUVA频道
-952	东方卫视
-953	东方影视
-954	东方影视
-955	大咖在现场
-956	大湾区卫视
-957	第一财经
-958	红色谍战剧场
-959	发现之旅
-960	CCTV风云剧场
-961	广东卫视
-962	广东影视
-963	广东影视
-964	古龙作品集
-965	sk高能烧脑时刻
-966	大片
-967	甘肃卫视
-968	淮安新闻综合
-969	怀旧老片
-970	红色轮播台
-971	湖北卫视
-972	汉中公共
-973	汉中教育
-974	经典动画
-975	经典放映厅
-976	经典影视速看
-977	嘉佳卡通
-978	健康中国
-979	军旅剧场
-980	吉林卫视
-981	江苏城市
-982	军事大片
-983	江苏公共
-984	江苏国际
-985	江苏教育
-986	江苏靓妆
-987	江苏体育
-988	江苏卫视
-989	江苏学习
-990	江苏影视
-991	江苏影视
-992	江苏综艺
-993	江西卫视
-994	金鹰纪实
-995	金庸频道
-996	解压影院
-997	留坝电视台
-998	刘德华影院
-999	辽宁卫视
-1000	临洮电视台
-1001	连云港新闻综合
-1002	略阳电视台
-1003	林正英剧场*
-1004	咪咕独家放送
-1005	美国电影时刻
-1006	勉县电视台
-1007	内蒙古卫视
-1008	宁强电视台
-1009	宁夏卫视
-1010	青海卫视
-1011	热剧联播
-1012	四川卫视
-1013	试胆大会
-1014	山东教育卫视
-1015	山东卫视
-1016	四海钓鱼
-1017	上海外语
-1018	纪实人文
-1019	世界杯遗珠大赏
-1020	少林真功夫
-1021	SNH48剧场公演
-1022	宿迁新闻综合
-1023	赛事最经典
-1024	陕西卫视
-1025	苏州新闻综合
-1026	体坛名栏汇
-1027	泰想看电影
-1028	体育影视
-1029	泰州新闻综合
-1030	王牌对王牌
-1031	温情催泪影院
-1032	无锡新闻综合
-1033	乡村振兴
-1034	喜剧联盟
-1035	新疆卫视
-1036	新片放映厅
-1037	西藏卫视
-1038	徐州综合
-1039	印度神片
-1040	运动员演戏
-1041	优漫卡通
-1042	优漫卡通
-1043	约你看韩影
-1044	粤听粤爱
-1045	影像俄罗斯
-1046	张国荣影院
-1047	智慧养老
-1048	走进艺术
-1049	镇江综合
-1050	筑梦九天
-1051	最强综艺趴
-1052	周润发影院
-1053	周星驰影院
-1054	中学生
-1055	宁波一套
-1056	宁波二套
-1057	宁波三套
-1058	宁波四套
-1059	宁波五套
-1060	宁波六套
-1061	内蒙古卫视
-1062	内蒙古卫视
-1063	内蒙古综合
-1064	内蒙古文化
-1065	内蒙古卫视蒙语
-1066	内蒙古少儿
-1067	内蒙古文娱
-1068	内蒙古农牧
-1069	内蒙古生活
-1070	内蒙古卫视蒙语
-1071	宁夏少儿
-1072	宁夏文旅
-1073	宁夏公共
-1074	宁夏经济
-1075	成都都市
-1076	成都公共
-1077	成都经济
-1078	成都购物
-1079	成都蓉城
-1080	成都少儿
-1081	成都新闻
-1082	成都影视
-1083	成华有线
-1084	崇州电视1套
-1085	都江堰电视台
-1086	新津电视台
-1087	成都高新电视
-1088	锦江电视台
-1089	金牛综合
-1090	金堂电视台
-1091	简阳新闻综合
-1092	龙泉新闻综合
-1093	郫都新闻综合
-1094	蒲江电视台
-1095	彭州电视台
-1096	青白江电视台
-1097	邛崃电视台
-1098	青羊电视台
-1099	双流综合
-1100	武侯电视台
-1101	温江综合
-1102	新都电视台
-1103	大邑综合
-1104	康巴卫视
-1105	四川TV7
-1106	四川经济
-1107	四川文化
-1108	四川卫视
-1109	四川卫视
-1110	四川乡村
-1111	星空购物
-1112	四川新闻
-1113	四川影视
-1114	山东新闻
-1115	山东国际
-1116	山东农科
-1117	山东齐鲁
-1118	山东卫视
-1119	山东卫视
-1120	山东少儿
-1121	山东生活
-1122	山东体育
-1123	山东文旅
-1124	山东综艺
-1125	勃利综合
-1126	巴彦电视台
-1127	大连天鹅购物
-1128	大连少儿
-1129	大连生活
-1130	大连文体
-1131	大连新闻综合
-1132	大连综合影视
-1133	东宁综合
-1134	富锦电视台
-1135	抚远电视台
-1136	合肥财经
-1137	合肥公共
-1138	合肥教育法治
-1139	合肥新闻
-1140	合肥故事休闲
-1141	嘉荫综合
-1142	克东综合
-1143	林甸综合
-1144	龙江综合
-1145	林口综合
-1146	穆棱综合
-1147	讷河综合
-1148	绥芬河综合
-1149	绥棱综合
-1150	汕头综合
-1151	陕西都市
-1152	陕西公共
-1153	黄河频道
-1154	山西卫视
-1155	山西卫视
-1156	山西经济
-1157	陕西生活
-1158	山西社会
-1159	陕西体育
-1160	陕西卫视
-1161	山西文体
-1162	陕西新闻
-1163	陕西移动
-1164	山西影视
-1165	泰来综合
-1166	铁力综合
-1167	太原佰乐购
-1168	太原经济生活
-1169	太原社教法制
-1170	太原文体
-1171	太原新闻综合
-1172	太原影视
-1173	依安综合
-1174	海东综合
-1175	玉林公共
-1176	玉林综合
-1177	安徽卫视
-1178	北京卫视
-1179	CCTV10
-1180	CCTV11
-1181	CCTV12
-1182	CCTV13
-1183	CCTV14
-1184	CCTV15
-1185	CCTV2
-1186	CCTV3
-1187	CCTV4
-1188	CCTV5
-1189	CCTV6
-1190	CCTV7
-1191	CCTV8
-1192	CCTV9
-1193	重庆卫视
-1194	东方卫视
-1195	东南卫视
-1196	甘肃卫视
-1197	广东卫视
-1198	广西卫视
-1199	贵州卫视
-1200	CCTV1
-1201	CCTV5+
-1202	黑龙江卫视
-1203	河北卫视
-1204	湖北卫视
-1205	湖南卫视
-1206	江苏卫视
-1207	江西卫视
-1208	吉林卫视
-1209	金鹰卡通
-1210	卡酷少儿
-1211	康巴卫视
-1212	辽宁卫视
-1213	内蒙古卫视
-1214	宁夏卫视
-1215	青海卫视
-1216	云南生活
-1217	云南影视
-1218	山东教育卫视
-1219	山东卫视
-1220	陕西卫视
-1221	山西卫视
-1222	深圳卫视
-1223	四川卫视
-1224	天津卫视
-1225	新疆卫视
-1226	西藏卫视
-1227	哈哈炫动
-1228	云南都市
-1229	云南娱乐
-1230	云南康旅
-1231	云南国际
-1232	云南少儿
-1233	优漫卡通
-1234	云南卫视
-1235	浙江卫视
-1236	扬州邗江
-1237	扬州一套
-1238	扬州二套
-1239	扬州三套
-1240	富阳综合
-1241	Hoolo综合
-1242	杭州导视
-1243	杭州生活
-1244	西湖明珠
-1245	杭州影视
-1246	杭州综合
-1247	青少体育
+1	江西风尚购物,	http://hz752.live:63/3111/jxtv.php?id=fsgw
+2	江西都市,	http://hz752.live:63/3111/jxtv.php?id=jxds
+3	江西公共,	http://hz752.live:63/3111/jxtv.php?id=jxgg
+4	江西经视,	http://hz752.live:63/3111/jxtv.php?id=jxjs
+5	江西少儿,	http://hz752.live:63/3111/jxtv.php?id=jxse
+6	江西新闻,	http://hz752.live:63/3111/jxtv.php?id=jxxw
+7	江西移动,	http://hz752.live:63/3111/jxtv.php?id=jxyd
+8	江西影视,	http://hz752.live:63/3111/jxtv.php?id=jxys
+9	CCTV4K,	http://hz752.live:63/4761/cn4k.php
+10	爱看导视,	http://hz752.live:63/4761/cqyx.php?id=aikanHD
+11	安徽卫视,	http://hz752.live:63/4761/cqyx.php?id=anhuiSD
+12	北京卫视,	http://hz752.live:63/4761/cqyx.php?id=beijingHD
+13	兵团卫视,	http://hz752.live:63/4761/cqyx.php?id=bingtuanSD
+14	北京纪实科教,	http://hz752.live:63/4761/cqyx.php?id=bjayjsSD
+15	卡酷少儿,	http://hz752.live:63/4761/cqyx.php?id=bjkakuSD
+16	兵器科技,	http://hz752.live:63/4761/cqyx.php?id=bqkjHD
+17	CCTV10,	http://hz752.live:63/4761/cqyx.php?id=cctv10HD
+18	CCTV11,	http://hz752.live:63/4761/cqyx.php?id=cctv11HD
+19	CCTV12,	http://hz752.live:63/4761/cqyx.php?id=cctv12HD
+20	CCTV15,	http://hz752.live:63/4761/cqyx.php?id=cctv15HD
+21	CCTV16,	http://hz752.live:63/4761/cqyx.php?id=CCTV16_4K
+22	CCTV16-4K,	http://hz752.live:63/4761/cqyx.php?id=CCTV16_4K
+23	CCTV16,	http://hz752.live:63/4761/cqyx.php?id=cctv16HD
+24	CCTV17,	http://hz752.live:63/4761/cqyx.php?id=cctv17HD
+25	CCTV1,	http://hz752.live:63/4761/cqyx.php?id=cctv1HD
+26	CCTV2,	http://hz752.live:63/4761/cqyx.php?id=cctv2HD
+27	CCTV3,	http://hz752.live:63/4761/cqyx.php?id=cctv3HD
+28	CCTV4,	http://hz752.live:63/4761/cqyx.php?id=cctv4HD
+29	CCTV4K,	http://hz752.live:63/4761/cqyx.php?id=CCTV4K
+30	CCTV4K,	http://hz752.live:63/4761/cqyx.php?id=CCTV4K
+31	CCTV5,	http://hz752.live:63/4761/cqyx.php?id=cctv5HD
+32	CCTV5+,	http://hz752.live:63/4761/cqyx.php?id=cctv5SportHD
+33	CCTV6,	http://hz752.live:63/4761/cqyx.php?id=cctv6HD
+34	CCTV7,	http://hz752.live:63/4761/cqyx.php?id=cctv7HD
+35	CCTV8,	http://hz752.live:63/4761/cqyx.php?id=cctv8HD
+36	CCTV9,	http://hz752.live:63/4761/cqyx.php?id=cctv9HD
+37	CCTV13,	http://hz752.live:63/4761/cqyx.php?id=CCTVNewsHD
+38	CCTV14,	http://hz752.live:63/4761/cqyx.php?id=cctvseHD
+39	CGTN,	http://hz752.live:63/4761/cqyx.php?id=cgtnSD
+40	重庆卫视,	http://hz752.live:63/4761/cqyx.php?id=chongqingHD
+41	重庆卫视,	http://hz752.live:63/4761/cqyx.php?id=chongqingHD
+42	重庆汽摩,	http://hz752.live:63/4761/cqyx.php?id=cqcarSD
+43	重庆新农村,	http://hz752.live:63/4761/cqyx.php?id=cqggncHD
+44	重广融媒,	http://hz752.live:63/4761/cqyx.php?id=cqrongmei
+45	重庆少儿,	http://hz752.live:63/4761/cqyx.php?id=cqseHD
+46	重庆时尚生活,	http://hz752.live:63/4761/cqyx.php?id=cqssgwHD
+47	重庆科教,	http://hz752.live:63/4761/cqyx.php?id=CQTVkejiaoHD
+48	重庆新闻,	http://hz752.live:63/4761/cqyx.php?id=CQTVNewsHD
+49	重庆社会与法,	http://hz752.live:63/4761/cqyx.php?id=CQTVTrendyHD
+50	重庆文体娱乐,	http://hz752.live:63/4761/cqyx.php?id=cqwtylHD
+51	重庆影视,	http://hz752.live:63/4761/cqyx.php?id=cqyingshiHD
+52	第一剧场,	http://hz752.live:63/4761/cqyx.php?id=diyijuchangHD
+53	东南卫视,	http://hz752.live:63/4761/cqyx.php?id=dongnanHD
+54	风云剧场,	http://hz752.live:63/4761/cqyx.php?id=fyjcHD
+55	风云音乐,	http://hz752.live:63/4761/cqyx.php?id=fyyyHD
+56	风云足球,	http://hz752.live:63/4761/cqyx.php?id=fyzqHD
+57	高尔夫网球,	http://hz752.live:63/4761/cqyx.php?id=golfHD
+58	广东卫视,	http://hz752.live:63/4761/cqyx.php?id=guangdongHD
+59	广西卫视,	http://hz752.live:63/4761/cqyx.php?id=guangxiHD
+60	贵州卫视,	http://hz752.live:63/4761/cqyx.php?id=guizhouHD
+61	老故事,	http://hz752.live:63/4761/cqyx.php?id=gushi
+62	海南卫视,	http://hz752.live:63/4761/cqyx.php?id=hainanSD
+63	河北卫视,	http://hz752.live:63/4761/cqyx.php?id=hebeiSD
+64	黑龙江卫视,	http://hz752.live:63/4761/cqyx.php?id=heilongjiangHD
+65	河南卫视,	http://hz752.live:63/4761/cqyx.php?id=henanHD
+66	怀旧剧场,	http://hz752.live:63/4761/cqyx.php?id=hjjcHD
+67	湖北卫视,	http://hz752.live:63/4761/cqyx.php?id=hubeiSD
+68	湖南卫视,	http://hz752.live:63/4761/cqyx.php?id=hunanHD
+69	欢笑剧场4K,	http://hz752.live:63/4761/cqyx.php?id=hxjc_4K
+70	江苏卫视,	http://hz752.live:63/4761/cqyx.php?id=jiangsuHD
+71	江西卫视,	http://hz752.live:63/4761/cqyx.php?id=jiangxiHD
+72	吉林卫视,	http://hz752.live:63/4761/cqyx.php?id=jilinHD
+73	金鹰卡通,	http://hz752.live:63/4761/cqyx.php?id=jinyingSD
+74	辽宁卫视,	http://hz752.live:63/4761/cqyx.php?id=liaoningHD
+75	重庆移动,	http://hz752.live:63/4761/cqyx.php?id=mryyHD
+76	内蒙古卫视,	http://hz752.live:63/4761/cqyx.php?id=neimengkuSD
+77	宁夏卫视,	http://hz752.live:63/4761/cqyx.php?id=ningxia
+78	中学生,	http://hz752.live:63/4761/cqyx.php?id=qicai
+79	青海卫视,	http://hz752.live:63/4761/cqyx.php?id=qinghaiSD
+80	三沙卫视,	http://hz752.live:63/4761/cqyx.php?id=sanshaSD
+81	山东教育卫视,	http://hz752.live:63/4761/cqyx.php?id=sdjiaoyuSD
+82	东方卫视,	http://hz752.live:63/4761/cqyx.php?id=shanghaiHD
+83	山西卫视,	http://hz752.live:63/4761/cqyx.php?id=shanxiSD
+84	深圳卫视,	http://hz752.live:63/4761/cqyx.php?id=shenzhenHD
+85	四川卫视,	http://hz752.live:63/4761/cqyx.php?id=sichuanHD
+86	天津卫视,	http://hz752.live:63/4761/cqyx.php?id=tianjinHD
+87	中国天气,	http://hz752.live:63/4761/cqyx.php?id=tianqiSD
+88	凤凰中文,	http://hz752.live:63/4761/cqyx.php?id=xfjcHD
+89	凤凰中文,	http://hz752.live:63/4761/cqyx.php?id=xfjcHD
+90	新疆卫视,	http://hz752.live:63/4761/cqyx.php?id=xinjiangSD
+91	西藏卫视,	http://hz752.live:63/4761/cqyx.php?id=xizangSD
+92	央视台球,	http://hz752.live:63/4761/cqyx.php?id=ystqHD
+93	央视文化精品,	http://hz752.live:63/4761/cqyx.php?id=yswhHD
+94	云南卫视,	http://hz752.live:63/4761/cqyx.php?id=yunnanSD
+95	浙江卫视,	http://hz752.live:63/4761/cqyx.php?id=zhejiangHD
+96	CCTV4K,	http://hz752.live:63/4761/tv4k.php
+97	安吉生活,	http://hz752.love:63/3111/ady.php?id=ajsh
+98	安吉新闻综合,	http://hz752.love:63/3111/ady.php?id=ajxw
+99	安吉影视,	http://hz752.love:63/3111/ady.php?id=ajys
+100	阿克苏1套汉语综合,	http://hz752.love:63/3111/ady.php?id=akstv1
+101	阿克苏2套汉语文艺,	http://hz752.love:63/3111/ady.php?id=akstv2
+102	阿克苏3套维语综合,	http://hz752.love:63/3111/ady.php?id=akstv3
+103	安庆经济生活,	http://hz752.love:63/3111/ady.php?id=aqjjsh
+104	安庆新闻综合,	http://hz752.love:63/3111/ady.php?id=aqxwzh
+105	巴中文旅生活,	http://hz752.love:63/3111/ady.php?id=bzwlsh
+106	巴中综合,	http://hz752.love:63/3111/ady.php?id=bzzh
+107	昌吉生活,	http://hz752.love:63/3111/ady.php?id=cjcssh
+108	昌吉综合,	http://hz752.love:63/3111/ady.php?id=cjzh
+109	长乐台,	http://hz752.love:63/3111/ady.php?id=cltv
+110	慈溪民生休闲,	http://hz752.love:63/3111/ady.php?id=cxmsxx
+111	慈溪新闻综合,	http://hz752.love:63/3111/ady.php?id=cxxwzh
+112	慈溪影视图文,	http://hz752.love:63/3111/ady.php?id=cxystw
+113	大厂一套,	http://hz752.love:63/3111/ady.php?id=dctv1
+114	大厂二套,	http://hz752.love:63/3111/ady.php?id=dctv2
+115	大庆公共,	http://hz752.love:63/3111/ady.php?id=dqgg
+116	大庆新闻综合,	http://hz752.love:63/3111/ady.php?id=dqxwzh
+117	大庆教育,	http://hz752.love:63/3111/ady.php?id=dqyy
+118	砀山经济文化,	http://hz752.love:63/3111/ady.php?id=dsjjwh
+119	砀山新闻综合,	http://hz752.love:63/3111/ady.php?id=dsxwzh
+120	儋州电视台,	http://hz752.love:63/3111/ady.php?id=dztv
+121	肥东生活,	http://hz752.love:63/3111/ady.php?id=fdjjsh
+122	肥东综合,	http://hz752.love:63/3111/ady.php?id=fdxwzh
+123	阜南新闻综合,	http://hz752.love:63/3111/ady.php?id=fnxwzh
+124	福清综合,	http://hz752.love:63/3111/ady.php?id=fqzh
+125	阜阳都市文艺,	http://hz752.love:63/3111/ady.php?id=fydswy
+126	阜阳公共,	http://hz752.love:63/3111/ady.php?id=fygg
+127	阜阳教育,	http://hz752.love:63/3111/ady.php?id=fyjy
+128	阜阳新闻综合,	http://hz752.love:63/3111/ady.php?id=fyxwzh
+129	富阳新闻综合,	http://hz752.love:63/3111/ady.php?id=fyzh
+130	鹤壁综合,	http://hz752.love:63/3111/ady.php?id=hbxwzh
+131	侯马新闻综合,	http://hz752.love:63/3111/ady.php?id=hmxw
+132	金普一套,	http://hz752.love:63/3111/ady.php?id=jptv1
+133	金普二套,	http://hz752.love:63/3111/ady.php?id=jptv2
+134	冀州综合,	http://hz752.love:63/3111/ady.php?id=jzzh
+135	开平生活,	http://hz752.love:63/3111/ady.php?id=kpsh
+136	开平综合,	http://hz752.love:63/3111/ady.php?id=kpzh
+137	吕梁一套,	http://hz752.love:63/3111/ady.php?id=lltv1
+138	吕梁二套,	http://hz752.love:63/3111/ady.php?id=lltv2
+139	临平新闻,	http://hz752.love:63/3111/ady.php?id=lpxw
+140	临泉新闻,	http://hz752.love:63/3111/ady.php?id=lqtv
+141	泸县新闻综合,	http://hz752.love:63/3111/ady.php?id=lxzh
+142	闽侯综合,	http://hz752.love:63/3111/ady.php?id=mhzh
+143	绵竹电视,	http://hz752.love:63/3111/ady.php?id=mztv
+144	宁安综合,	http://hz752.love:63/3111/ady.php?id=nazh
+145	宁国新闻综合,	http://hz752.love:63/3111/ady.php?id=ngxwzh
+146	宁海新闻综合,	http://hz752.love:63/3111/ady.php?id=nhxwzh
+147	南阳公共,	http://hz752.love:63/3111/ady.php?id=nygg
+148	南阳科教,	http://hz752.love:63/3111/ady.php?id=nykj
+149	南阳新闻综合,	http://hz752.love:63/3111/ady.php?id=nyzh
+150	平潭新闻综合,	http://hz752.love:63/3111/ady.php?id=ptxwzh
+151	芮城综合,	http://hz752.love:63/3111/ady.php?id=rczh
+152	射洪综合,	http://hz752.love:63/3111/ady.php?id=shtv
+153	三明综合,	http://hz752.love:63/3111/ady.php?id=smtv1
+154	三明公共,	http://hz752.love:63/3111/ady.php?id=smtv2
+155	沙县综合,	http://hz752.love:63/3111/ady.php?id=sxzh
+156	铁岭综合,	http://hz752.love:63/3111/ady.php?id=tlzh
+157	铁岭新闻综合,	http://hz752.love:63/3111/ady.php?id=tlzh
+158	温岭民生休闲,	http://hz752.love:63/3111/ady.php?id=wlmsxx
+159	温岭新闻综合,	http://hz752.love:63/3111/ady.php?id=wlxwzh
+160	新昌生活,	http://hz752.love:63/3111/ady.php?id=xcsh
+161	新昌新闻,	http://hz752.love:63/3111/ady.php?id=xcxw
+162	休宁综合,	http://hz752.love:63/3111/ady.php?id=xnxwzh
+163	仙桃生活文体,	http://hz752.love:63/3111/ady.php?id=xtshwt
+164	仙桃新闻综合,	http://hz752.love:63/3111/ady.php?id=xtxwzh
+165	信宜综合,	http://hz752.love:63/3111/ady.php?id=xytv
+166	永安综合,	http://hz752.love:63/3111/ady.php?id=yazh
+167	印江电视台,	http://hz752.love:63/3111/ady.php?id=yjtv
+168	乐清新闻,	http://hz752.love:63/3111/ady.php?id=yqxw
+169	乐清综合,	http://hz752.love:63/3111/ady.php?id=yqzh
+170	尤溪旅游宣传,	http://hz752.love:63/3111/ady.php?id=yxlyxc
+171	尤溪新闻综合,	http://hz752.love:63/3111/ady.php?id=yxxwzh
+172	漳浦综合,	http://hz752.love:63/3111/ady.php?id=zpzh
+173	漳州一套,	http://hz752.love:63/3111/ady.php?id=zztv1
+174	安徽公共,	http://hz752.love:63/3111/ahtv.php?id=ahgg
+175	安徽国际,	http://hz752.love:63/3111/ahtv.php?id=ahgj
+176	安徽生活,	http://hz752.love:63/3111/ahtv.php?id=ahjjsh
+177	安徽农业,	http://hz752.love:63/3111/ahtv.php?id=ahnykj
+178	安徽卫视,	http://hz752.love:63/3111/ahtv.php?id=ahws
+179	安徽卫视,	http://hz752.love:63/3111/ahtv.php?id=ahws
+180	安徽移动,	http://hz752.love:63/3111/ahtv.php?id=ahyd
+181	安徽影视,	http://hz752.love:63/3111/ahtv.php?id=ahys
+182	安徽综艺,	http://hz752.love:63/3111/ahtv.php?id=ahzyty
+183	安徽卫视,	http://hz752.love:63/3111/astv.php?id=ahwshd
+184	安徽卫视,	http://hz752.love:63/3111/astv.php?id=ahwshd
+185	爱上4K,	http://hz752.love:63/3111/astv.php?id=as
+186	爱上4K,	http://hz752.love:63/3111/astv.php?id=as4k
+187	北京卫视,	http://hz752.love:63/3111/astv.php?id=bjwshd
+188	北京卫视,	http://hz752.love:63/3111/astv.php?id=bjwshd
+189	兵团卫视,	http://hz752.love:63/3111/astv.php?id=btws
+190	兵团卫视,	http://hz752.love:63/3111/astv.php?id=btws
+191	CCTV10,	http://hz752.love:63/3111/astv.php?id=cctv10hd
+192	CCTV11,	http://hz752.love:63/3111/astv.php?id=cctv11hd
+193	CCTV12,	http://hz752.love:63/3111/astv.php?id=cctv12hd
+194	CCTV13,	http://hz752.love:63/3111/astv.php?id=cctv13hd
+195	CCTV14,	http://hz752.love:63/3111/astv.php?id=cctv14hd
+196	CCTV14,	http://hz752.love:63/3111/astv.php?id=cctv14hd
+197	CCTV15,	http://hz752.love:63/3111/astv.php?id=cctv15hd
+198	CCTV16,	http://hz752.love:63/3111/astv.php?id=cctv16_4k
+199	CCTV16-4K,	http://hz752.love:63/3111/astv.php?id=cctv16_4k
+200	CCTV16,	http://hz752.love:63/3111/astv.php?id=cctv16hd
+201	CCTV17,	http://hz752.love:63/3111/astv.php?id=cctv17hd
+202	CCTV1,	http://hz752.love:63/3111/astv.php?id=cctv1hd
+203	CCTV2,	http://hz752.love:63/3111/astv.php?id=cctv2hd
+204	CCTV3,	http://hz752.love:63/3111/astv.php?id=cctv3hd
+205	CCTV4,	http://hz752.love:63/3111/astv.php?id=cctv4hd
+206	CCTV4欧洲,	http://hz752.love:63/3111/astv.php?id=cctv4ohd
+207	CCTV5,	http://hz752.love:63/3111/astv.php?id=cctv5hd
+208	CCTV5+,	http://hz752.love:63/3111/astv.php?id=cctv5p
+209	CCTV6,	http://hz752.love:63/3111/astv.php?id=cctv6hd
+210	CCTV7,	http://hz752.love:63/3111/astv.php?id=cctv7hd
+211	CCTV8,	http://hz752.love:63/3111/astv.php?id=cctv8hd
+212	CCTV9,	http://hz752.love:63/3111/astv.php?id=cctv9hd
+213	CETV1,	http://hz752.love:63/3111/astv.php?id=cetv1hd
+214	CETV2,	http://hz752.love:63/3111/astv.php?id=cetv2
+215	CETV4,	http://hz752.love:63/3111/astv.php?id=cetv4
+216	财富天下,	http://hz752.love:63/3111/astv.php?id=cftx
+217	CGTN阿语,	http://hz752.love:63/3111/astv.php?id=cgtna
+218	CGTN西语,	http://hz752.love:63/3111/astv.php?id=cgtne
+219	CGTN法语,	http://hz752.love:63/3111/astv.php?id=cgtnf
+220	CGTN,	http://hz752.love:63/3111/astv.php?id=cgtnhd
+221	CGTN纪录,	http://hz752.love:63/3111/astv.php?id=cgtnjl
+222	CGTN俄语,	http://hz752.love:63/3111/astv.php?id=cgtnr
+223	CHC动作电影,	http://hz752.love:63/3111/astv.php?id=chcdzdy
+224	CHC电影,	http://hz752.love:63/3111/astv.php?id=chcgqdy
+225	CHC家庭影院,	http://hz752.love:63/3111/astv.php?id=chcjtyy
+226	重庆卫视,	http://hz752.love:63/3111/astv.php?id=cqwshd
+227	重庆卫视,	http://hz752.love:63/3111/astv.php?id=cqwshd
+228	东方卫视,	http://hz752.love:63/3111/astv.php?id=dfwshd
+229	东方卫视,	http://hz752.love:63/3111/astv.php?id=dfwshd
+230	动画,	http://hz752.love:63/3111/astv.php?id=dh
+231	地理,	http://hz752.love:63/3111/astv.php?id=dl
+232	东南卫视,	http://hz752.love:63/3111/astv.php?id=dnwshd
+233	东南卫视,	http://hz752.love:63/3111/astv.php?id=dnwshd
+234	动作,	http://hz752.love:63/3111/astv.php?id=dz
+235	动作影院,	http://hz752.love:63/3111/astv.php?id=dzyy
+236	广东卫视,	http://hz752.love:63/3111/astv.php?id=gdwshd
+237	广东卫视,	http://hz752.love:63/3111/astv.php?id=gdwshd
+238	甘肃卫视,	http://hz752.love:63/3111/astv.php?id=gsws
+239	甘肃卫视,	http://hz752.love:63/3111/astv.php?id=gsws
+240	高网,	http://hz752.love:63/3111/astv.php?id=gw
+241	国学,	http://hz752.love:63/3111/astv.php?id=gx
+242	广西卫视,	http://hz752.love:63/3111/astv.php?id=gxws
+243	广西卫视,	http://hz752.love:63/3111/astv.php?id=gxws
+244	光影,	http://hz752.love:63/3111/astv.php?id=gy
+245	古装,	http://hz752.love:63/3111/astv.php?id=gz
+246	贵州卫视,	http://hz752.love:63/3111/astv.php?id=gzwshd
+247	贵州卫视,	http://hz752.love:63/3111/astv.php?id=gzwshd
+248	河北卫视,	http://hz752.love:63/3111/astv.php?id=hbwshd
+249	海南卫视,	http://hz752.love:63/3111/astv.php?id=hinws
+250	黑龙江卫视,	http://hz752.love:63/3111/astv.php?id=hljwshd
+251	黑龙江卫视,	http://hz752.love:63/3111/astv.php?id=hljwshd
+252	河南卫视,	http://hz752.love:63/3111/astv.php?id=hnws
+253	河南卫视,	http://hz752.love:63/3111/astv.php?id=hnws
+254	湖北卫视,	http://hz752.love:63/3111/astv.php?id=hubwshd
+255	湖北卫视,	http://hz752.love:63/3111/astv.php?id=hubwshd
+256	湖南卫视,	http://hz752.love:63/3111/astv.php?id=hunwshd
+257	湖南卫视,	http://hz752.love:63/3111/astv.php?id=hunwshd
+258	IPTV3+,	http://hz752.love:63/3111/astv.php?id=iptv3
+259	IPTV5+,	http://hz752.love:63/3111/astv.php?id=iptv5a
+260	IPTV6+,	http://hz752.love:63/3111/astv.php?id=iptv6
+261	IPTV8+,	http://hz752.love:63/3111/astv.php?id=iptv8
+262	IPTV谍战剧场,	http://hz752.love:63/3111/astv.php?id=iptvdzjc
+263	IPTV法治,	http://hz752.love:63/3111/astv.php?id=iptvfz
+264	IPTV经典电影,	http://hz752.love:63/3111/astv.php?id=iptvjddy
+265	IPTV魅力时尚,	http://hz752.love:63/3111/astv.php?id=iptvmlss
+266	IPTV热播剧场,	http://hz752.love:63/3111/astv.php?id=iptvrbjc
+267	IPTV少儿动画,	http://hz752.love:63/3111/astv.php?id=iptvsedh
+268	IPTV收视指南,	http://hz752.love:63/3111/astv.php?id=iptvsszn
+269	IPTV相声小品,	http://hz752.love:63/3111/astv.php?id=iptvxsxp
+270	IPTV野外,	http://hz752.love:63/3111/astv.php?id=iptvyw
+271	嘉佳卡通,	http://hz752.love:63/3111/astv.php?id=jjkt
+272	嘉佳卡通,	http://hz752.love:63/3111/astv.php?id=jjkt
+273	军旅,	http://hz752.love:63/3111/astv.php?id=jl
+274	吉林卫视,	http://hz752.love:63/3111/astv.php?id=jlwshd
+275	军事,	http://hz752.love:63/3111/astv.php?id=js
+276	鉴赏,	http://hz752.love:63/3111/astv.php?id=js
+277	江苏卫视,	http://hz752.love:63/3111/astv.php?id=jswshd
+278	江苏卫视,	http://hz752.love:63/3111/astv.php?id=jswshd
+279	家庭,	http://hz752.love:63/3111/astv.php?id=jt
+280	家庭影院,	http://hz752.love:63/3111/astv.php?id=jtyy
+281	精选,	http://hz752.love:63/3111/astv.php?id=jx
+282	江西卫视,	http://hz752.love:63/3111/astv.php?id=jxwshd
+283	江西卫视,	http://hz752.love:63/3111/astv.php?id=jxwshd
+284	金鹰纪实,	http://hz752.love:63/3111/astv.php?id=jyjs
+285	金鹰卡通,	http://hz752.love:63/3111/astv.php?id=jykt
+286	金鹰卡通,	http://hz752.love:63/3111/astv.php?id=jykt
+287	康巴卫视,	http://hz752.love:63/3111/astv.php?id=kbws
+288	卡酷少儿,	http://hz752.love:63/3111/astv.php?id=kkse
+289	卡酷少儿,	http://hz752.love:63/3111/astv.php?id=kkse
+290	课堂,	http://hz752.love:63/3111/astv.php?id=kt
+291	科学,	http://hz752.love:63/3111/astv.php?id=kx
+292	辽宁卫视,	http://hz752.love:63/3111/astv.php?id=lnwshd
+293	辽宁卫视,	http://hz752.love:63/3111/astv.php?id=lnwshd
+294	美妆,	http://hz752.love:63/3111/astv.php?id=mz
+295	内蒙古卫视,	http://hz752.love:63/3111/astv.php?id=nmws
+296	内蒙古卫视,	http://hz752.love:63/3111/astv.php?id=nmws
+297	宁夏卫视,	http://hz752.love:63/3111/astv.php?id=nxws
+298	宁夏卫视,	http://hz752.love:63/3111/astv.php?id=nxws
+299	青海卫视,	http://hz752.love:63/3111/astv.php?id=qhws
+300	热门,	http://hz752.love:63/3111/astv.php?id=rm
+301	四川卫视,	http://hz752.love:63/3111/astv.php?id=scws
+302	四川卫视,	http://hz752.love:63/3111/astv.php?id=scws
+303	山东教育卫视,	http://hz752.love:63/3111/astv.php?id=sdjy
+304	山东教育卫视,	http://hz752.love:63/3111/astv.php?id=sdjy
+305	山东教育,	http://hz752.love:63/3111/astv.php?id=sdjy
+306	山东卫视,	http://hz752.love:63/3111/astv.php?id=sdwshd
+307	山东卫视,	http://hz752.love:63/3111/astv.php?id=sdwshd
+308	三沙卫视,	http://hz752.love:63/3111/astv.php?id=ssws
+309	山西卫视,	http://hz752.love:63/3111/astv.php?id=sxiws
+310	山西卫视,	http://hz752.love:63/3111/astv.php?id=sxiws
+311	陕西卫视,	http://hz752.love:63/3111/astv.php?id=sxws
+312	陕西卫视,	http://hz752.love:63/3111/astv.php?id=sxws
+313	深圳卫视,	http://hz752.love:63/3111/astv.php?id=szwshd
+314	深圳卫视,	http://hz752.love:63/3111/astv.php?id=szwshd
+315	天津卫视,	http://hz752.love:63/3111/astv.php?id=tjwshd
+316	天津卫视,	http://hz752.love:63/3111/astv.php?id=tjwshd
+317	台球,	http://hz752.love:63/3111/astv.php?id=tq
+318	探索,	http://hz752.love:63/3111/astv.php?id=ts
+319	味道,	http://hz752.love:63/3111/astv.php?id=wd
+320	网络棋牌,	http://hz752.love:63/3111/astv.php?id=wlqp
+321	武术,	http://hz752.love:63/3111/astv.php?id=ws
+322	武侠,	http://hz752.love:63/3111/astv.php?id=wx
+323	武侠剧场,	http://hz752.love:63/3111/astv.php?id=wxjc
+324	新动漫,	http://hz752.love:63/3111/astv.php?id=xdm
+325	先锋乒羽,	http://hz752.love:63/3111/astv.php?id=xfpy
+326	喜剧,	http://hz752.love:63/3111/astv.php?id=xj
+327	新疆卫视,	http://hz752.love:63/3111/astv.php?id=xjws
+328	新疆卫视,	http://hz752.love:63/3111/astv.php?id=xjws
+329	喜剧影院,	http://hz752.love:63/3111/astv.php?id=xjyy
+330	厦门卫视,	http://hz752.love:63/3111/astv.php?id=xmws
+331	戏曲,	http://hz752.love:63/3111/astv.php?id=xq
+332	星影,	http://hz752.love:63/3111/astv.php?id=xy
+333	西藏卫视,	http://hz752.love:63/3111/astv.php?id=xzws
+334	云南卫视,	http://hz752.love:63/3111/astv.php?id=ynws
+335	云南卫视,	http://hz752.love:63/3111/astv.php?id=ynws
+336	音乐,	http://hz752.love:63/3111/astv.php?id=yy
+337	早教,	http://hz752.love:63/3111/astv.php?id=zj
+338	浙江卫视,	http://hz752.love:63/3111/astv.php?id=zjwshd
+339	足球,	http://hz752.love:63/3111/astv.php?id=zq
+340	辽宁卫视,	http://hz752.love:63/3111/bfgd.php?id=058
+341	沈阳新闻综合,	http://hz752.love:63/3111/bfgd.php?id=059
+342	CCTV2,	http://hz752.love:63/3111/bfgd.php?id=061
+343	CCTV3,	http://hz752.love:63/3111/bfgd.php?id=062
+344	CCTV4,	http://hz752.love:63/3111/bfgd.php?id=063
+345	CCTV5,	http://hz752.love:63/3111/bfgd.php?id=064
+346	CCTV6,	http://hz752.love:63/3111/bfgd.php?id=065
+347	CCTV8,	http://hz752.love:63/3111/bfgd.php?id=066
+348	CCTV13,	http://hz752.love:63/3111/bfgd.php?id=067
+349	辽宁都市,	http://hz752.love:63/3111/bfgd.php?id=068
+350	辽宁影视,	http://hz752.love:63/3111/bfgd.php?id=070
+351	辽宁北方,	http://hz752.love:63/3111/bfgd.php?id=071
+352	辽宁体育,	http://hz752.love:63/3111/bfgd.php?id=072
+353	辽宁生活,	http://hz752.love:63/3111/bfgd.php?id=073
+354	辽宁教育,	http://hz752.love:63/3111/bfgd.php?id=075
+355	辽宁经济,	http://hz752.love:63/3111/bfgd.php?id=076
+356	辽宁公共,	http://hz752.love:63/3111/bfgd.php?id=077
+357	天津卫视,	http://hz752.love:63/3111/bfgd.php?id=084
+358	湖南卫视,	http://hz752.love:63/3111/bfgd.php?id=086
+359	黑龙江卫视,	http://hz752.love:63/3111/bfgd.php?id=095
+360	安徽卫视,	http://hz752.love:63/3111/bfgd.php?id=096
+361	吉林卫视,	http://hz752.love:63/3111/bfgd.php?id=097
+362	江西卫视,	http://hz752.love:63/3111/bfgd.php?id=098
+363	贵州卫视,	http://hz752.love:63/3111/bfgd.php?id=101
+364	四川卫视,	http://hz752.love:63/3111/bfgd.php?id=103
+365	河南卫视,	http://hz752.love:63/3111/bfgd.php?id=104
+366	卡酷少儿,	http://hz752.love:63/3111/bfgd.php?id=106
+367	重庆卫视,	http://hz752.love:63/3111/bfgd.php?id=107
+368	河北卫视,	http://hz752.love:63/3111/bfgd.php?id=108
+369	山西卫视,	http://hz752.love:63/3111/bfgd.php?id=109
+370	内蒙古卫视,	http://hz752.love:63/3111/bfgd.php?id=110
+371	青海卫视,	http://hz752.love:63/3111/bfgd.php?id=111
+372	山东教育卫视,	http://hz752.love:63/3111/bfgd.php?id=112
+373	北京纪实科教,	http://hz752.love:63/3111/bfgd.php?id=113
+374	广西卫视,	http://hz752.love:63/3111/bfgd.php?id=116
+375	宁夏卫视,	http://hz752.love:63/3111/bfgd.php?id=118
+376	甘肃卫视,	http://hz752.love:63/3111/bfgd.php?id=119
+377	西藏卫视,	http://hz752.love:63/3111/bfgd.php?id=121
+378	农林卫视,	http://hz752.love:63/3111/bfgd.php?id=122
+379	农林卫视,	http://hz752.love:63/3111/bfgd.php?id=122
+380	兵团卫视,	http://hz752.love:63/3111/bfgd.php?id=124
+381	CCTV7,	http://hz752.love:63/3111/bfgd.php?id=127
+382	CCTV9,	http://hz752.love:63/3111/bfgd.php?id=128
+383	CCTV10,	http://hz752.love:63/3111/bfgd.php?id=129
+384	CCTV11,	http://hz752.love:63/3111/bfgd.php?id=130
+385	CCTV12,	http://hz752.love:63/3111/bfgd.php?id=131
+386	CCTV14,	http://hz752.love:63/3111/bfgd.php?id=132
+387	CCTV15,	http://hz752.love:63/3111/bfgd.php?id=133
+388	家庭理财,	http://hz752.love:63/3111/bfgd.php?id=139
+389	新动漫,	http://hz752.love:63/3111/bfgd.php?id=140
+390	网络棋牌,	http://hz752.love:63/3111/bfgd.php?id=141
+391	天元围棋,	http://hz752.love:63/3111/bfgd.php?id=144
+392	车迷频道,	http://hz752.love:63/3111/bfgd.php?id=146
+393	环球旅游,	http://hz752.love:63/3111/bfgd.php?id=147
+394	生态环境,	http://hz752.love:63/3111/bfgd.php?id=149
+395	新疆卫视,	http://hz752.love:63/3111/bfgd.php?id=150
+396	优优宝贝,	http://hz752.love:63/3111/bfgd.php?id=153
+397	收藏天下,	http://hz752.love:63/3111/bfgd.php?id=155
+398	中华特产,	http://hz752.love:63/3111/bfgd.php?id=158
+399	法治天地,	http://hz752.love:63/3111/bfgd.php?id=162
+400	老故事,	http://hz752.love:63/3111/bfgd.php?id=166
+401	重庆汽摩,	http://hz752.love:63/3111/bfgd.php?id=168
+402	江苏靓妆,	http://hz752.love:63/3111/bfgd.php?id=179
+403	书画频道,	http://hz752.love:63/3111/bfgd.php?id=180
+404	茶频道,	http://hz752.love:63/3111/bfgd.php?id=181
+405	北方导视,	http://hz752.love:63/3111/bfgd.php?id=187
+406	北方导视,	http://hz752.love:63/3111/bfgd.php?id=187
+407	CCTV17,	http://hz752.love:63/3111/bfgd.php?id=204
+408	百姓健康,	http://hz752.love:63/3111/bfgd.php?id=219
+409	摄影频道,	http://hz752.love:63/3111/bfgd.php?id=222
+410	财富天下,	http://hz752.love:63/3111/bfgd.php?id=231
+411	CCTV5+,	http://hz752.love:63/3111/bfgd.php?id=246
+412	大连新闻综合,	http://hz752.love:63/3111/bfgd.php?id=273
+413	鞍山新闻综合,	http://hz752.love:63/3111/bfgd.php?id=274
+414	抚顺综合,	http://hz752.love:63/3111/bfgd.php?id=275
+415	丹东新闻综合,	http://hz752.love:63/3111/bfgd.php?id=276
+416	锦州新闻综合,	http://hz752.love:63/3111/bfgd.php?id=277
+417	营口新闻综合,	http://hz752.love:63/3111/bfgd.php?id=278
+418	阜新综合,	http://hz752.love:63/3111/bfgd.php?id=279
+419	辽阳新闻综合,	http://hz752.love:63/3111/bfgd.php?id=280
+420	铁岭新闻综合,	http://hz752.love:63/3111/bfgd.php?id=281
+421	朝阳新闻综合,	http://hz752.love:63/3111/bfgd.php?id=282
+422	盘锦新闻综合,	http://hz752.love:63/3111/bfgd.php?id=283
+423	葫芦岛新闻综合,	http://hz752.love:63/3111/bfgd.php?id=284
+424	风尚音乐,	http://hz752.love:63/3111/bfgd.php?id=294
+425	本溪综合,	http://hz752.love:63/3111/bfgd.php?id=312
+426	海南卫视,	http://hz752.love:63/3111/bfgd.php?id=473
+427	辽宁经济,	http://hz752.love:63/3111/bfgd.php?id=480
+428	辽宁公共,	http://hz752.love:63/3111/bfgd.php?id=481
+429	云南卫视,	http://hz752.love:63/3111/bfgd.php?id=482
+430	东南卫视,	http://hz752.love:63/3111/bfgd.php?id=483
+431	CCTV1,	http://hz752.love:63/3111/bfgd.php?id=488
+432	龙港区综合,	http://hz752.love:63/3111/bfgd.php?id=490
+433	连山区综合,	http://hz752.love:63/3111/bfgd.php?id=491
+434	陕西卫视,	http://hz752.love:63/3111/bfgd.php?id=512
+435	北京卫视,	http://hz752.love:63/3111/bj.php?id=bjws
+436	北京卫视,	http://hz752.love:63/3111/bj.php?id=bjws
+437	北京财经,	http://hz752.love:63/3111/bj.php?id=btvcj
+438	北京纪实科教,	http://hz752.love:63/3111/bj.php?id=btvkj
+439	北京生活,	http://hz752.love:63/3111/bj.php?id=btvsh
+440	北京文艺,	http://hz752.love:63/3111/bj.php?id=btvwy
+441	北京新闻,	http://hz752.love:63/3111/bj.php?id=btvxw
+442	北京影视,	http://hz752.love:63/3111/bj.php?id=btvys
+443	北京影视,	http://hz752.love:63/3111/bj.php?id=btvys
+444	卡酷少儿,	http://hz752.love:63/3111/bj.php?id=kaku
+445	卡酷少儿,	http://hz752.love:63/3111/bj.php?id=kaku
+446	北京卫视,	http://hz752.love:63/3111/bjtv.php?id=bjws
+447	北京财经,	http://hz752.love:63/3111/bjtv.php?id=btvcj
+448	北京纪实科教,	http://hz752.love:63/3111/bjtv.php?id=btvkj
+449	北京生活,	http://hz752.love:63/3111/bjtv.php?id=btvsh
+450	北京文艺,	http://hz752.love:63/3111/bjtv.php?id=btvwy
+451	北京新闻,	http://hz752.love:63/3111/bjtv.php?id=btvxw
+452	北京影视,	http://hz752.love:63/3111/bjtv.php?id=btvys
+453	北京影视,	http://hz752.love:63/3111/bjtv.php?id=btvys
+454	卡酷少儿,	http://hz752.love:63/3111/bjtv.php?id=kaku
+455	北京IPTV-8K,	http://hz752.love:63/3111/brtv8k.php?id=brtv8k
+456	安徽卫视,	http://hz752.love:63/3111/bst.php?id=ahws
+457	北京卫视,	http://hz752.love:63/3111/bst.php?id=bjws
+458	兵团卫视,	http://hz752.love:63/3111/bst.php?id=btws
+459	CCTV1,	http://hz752.love:63/3111/bst.php?id=cctv1
+460	CCTV10,	http://hz752.love:63/3111/bst.php?id=cctv10
+461	CCTV11,	http://hz752.love:63/3111/bst.php?id=cctv11
+462	CCTV12,	http://hz752.love:63/3111/bst.php?id=cctv12
+463	CCTV13,	http://hz752.love:63/3111/bst.php?id=cctv13
+464	CCTV14,	http://hz752.love:63/3111/bst.php?id=cctv14
+465	CCTV15,	http://hz752.love:63/3111/bst.php?id=cctv15
+466	CCTV16,	http://hz752.love:63/3111/bst.php?id=cctv164k
+467	CCTV16-4K,	http://hz752.love:63/3111/bst.php?id=cctv164k
+468	CCTV17,	http://hz752.love:63/3111/bst.php?id=cctv17
+469	CCTV2,	http://hz752.love:63/3111/bst.php?id=cctv2
+470	CCTV2,	http://hz752.love:63/3111/bst.php?id=cctv2
+471	CCTV3,	http://hz752.love:63/3111/bst.php?id=cctv3
+472	CCTV4,	http://hz752.love:63/3111/bst.php?id=cctv4
+473	CCTV4K,	http://hz752.love:63/3111/bst.php?id=cctv4k
+474	CCTV4K,	http://hz752.love:63/3111/bst.php?id=cctv4k
+475	CCTV5,	http://hz752.love:63/3111/bst.php?id=cctv5
+476	CCTV5+,	http://hz752.love:63/3111/bst.php?id=cctv5p
+477	CCTV6,	http://hz752.love:63/3111/bst.php?id=cctv6
+478	CCTV7,	http://hz752.love:63/3111/bst.php?id=cctv7
+479	CCTV8,	http://hz752.love:63/3111/bst.php?id=cctv8
+480	CCTV9,	http://hz752.love:63/3111/bst.php?id=cctv9
+481	重庆卫视,	http://hz752.love:63/3111/bst.php?id=cqws
+482	东方卫视,	http://hz752.love:63/3111/bst.php?id=dfws
+483	东方影视,	http://hz752.love:63/3111/bst.php?id=dfys
+484	东方影视,	http://hz752.love:63/3111/bst.php?id=dfys
+485	东南卫视,	http://hz752.love:63/3111/bst.php?id=dnws
+486	广东卫视,	http://hz752.love:63/3111/bst.php?id=gdws
+487	甘肃卫视,	http://hz752.love:63/3111/bst.php?id=gsws
+488	广西卫视,	http://hz752.love:63/3111/bst.php?id=gxws
+489	贵州卫视,	http://hz752.love:63/3111/bst.php?id=gzws
+490	河北卫视,	http://hz752.love:63/3111/bst.php?id=hbws
+491	哈哈炫动,	http://hz752.love:63/3111/bst.php?id=hhxd
+492	海南卫视,	http://hz752.love:63/3111/bst.php?id=hinws
+493	黑龙江卫视,	http://hz752.love:63/3111/bst.php?id=hljws
+494	河南卫视,	http://hz752.love:63/3111/bst.php?id=hnws
+495	湖北卫视,	http://hz752.love:63/3111/bst.php?id=hubws
+496	湖南卫视,	http://hz752.love:63/3111/bst.php?id=hunws
+497	欢笑剧场4K,	http://hz752.love:63/3111/bst.php?id=hxjc4k
+498	吉林卫视,	http://hz752.love:63/3111/bst.php?id=jlws
+499	江苏卫视,	http://hz752.love:63/3111/bst.php?id=jsws
+500	江西卫视,	http://hz752.love:63/3111/bst.php?id=jxws
+501	康巴卫视,	http://hz752.love:63/3111/bst.php?id=kbws
+502	辽宁卫视,	http://hz752.love:63/3111/bst.php?id=lnws
+503	内蒙古卫视,	http://hz752.love:63/3111/bst.php?id=nmws
+504	宁夏卫视,	http://hz752.love:63/3111/bst.php?id=nxws
+505	青海卫视,	http://hz752.love:63/3111/bst.php?id=qhws
+506	四川卫视,	http://hz752.love:63/3111/bst.php?id=scws
+507	山东卫视,	http://hz752.love:63/3111/bst.php?id=sdws
+508	山西卫视,	http://hz752.love:63/3111/bst.php?id=sxiws
+509	陕西卫视,	http://hz752.love:63/3111/bst.php?id=sxws
+510	深圳卫视,	http://hz752.love:63/3111/bst.php?id=szws
+511	天津卫视,	http://hz752.love:63/3111/bst.php?id=tjws
+512	新疆卫视,	http://hz752.love:63/3111/bst.php?id=xjws
+513	厦门卫视,	http://hz752.love:63/3111/bst.php?id=xmws
+514	西藏卫视,	http://hz752.love:63/3111/bst.php?id=xzws
+515	云南卫视,	http://hz752.love:63/3111/bst.php?id=ynws
+516	中国天气,	http://hz752.love:63/3111/bst.php?id=zgtq
+517	浙江卫视,	http://hz752.love:63/3111/bst.php?id=zjws
+518	两个人的世界,	http://hz752.love:63/3111/bstv.php?id=124
+519	也平凡,	http://hz752.love:63/3111/bstv.php?id=126
+520	最好的舞台,	http://hz752.love:63/3111/bstv.php?id=128
+521	人气美食,	http://hz752.love:63/3111/bstv.php?id=144
+522	东方风云榜,	http://hz752.love:63/3111/bstv.php?id=146
+523	东方卫视,	http://hz752.love:63/3111/bstv.php?id=16
+524	东方卫视,	http://hz752.love:63/3111/bstv.php?id=16
+525	上海外语,	http://hz752.love:63/3111/bstv.php?id=17
+526	上海都市,	http://hz752.love:63/3111/bstv.php?id=18
+527	童年神剧,	http://hz752.love:63/3111/bstv.php?id=186
+528	哈哈炫动,	http://hz752.love:63/3111/bstv.php?id=19
+529	哈哈炫动,	http://hz752.love:63/3111/bstv.php?id=19
+530	王牌对王牌,	http://hz752.love:63/3111/bstv.php?id=193
+531	上海新闻,	http://hz752.love:63/3111/bstv.php?id=20
+532	奔跑吧兄弟,	http://hz752.love:63/3111/bstv.php?id=201
+533	第一财经,	http://hz752.love:63/3111/bstv.php?id=21
+534	汤妈妈,	http://hz752.love:63/3111/bstv.php?id=213
+535	整容级妆教,	http://hz752.love:63/3111/bstv.php?id=216
+536	漫游记,	http://hz752.love:63/3111/bstv.php?id=218
+537	美好生活家,	http://hz752.love:63/3111/bstv.php?id=228
+538	粤语好声音,	http://hz752.love:63/3111/bstv.php?id=229
+539	经典电影,	http://hz752.love:63/3111/bstv.php?id=246
+540	闪电咖啡馆,	http://hz752.love:63/3111/bstv.php?id=247
+541	极限挑战,	http://hz752.love:63/3111/bstv.php?id=27
+542	梦想改造家,	http://hz752.love:63/3111/bstv.php?id=33
+543	海派滑稽戏,	http://hz752.love:63/3111/bstv.php?id=38
+544	宅家瘦全身,	http://hz752.love:63/3111/bstv.php?id=40
+545	我们的歌,	http://hz752.love:63/3111/bstv.php?id=41
+546	带娃小妙招,	http://hz752.love:63/3111/bstv.php?id=52
+547	完美的夏天,	http://hz752.love:63/3111/bstv.php?id=59
+548	高能脱口秀,	http://hz752.love:63/3111/bstv.php?id=76
+549	金曲青春,	http://hz752.love:63/3111/bstv.php?id=96
+550	汕尾公共,	http://hz752.love:63/3111/cjy.php?id=swgg
+551	汕尾综合,	http://hz752.love:63/3111/cjy.php?id=swzh
+552	CCTV4K,	http://hz752.love:63/3111/cn4k.php?id=4khd
+553	CCTV4K,	http://hz752.love:63/3111/cn4k.php?id=4khd
+554	重庆卫视,	http://hz752.love:63/3111/cqtv.php?id=2
+555	重庆卫视,	http://hz752.love:63/3111/cqtv.php?id=2
+556	重庆新闻,	http://hz752.love:63/3111/cqtv.php?id=3
+557	福建综合,	http://hz752.love:63/3111/fjtv.php?id=0
+558	东南卫视,	http://hz752.love:63/3111/fjtv.php?id=1
+559	福建公共,	http://hz752.love:63/3111/fjtv.php?id=2
+560	福建新闻,	http://hz752.love:63/3111/fjtv.php?id=3
+561	福建电视剧,	http://hz752.love:63/3111/fjtv.php?id=4
+562	福建旅游,	http://hz752.love:63/3111/fjtv.php?id=5
+563	福建经视,	http://hz752.love:63/3111/fjtv.php?id=6
+564	福建文体,	http://hz752.love:63/3111/fjtv.php?id=7
+565	福建少儿,	http://hz752.love:63/3111/fjtv.php?id=7
+566	海峡卫视,	http://hz752.love:63/3111/fjtv.php?id=9
+567	海峡卫视,	http://hz752.love:63/3111/fjtv.php?id=9
+568	东莞综合,	http://hz752.love:63/3111/gddg.php?id=4
+569	东莞生活,	http://hz752.love:63/3111/gddg.php?id=5
+570	佛山公共,	http://hz752.love:63/3111/gdfs.php?id=fsgg
+571	佛山高明,	http://hz752.love:63/3111/gdfs.php?id=fsgm
+572	佛山南海,	http://hz752.love:63/3111/gdfs.php?id=fsnh
+573	佛山顺德,	http://hz752.love:63/3111/gdfs.php?id=fssd
+574	佛山三水,	http://hz752.love:63/3111/gdfs.php?id=fsss
+575	佛山影视,	http://hz752.love:63/3111/gdfs.php?id=fsys
+576	佛山综合,	http://hz752.love:63/3111/gdfs.php?id=fszh
+577	江门生活,	http://hz752.love:63/3111/gdjm.php?id=15
+578	江门综合,	http://hz752.love:63/3111/gdjm.php?id=20
+579	清远生活,	http://hz752.love:63/3111/gdqy.php?id=qywlsh
+580	清远综合,	http://hz752.love:63/3111/gdqy.php?id=qyzh
+581	深圳财经,	http://hz752.love:63/3111/gdsz.php?id=szcjsh
+582	深圳都市,	http://hz752.love:63/3111/gdsz.php?id=szds
+583	深圳电视剧,	http://hz752.love:63/3111/gdsz.php?id=szdsj
+584	深圳公共,	http://hz752.love:63/3111/gdsz.php?id=szgg
+585	深圳国际,	http://hz752.love:63/3111/gdsz.php?id=szgj
+586	深圳少儿,	http://hz752.love:63/3111/gdsz.php?id=szse
+587	深圳体育,	http://hz752.love:63/3111/gdsz.php?id=sztyjk
+588	深圳卫视,	http://hz752.love:63/3111/gdsz.php?id=szws
+589	深圳卫视,	http://hz752.love:63/3111/gdsz.php?id=szws
+590	深圳移动,	http://hz752.love:63/3111/gdsz.php?id=szyd
+591	深圳娱乐,	http://hz752.love:63/3111/gdsz.php?id=szyl
+592	深圳宜和购物,	http://hz752.love:63/3111/gdsz.php?id=yhgw
+593	广东房产,	http://hz752.love:63/3111/gdtv.php?id=gdfc
+594	广东民生,	http://hz752.love:63/3111/gdtv.php?id=gdgg
+595	广东国际,	http://hz752.love:63/3111/gdtv.php?id=gdgj
+596	GRTN健康,	http://hz752.love:63/3111/gdtv.php?id=gdjk
+597	广东少儿,	http://hz752.love:63/3111/gdtv.php?id=gdse
+598	广东体育,	http://hz752.love:63/3111/gdtv.php?id=gdty
+599	广东文化,	http://hz752.love:63/3111/gdtv.php?id=gdwh
+600	广东卫视,	http://hz752.love:63/3111/gdtv.php?id=gdws
+601	广东卫视,	http://hz752.love:63/3111/gdtv.php?id=gdws
+602	广东新闻,	http://hz752.love:63/3111/gdtv.php?id=gdxw
+603	广东移动,	http://hz752.love:63/3111/gdtv.php?id=gdyd
+604	广东影视,	http://hz752.love:63/3111/gdtv.php?id=gdys
+605	广东影视,	http://hz752.love:63/3111/gdtv.php?id=gdys
+606	广东珠江,	http://hz752.love:63/3111/gdtv.php?id=gdzj
+607	广东综艺,	http://hz752.love:63/3111/gdtv.php?id=gdzy
+608	广东经济科教,	http://hz752.love:63/3111/gdtv.php?id=jjkj
+609	嘉佳卡通,	http://hz752.love:63/3111/gdtv.php?id=jjkt
+610	嘉佳卡通,	http://hz752.love:63/3111/gdtv.php?id=jjkt
+611	岭南戏曲,	http://hz752.love:63/3111/gdtv.php?id=lnxq
+612	南方购物,	http://hz752.love:63/3111/gdtv.php?id=nfgw
+613	大湾区卫视,	http://hz752.love:63/3111/gdtv.php?id=nfws
+614	大湾区卫视,	http://hz752.love:63/3111/gdtv.php?id=nfws
+615	现代教育,	http://hz752.love:63/3111/gdtv.php?id=xdjy
+616	湛江公共,	http://hz752.love:63/3111/gdzj.php?id=zjgg
+617	湛江综合,	http://hz752.love:63/3111/gdzj.php?id=zjzh
+618	江门生活,	http://hz752.love:63/3111/gjm.php?id=jmqxsh
+619	江门综合,	http://hz752.love:63/3111/gjm.php?id=jmzh
+620	广州法治,	http://hz752.love:63/3111/gztv.php?id=gzfz
+621	广州竞赛,	http://hz752.love:63/3111/gztv.php?id=gzjs
+622	广州南国都市,	http://hz752.love:63/3111/gztv.php?id=gzsh
+623	广州新闻,	http://hz752.love:63/3111/gztv.php?id=gzxw
+624	广州影视,	http://hz752.love:63/3111/gztv.php?id=gzys
+625	广州综合,	http://hz752.love:63/3111/gztv.php?id=gzzh
+626	贵州法治,	http://hz752.love:63/3111/gzws.php?id=gzfz
+627	贵州公共,	http://hz752.love:63/3111/gzws.php?id=gzgg
+628	贵州经济,	http://hz752.love:63/3111/gzws.php?id=gzjj
+629	贵州购物,	http://hz752.love:63/3111/gzws.php?id=gzjygw
+630	贵州科教,	http://hz752.love:63/3111/gzws.php?id=gzkj
+631	贵州生活,	http://hz752.love:63/3111/gzws.php?id=gzsh
+632	贵州卫视,	http://hz752.love:63/3111/gzws.php?id=gzws
+633	贵州卫视,	http://hz752.love:63/3111/gzws.php?id=gzws
+634	贵州影视,	http://hz752.love:63/3111/gzws.php?id=gzwy
+635	贵州移动,	http://hz752.love:63/3111/gzws.php?id=gzyd
+636	海南卫视,	http://hz752.love:63/3111/hin.php?id=19
+637	海南卫视,	http://hz752.love:63/3111/hin.php?id=19
+638	海南影视,	http://hz752.love:63/3111/hin.php?id=19
+639	海南经济,	http://hz752.love:63/3111/hin.php?id=4
+640	海南新闻,	http://hz752.love:63/3111/hin.php?id=5
+641	海南公共,	http://hz752.love:63/3111/hin.php?id=6
+642	三沙卫视,	http://hz752.love:63/3111/hin.php?id=7
+643	海南文旅,	http://hz752.love:63/3111/hin.php?id=8
+644	海南少儿,	http://hz752.love:63/3111/hin.php?id=9
+645	凤凰香港,	http://hz752.love:63/3111/hk.php?id=fhhk
+646	凤凰中文,	http://hz752.love:63/3111/hk.php?id=fhzw
+647	凤凰中文,	http://hz752.love:63/3111/hk.php?id=fhzw
+648	凤凰资讯,	http://hz752.love:63/3111/hk.php?id=fhzx
+649	凤凰香港,	http://hz752.love:63/3111/hkif.php?id=fhhk
+650	凤凰中文,	http://hz752.love:63/3111/hkif.php?id=fhzw
+651	凤凰中文,	http://hz752.love:63/3111/hkif.php?id=fhzw
+652	凤凰资讯,	http://hz752.love:63/3111/hkif.php?id=fhzx
+653	丹江口综合,	http://hz752.love:63/3111/hubie.php?id=djkzh
+654	恩施文旅,	http://hz752.love:63/3111/hubie.php?id=eswl
+655	恩施综合,	http://hz752.love:63/3111/hubie.php?id=eszh
+656	湖北公共,	http://hz752.love:63/3111/hubie.php?id=hbgg
+657	湖北经视,	http://hz752.love:63/3111/hubie.php?id=hbjs
+658	湖北教育,	http://hz752.love:63/3111/hubie.php?id=hbjy
+659	湖北垄上,	http://hz752.love:63/3111/hubie.php?id=hbls
+660	湖北生活,	http://hz752.love:63/3111/hubie.php?id=hbsh
+661	湖北卫视,	http://hz752.love:63/3111/hubie.php?id=hbws
+662	湖北卫视,	http://hz752.love:63/3111/hubie.php?id=hbws
+663	湖北影视,	http://hz752.love:63/3111/hubie.php?id=hbys
+664	湖北综合,	http://hz752.love:63/3111/hubie.php?id=hbzh
+665	罗田旅游,	http://hz752.love:63/3111/hubie.php?id=ltly
+666	罗田综合,	http://hz752.love:63/3111/hubie.php?id=ltzh
+667	蕲春旅游养生,	http://hz752.love:63/3111/hubie.php?id=qclyys
+668	蕲春综合,	http://hz752.love:63/3111/hubie.php?id=qczh
+669	武穴综合,	http://hz752.love:63/3111/hubie.php?id=wxzh
+670	襄阳经济生活,	http://hz752.love:63/3111/hubie.php?id=xysh
+671	襄阳综合,	http://hz752.love:63/3111/hubie.php?id=xyzh
+672	湖南都市,	http://hz752.love:63/3111/hun.php?id=hnds
+673	湖南电视剧,	http://hz752.love:63/3111/hun.php?id=hndsj
+674	湖南电影,	http://hz752.love:63/3111/hun.php?id=hndy
+675	湖南公共,	http://hz752.love:63/3111/hun.php?id=hngg
+676	湖南国际,	http://hz752.love:63/3111/hun.php?id=hngj
+677	湖南经视,	http://hz752.love:63/3111/hun.php?id=hnjs
+678	湖南娱乐,	http://hz752.love:63/3111/hun.php?id=hnyl
+679	海峡卫视,	http://hz752.love:63/3111/hxws.php
+680	海峡卫视,	http://hz752.love:63/3111/hxws.php
+681	滨城TV,	http://hz752.love:63/3111/iqilu.php?id=bzbctv
+682	博兴生活,	http://hz752.love:63/3111/iqilu.php?id=bzbxsh
+683	博兴,	http://hz752.love:63/3111/iqilu.php?id=bzbxxw
+684	惠民影视,	http://hz752.love:63/3111/iqilu.php?id=bzhmys
+685	惠民综合,	http://hz752.love:63/3111/iqilu.php?id=bzhmzh
+686	无棣综合,	http://hz752.love:63/3111/iqilu.php?id=bzwdzh
+687	无棣综艺,	http://hz752.love:63/3111/iqilu.php?id=bzwdzy
+688	阳信综合,	http://hz752.love:63/3111/iqilu.php?id=bzyxxw
+689	沾化综合,	http://hz752.love:63/3111/iqilu.php?id=bzzhzh
+690	邹平民生,	http://hz752.love:63/3111/iqilu.php?id=bzzpms
+691	邹平新闻,	http://hz752.love:63/3111/iqilu.php?id=bzzpxw
+692	广饶科教文艺,	http://hz752.love:63/3111/iqilu.php?id=dygrkj
+693	广饶综合,	http://hz752.love:63/3111/iqilu.php?id=dygrxw
+694	垦利综合,	http://hz752.love:63/3111/iqilu.php?id=dyklxw
+695	利津文化生活,	http://hz752.love:63/3111/iqilu.php?id=dyljwh
+696	利津综合,	http://hz752.love:63/3111/iqilu.php?id=dyljxw
+697	东营区科教影视,	http://hz752.love:63/3111/iqilu.php?id=dyqkj
+698	东营区新闻综合,	http://hz752.love:63/3111/iqilu.php?id=dyqxw
+699	德州经济生活,	http://hz752.love:63/3111/iqilu.php?id=dzjjsh
+700	陵城综合,	http://hz752.love:63/3111/iqilu.php?id=dzlcxw
+701	乐陵城市生活,	http://hz752.love:63/3111/iqilu.php?id=dzllcs
+702	乐陵综合,	http://hz752.love:63/3111/iqilu.php?id=dzllxw
+703	临邑1,	http://hz752.love:63/3111/iqilu.php?id=dzly1
+704	临邑2,	http://hz752.love:63/3111/iqilu.php?id=dzly2
+705	宁津综合,	http://hz752.love:63/3111/iqilu.php?id=dznjxw
+706	平原,	http://hz752.love:63/3111/iqilu.php?id=dzpyxw
+707	齐河综合,	http://hz752.love:63/3111/iqilu.php?id=dzqhxw
+708	庆云生活,	http://hz752.love:63/3111/iqilu.php?id=dzqysh
+709	庆云综合,	http://hz752.love:63/3111/iqilu.php?id=dzqyxw
+710	武城综合,	http://hz752.love:63/3111/iqilu.php?id=dzwcxw
+711	武城综艺影视,	http://hz752.love:63/3111/iqilu.php?id=dzwczy
+712	夏津公共,	http://hz752.love:63/3111/iqilu.php?id=dzxjgg
+713	夏津综合,	http://hz752.love:63/3111/iqilu.php?id=dzxjzh
+714	德州综合,	http://hz752.love:63/3111/iqilu.php?id=dzxwzh
+715	禹城综合,	http://hz752.love:63/3111/iqilu.php?id=dzyczh
+716	禹城综艺,	http://hz752.love:63/3111/iqilu.php?id=dzyczy
+717	成武综合,	http://hz752.love:63/3111/iqilu.php?id=hzcwzh
+718	成武综艺,	http://hz752.love:63/3111/iqilu.php?id=hzcwzy
+719	曹县综合,	http://hz752.love:63/3111/iqilu.php?id=hzcxxw
+720	东明综合,	http://hz752.love:63/3111/iqilu.php?id=hzdmxw
+721	定陶频道,	http://hz752.love:63/3111/iqilu.php?id=hzdt1
+722	定陶教育频道,	http://hz752.love:63/3111/iqilu.php?id=hzdt2
+723	鄄城综合,	http://hz752.love:63/3111/iqilu.php?id=hzjczh
+724	鄄城综艺,	http://hz752.love:63/3111/iqilu.php?id=hzjczy
+725	巨野综合,	http://hz752.love:63/3111/iqilu.php?id=hzjyxw
+726	牡丹区综合,	http://hz752.love:63/3111/iqilu.php?id=hzmdxw
+727	牡丹区综艺,	http://hz752.love:63/3111/iqilu.php?id=hzmdzy
+728	单县综合,	http://hz752.love:63/3111/iqilu.php?id=hzsxzh
+729	郓城综合,	http://hz752.love:63/3111/iqilu.php?id=hzycxw
+730	郓城综艺,	http://hz752.love:63/3111/iqilu.php?id=hzyczy
+731	嘉祥生活,	http://hz752.love:63/3111/iqilu.php?id=jijiash
+732	嘉祥综合,	http://hz752.love:63/3111/iqilu.php?id=jijiaxw
+733	金乡生活,	http://hz752.love:63/3111/iqilu.php?id=jijxsh
+734	金乡新闻,	http://hz752.love:63/3111/iqilu.php?id=jijxxw
+735	梁山综合,	http://hz752.love:63/3111/iqilu.php?id=jilszh
+736	曲阜综合,	http://hz752.love:63/3111/iqilu.php?id=jiqfxw
+737	任城综合,	http://hz752.love:63/3111/iqilu.php?id=jircxw
+738	任城影视娱乐,	http://hz752.love:63/3111/iqilu.php?id=jircys
+739	泗水文化生活,	http://hz752.love:63/3111/iqilu.php?id=jisswh
+740	泗水综合,	http://hz752.love:63/3111/iqilu.php?id=jissxw
+741	微山1,	http://hz752.love:63/3111/iqilu.php?id=jiws1
+742	微山2,	http://hz752.love:63/3111/iqilu.php?id=jiws2
+743	汶上生活,	http://hz752.love:63/3111/iqilu.php?id=jiwssh
+744	汶上,	http://hz752.love:63/3111/iqilu.php?id=jiwsxw
+745	鱼台生活,	http://hz752.love:63/3111/iqilu.php?id=jiytsh
+746	鱼台,	http://hz752.love:63/3111/iqilu.php?id=jiytxw
+747	兖州生活,	http://hz752.love:63/3111/iqilu.php?id=jiyzsh
+748	兖州新闻,	http://hz752.love:63/3111/iqilu.php?id=jiyzxw
+749	邹城文化生活,	http://hz752.love:63/3111/iqilu.php?id=jizcwh
+750	邹城综合,	http://hz752.love:63/3111/iqilu.php?id=jizcxw
+751	长清生活,	http://hz752.love:63/3111/iqilu.php?id=jncqsh
+752	长清,	http://hz752.love:63/3111/iqilu.php?id=jncqxw
+753	济铁电视台,	http://hz752.love:63/3111/iqilu.php?id=jnjrtv
+754	济阳影视,	http://hz752.love:63/3111/iqilu.php?id=jnjyys
+755	济阳综合,	http://hz752.love:63/3111/iqilu.php?id=jnjyzh
+756	历城综合,	http://hz752.love:63/3111/iqilu.php?id=jnlcxw
+757	平阴生活,	http://hz752.love:63/3111/iqilu.php?id=jnpysh
+758	平阴综合,	http://hz752.love:63/3111/iqilu.php?id=jnpyzh
+759	商河影视,	http://hz752.love:63/3111/iqilu.php?id=jnshys
+760	商河综合,	http://hz752.love:63/3111/iqilu.php?id=jnshzh
+761	章丘综合,	http://hz752.love:63/3111/iqilu.php?id=jnzq1
+762	章丘TV-2,	http://hz752.love:63/3111/iqilu.php?id=jnzq2
+763	茌平生活,	http://hz752.love:63/3111/iqilu.php?id=lccpsh
+764	茌平综合,	http://hz752.love:63/3111/iqilu.php?id=lccpzh
+765	东昌综合,	http://hz752.love:63/3111/iqilu.php?id=lcdczh
+766	东阿综合,	http://hz752.love:63/3111/iqilu.php?id=lcdexw
+767	东阿综艺信息,	http://hz752.love:63/3111/iqilu.php?id=lcdezy
+768	高唐生活,	http://hz752.love:63/3111/iqilu.php?id=lcgtsh
+769	高唐综合,	http://hz752.love:63/3111/iqilu.php?id=lcgtzh
+770	冠县综合,	http://hz752.love:63/3111/iqilu.php?id=lcgxzh
+771	临清经济信息,	http://hz752.love:63/3111/iqilu.php?id=lclqjj
+772	临清综合,	http://hz752.love:63/3111/iqilu.php?id=lclqzh
+773	莘县综合,	http://hz752.love:63/3111/iqilu.php?id=lcsx1
+774	莘县公共,	http://hz752.love:63/3111/iqilu.php?id=lcsx2
+775	阳谷综合,	http://hz752.love:63/3111/iqilu.php?id=lcygxw
+776	阳谷影视,	http://hz752.love:63/3111/iqilu.php?id=lcygys
+777	费县生活,	http://hz752.love:63/3111/iqilu.php?id=lyfxsh
+778	费县综合,	http://hz752.love:63/3111/iqilu.php?id=lyfxzh
+779	河东影视,	http://hz752.love:63/3111/iqilu.php?id=lyhdys
+780	河东综合,	http://hz752.love:63/3111/iqilu.php?id=lyhdzh
+781	莒南影视,	http://hz752.love:63/3111/iqilu.php?id=lyjnys
+782	莒南综合,	http://hz752.love:63/3111/iqilu.php?id=lyjnzh
+783	兰山综合,	http://hz752.love:63/3111/iqilu.php?id=lylatv
+784	兰陵公共,	http://hz752.love:63/3111/iqilu.php?id=lyllgg
+785	兰陵综合,	http://hz752.love:63/3111/iqilu.php?id=lyllzh
+786	临沭TV-1,	http://hz752.love:63/3111/iqilu.php?id=lyls1
+787	临沭TV-2,	http://hz752.love:63/3111/iqilu.php?id=lyls2
+788	罗庄影视,	http://hz752.love:63/3111/iqilu.php?id=lylzys
+789	罗庄综合,	http://hz752.love:63/3111/iqilu.php?id=lylzzh
+790	蒙阴1,	http://hz752.love:63/3111/iqilu.php?id=lymy1
+791	蒙阴2,	http://hz752.love:63/3111/iqilu.php?id=lymy2
+792	平邑生活,	http://hz752.love:63/3111/iqilu.php?id=lypysh
+793	平邑综合,	http://hz752.love:63/3111/iqilu.php?id=lypyxw
+794	郯城TV-1,	http://hz752.love:63/3111/iqilu.php?id=lytc1
+795	郯城TV-2,	http://hz752.love:63/3111/iqilu.php?id=lytc2
+796	沂南温泉旅游,	http://hz752.love:63/3111/iqilu.php?id=lyynwq
+797	沂南综合,	http://hz752.love:63/3111/iqilu.php?id=lyynzh
+798	沂水TV1,	http://hz752.love:63/3111/iqilu.php?id=lyys1
+799	沂水TV2,	http://hz752.love:63/3111/iqilu.php?id=lyys2
+800	黄岛生活,	http://hz752.love:63/3111/iqilu.php?id=qdhdsh
+801	黄岛综合,	http://hz752.love:63/3111/iqilu.php?id=qdhdxw
+802	即墨生活服务,	http://hz752.love:63/3111/iqilu.php?id=qdjmsh
+803	即墨综合,	http://hz752.love:63/3111/iqilu.php?id=qdjmxw
+804	胶州生活,	http://hz752.love:63/3111/iqilu.php?id=qdjzsh
+805	胶州综合,	http://hz752.love:63/3111/iqilu.php?id=qdjzxw
+806	李沧综合,	http://hz752.love:63/3111/iqilu.php?id=qdlc
+807	崂山综合,	http://hz752.love:63/3111/iqilu.php?id=qdls
+808	莱西生活,	http://hz752.love:63/3111/iqilu.php?id=qdlxsh
+809	莱西综合,	http://hz752.love:63/3111/iqilu.php?id=qdlxzh
+810	平度生活服务,	http://hz752.love:63/3111/iqilu.php?id=qdpdsh
+811	平度综合,	http://hz752.love:63/3111/iqilu.php?id=qdpdxw
+812	莒县1,	http://hz752.love:63/3111/iqilu.php?id=rzjx1
+813	莒县2,	http://hz752.love:63/3111/iqilu.php?id=rzjx2
+814	莒县,	http://hz752.love:63/3111/iqilu.php?id=rzjxxw
+815	岚山,	http://hz752.love:63/3111/iqilu.php?id=rzls
+816	五莲文化旅游,	http://hz752.love:63/3111/iqilu.php?id=rzwlwh
+817	五莲综合,	http://hz752.love:63/3111/iqilu.php?id=rzwlxw
+818	东平民生,	http://hz752.love:63/3111/iqilu.php?id=tadpms
+819	东平新闻,	http://hz752.love:63/3111/iqilu.php?id=tadpxw
+820	岱岳综合,	http://hz752.love:63/3111/iqilu.php?id=tady
+821	肥城生活,	http://hz752.love:63/3111/iqilu.php?id=tafcsh
+822	肥城综合,	http://hz752.love:63/3111/iqilu.php?id=tafczh
+823	宁阳1,	http://hz752.love:63/3111/iqilu.php?id=tany1
+824	宁阳2,	http://hz752.love:63/3111/iqilu.php?id=tany2
+825	泰山TV,	http://hz752.love:63/3111/iqilu.php?id=tats
+826	新泰乡村,	http://hz752.love:63/3111/iqilu.php?id=taxtxc
+827	新泰综合,	http://hz752.love:63/3111/iqilu.php?id=taxtxw
+828	安丘民生,	http://hz752.love:63/3111/iqilu.php?id=wfaqms
+829	安丘综合,	http://hz752.love:63/3111/iqilu.php?id=wfaqxw
+830	滨海综合,	http://hz752.love:63/3111/iqilu.php?id=wfbhxw
+831	昌乐综合,	http://hz752.love:63/3111/iqilu.php?id=wfclxw
+832	昌邑经济生活,	http://hz752.love:63/3111/iqilu.php?id=wfcyjj
+833	昌邑综合,	http://hz752.love:63/3111/iqilu.php?id=wfcyxw
+834	坊子综合,	http://hz752.love:63/3111/iqilu.php?id=wffzxw
+835	高密综合,	http://hz752.love:63/3111/iqilu.php?id=wfgmxw
+836	寒亭新闻,	http://hz752.love:63/3111/iqilu.php?id=wfhtxw
+837	奎文综合,	http://hz752.love:63/3111/iqilu.php?id=wfkw
+838	临朐综合,	http://hz752.love:63/3111/iqilu.php?id=wflqxw
+839	青州文化,	http://hz752.love:63/3111/iqilu.php?id=wfqzwh
+840	青州综合,	http://hz752.love:63/3111/iqilu.php?id=wfqzzh
+841	潍城TV,	http://hz752.love:63/3111/iqilu.php?id=wfwc
+842	诸城生活娱乐,	http://hz752.love:63/3111/iqilu.php?id=wfzcsh
+843	诸城综合,	http://hz752.love:63/3111/iqilu.php?id=wfzcxw
+844	威海生活,	http://hz752.love:63/3111/iqilu.php?id=whgg
+845	威海海洋,	http://hz752.love:63/3111/iqilu.php?id=whhy
+846	荣成生活,	http://hz752.love:63/3111/iqilu.php?id=whrcsh
+847	荣成综合,	http://hz752.love:63/3111/iqilu.php?id=whrczh
+848	乳山生活,	http://hz752.love:63/3111/iqilu.php?id=whrssh
+849	乳山综合,	http://hz752.love:63/3111/iqilu.php?id=whrsxw
+850	文登TV1,	http://hz752.love:63/3111/iqilu.php?id=whwd1
+851	文登TV2,	http://hz752.love:63/3111/iqilu.php?id=whwd2
+852	威海综合,	http://hz752.love:63/3111/iqilu.php?id=whxwzh
+853	长岛综合,	http://hz752.love:63/3111/iqilu.php?id=ytcd
+854	福山影视,	http://hz752.love:63/3111/iqilu.php?id=ytfsys
+855	福山综合,	http://hz752.love:63/3111/iqilu.php?id=ytfszh
+856	海阳综合,	http://hz752.love:63/3111/iqilu.php?id=ythyzh
+857	龙口生活,	http://hz752.love:63/3111/iqilu.php?id=ytlksh
+858	龙口综合,	http://hz752.love:63/3111/iqilu.php?id=ytlkzh
+859	莱山影视,	http://hz752.love:63/3111/iqilu.php?id=ytlsys
+860	莱山综合,	http://hz752.love:63/3111/iqilu.php?id=ytlszh
+861	莱阳民生综艺,	http://hz752.love:63/3111/iqilu.php?id=ytlyms
+862	莱阳综合,	http://hz752.love:63/3111/iqilu.php?id=ytlyxw
+863	莱州商务,	http://hz752.love:63/3111/iqilu.php?id=ytlzsw
+864	莱州综合,	http://hz752.love:63/3111/iqilu.php?id=ytlzzh
+865	牟平综合,	http://hz752.love:63/3111/iqilu.php?id=ytmpxw
+866	蓬莱新闻,	http://hz752.love:63/3111/iqilu.php?id=ytplxw
+867	蓬莱综合,	http://hz752.love:63/3111/iqilu.php?id=ytplzh
+868	栖霞苹果,	http://hz752.love:63/3111/iqilu.php?id=ytqxpg
+869	栖霞综合,	http://hz752.love:63/3111/iqilu.php?id=ytqxzh
+870	招远综合,	http://hz752.love:63/3111/iqilu.php?id=ytzyzh
+871	招远综艺,	http://hz752.love:63/3111/iqilu.php?id=ytzyzy
+872	博山图文,	http://hz752.love:63/3111/iqilu.php?id=zbbstw
+873	博山综合,	http://hz752.love:63/3111/iqilu.php?id=zbbsxw
+874	高青影视,	http://hz752.love:63/3111/iqilu.php?id=zbgqys
+875	高青综合,	http://hz752.love:63/3111/iqilu.php?id=zbgqzh
+876	桓台TV1,	http://hz752.love:63/3111/iqilu.php?id=zbht1
+877	桓台TV2,	http://hz752.love:63/3111/iqilu.php?id=zbht2
+878	临淄生活服务,	http://hz752.love:63/3111/iqilu.php?id=zblzsh
+879	临淄综合,	http://hz752.love:63/3111/iqilu.php?id=zblzxw
+880	沂源生活,	http://hz752.love:63/3111/iqilu.php?id=zbyysh
+881	沂源综合,	http://hz752.love:63/3111/iqilu.php?id=zbyyxw
+882	淄川生活,	http://hz752.love:63/3111/iqilu.php?id=zbzcsh
+883	淄川综合,	http://hz752.love:63/3111/iqilu.php?id=zbzcxw
+884	张店综合,	http://hz752.love:63/3111/iqilu.php?id=zbzd1
+885	张店公共,	http://hz752.love:63/3111/iqilu.php?id=zbzd2
+886	周村生活,	http://hz752.love:63/3111/iqilu.php?id=zbzhsh
+887	周村新闻,	http://hz752.love:63/3111/iqilu.php?id=zbzhxw
+888	山亭综合,	http://hz752.love:63/3111/iqilu.php?id=zzstzh
+889	市中综合,	http://hz752.love:63/3111/iqilu.php?id=zzszzh
+890	台儿庄综合,	http://hz752.love:63/3111/iqilu.php?id=zztezxw
+891	滕州民生,	http://hz752.love:63/3111/iqilu.php?id=zztzms
+892	滕州综合,	http://hz752.love:63/3111/iqilu.php?id=zztzzh
+893	薛城综合,	http://hz752.love:63/3111/iqilu.php?id=zzxcxw
+894	峄城综合,	http://hz752.love:63/3111/iqilu.php?id=zzyczh
+895	江苏体育,	http://hz752.love:63/3111/jstv.php??id=jsty
+896	江苏城市,	http://hz752.love:63/3111/jstv.php?id=jscs
+897	江苏公共,	http://hz752.love:63/3111/jstv.php?id=jsgg
+898	江苏国际,	http://hz752.love:63/3111/jstv.php?id=jsgj
+899	江苏教育,	http://hz752.love:63/3111/jstv.php?id=jsjy
+900	江苏靓妆,	http://hz752.love:63/3111/jstv.php?id=jslz
+901	江苏卫视,	http://hz752.love:63/3111/jstv.php?id=jsws
+902	江苏卫视,	http://hz752.love:63/3111/jstv.php?id=jsws
+903	江苏影视,	http://hz752.love:63/3111/jstv.php?id=jsys
+904	江苏影视,	http://hz752.love:63/3111/jstv.php?id=jsys
+905	江苏综艺,	http://hz752.love:63/3111/jstv.php?id=jszy
+906	江苏学习,	http://hz752.love:63/3111/jstv.php?id=xxpd
+907	优漫卡通,	http://hz752.love:63/3111/jstv.php?id=ymkt
+908	优漫卡通,	http://hz752.love:63/3111/jstv.php?id=ymkt
+909	安义电视台,	http://hz752.love:63/3111/jxnc.php?id=aytv
+910	进贤电视台,	http://hz752.love:63/3111/jxnc.php?id=jxtv
+911	南昌都市,	http://hz752.love:63/3111/jxnc.php?id=ncds
+912	南昌公共,	http://hz752.love:63/3111/jxnc.php?id=ncgg
+913	南昌新闻综合,	http://hz752.love:63/3111/jxnc.php?id=ncxwzh
+914	南昌资讯政法,	http://hz752.love:63/3111/jxnc.php?id=nczx
+915	湾里电视台,	http://hz752.love:63/3111/jxnc.php?id=wltv
+916	新建电视台,	http://hz752.love:63/3111/jxnc.php?id=xjtv
+917	揭阳生活,	http://hz752.love:63/3111/jy.php?id=jysh
+918	揭阳综合,	http://hz752.love:63/3111/jy.php?id=jyzh
+919	澳门莲花,	http://hz752.love:63/3111/lotus.php
+920	咪咕24小时体育台,	http://hz752.love:63/3111/migu.php?id=24hty
+921	爱国影展,	http://hz752.love:63/3111/migu.php?id=agyz
+922	爆款动画电影,	http://hz752.love:63/3111/migu.php?id=bkdhdy
+923	纯爱文艺影院,	http://hz752.love:63/3111/migu.php?id=cawyyy
+924	CCTV1,	http://hz752.love:63/3111/migu.php?id=cctv1
+925	CCTV10,	http://hz752.love:63/3111/migu.php?id=cctv10
+926	CCTV11,	http://hz752.love:63/3111/migu.php?id=cctv11
+927	CCTV12,	http://hz752.love:63/3111/migu.php?id=cctv12
+928	CCTV14,	http://hz752.love:63/3111/migu.php?id=cctv14
+929	CCTV15,	http://hz752.love:63/3111/migu.php?id=cctv15
+930	CCTV17,	http://hz752.love:63/3111/migu.php?id=cctv17
+931	CCTV2,	http://hz752.love:63/3111/migu.php?id=cctv2
+932	CCTV3,	http://hz752.love:63/3111/migu.php?id=cctv3
+933	CCTV4,	http://hz752.love:63/3111/migu.php?id=cctv4
+934	CCTV4美洲,	http://hz752.love:63/3111/migu.php?id=cctv4a
+935	CCTV4欧洲,	http://hz752.love:63/3111/migu.php?id=cctv4o
+936	CCTV5,	http://hz752.love:63/3111/migu.php?id=cctv5
+937	CCTV5+,	http://hz752.love:63/3111/migu.php?id=cctv5p
+938	CCTV6,	http://hz752.love:63/3111/migu.php?id=cctv6
+939	CCTV7,	http://hz752.love:63/3111/migu.php?id=cctv7
+940	CCTV8,	http://hz752.love:63/3111/migu.php?id=cctv8
+941	CCTV9,	http://hz752.love:63/3111/migu.php?id=cctv9
+942	CGTN,	http://hz752.love:63/3111/migu.php?id=cgtn
+943	CGTN阿语,	http://hz752.love:63/3111/migu.php?id=cgtna
+944	CGTN西语,	http://hz752.love:63/3111/migu.php?id=cgtne
+945	CGTN法语,	http://hz752.love:63/3111/migu.php?id=cgtnf
+946	CGTN纪录,	http://hz752.love:63/3111/migu.php?id=cgtnjl
+947	CGTN俄语,	http://hz752.love:63/3111/migu.php?id=cgtnr
+948	昌黎综合,	http://hz752.love:63/3111/migu.php?id=clzh
+949	成龙作品集,	http://hz752.love:63/3111/migu.php?id=clzpj
+950	重庆卫视,	http://hz752.love:63/3111/migu.php?id=cqws
+951	CUVA频道,	http://hz752.love:63/3111/migu.php?id=cuva
+952	东方卫视,	http://hz752.love:63/3111/migu.php?id=dfws
+953	东方影视,	http://hz752.love:63/3111/migu.php?id=dfys
+954	东方影视,	http://hz752.love:63/3111/migu.php?id=dfys
+955	大咖在现场,	http://hz752.love:63/3111/migu.php?id=dkzxc
+956	大湾区卫视,	http://hz752.love:63/3111/migu.php?id=dwqws
+957	第一财经,	http://hz752.love:63/3111/migu.php?id=dycj
+958	红色谍战剧场,	http://hz752.love:63/3111/migu.php?id=dzjc
+959	发现之旅,	http://hz752.love:63/3111/migu.php?id=fxzl
+960	CCTV风云剧场,	http://hz752.love:63/3111/migu.php?id=fyjc
+961	广东卫视,	http://hz752.love:63/3111/migu.php?id=gdws
+962	广东影视,	http://hz752.love:63/3111/migu.php?id=gdys
+963	广东影视,	http://hz752.love:63/3111/migu.php?id=gdys
+964	古龙作品集,	http://hz752.love:63/3111/migu.php?id=glzpj
+965	sk高能烧脑时刻,	http://hz752.love:63/3111/migu.php?id=gnslsk
+966	大片,	http://hz752.love:63/3111/migu.php?id=gqdp
+967	甘肃卫视,	http://hz752.love:63/3111/migu.php?id=gsws
+968	淮安新闻综合,	http://hz752.love:63/3111/migu.php?id=hazh
+969	怀旧老片,	http://hz752.love:63/3111/migu.php?id=hjlp
+970	红色轮播台,	http://hz752.love:63/3111/migu.php?id=hslbt
+971	湖北卫视,	http://hz752.love:63/3111/migu.php?id=hubws
+972	汉中公共,	http://hz752.love:63/3111/migu.php?id=hzgg
+973	汉中教育,	http://hz752.love:63/3111/migu.php?id=hzjy
+974	经典动画,	http://hz752.love:63/3111/migu.php?id=jddh
+975	经典放映厅,	http://hz752.love:63/3111/migu.php?id=jdfyt
+976	经典影视速看,	http://hz752.love:63/3111/migu.php?id=jdys
+977	嘉佳卡通,	http://hz752.love:63/3111/migu.php?id=jjkt
+978	健康中国,	http://hz752.love:63/3111/migu.php?id=jkzg
+979	军旅剧场,	http://hz752.love:63/3111/migu.php?id=jljc
+980	吉林卫视,	http://hz752.love:63/3111/migu.php?id=jlws
+981	江苏城市,	http://hz752.love:63/3111/migu.php?id=jscs
+982	军事大片,	http://hz752.love:63/3111/migu.php?id=jsdp
+983	江苏公共,	http://hz752.love:63/3111/migu.php?id=jsgg
+984	江苏国际,	http://hz752.love:63/3111/migu.php?id=jsgj
+985	江苏教育,	http://hz752.love:63/3111/migu.php?id=jsjy
+986	江苏靓妆,	http://hz752.love:63/3111/migu.php?id=jslz
+987	江苏体育,	http://hz752.love:63/3111/migu.php?id=jsty
+988	江苏卫视,	http://hz752.love:63/3111/migu.php?id=jsws
+989	江苏学习,	http://hz752.love:63/3111/migu.php?id=jsxx
+990	江苏影视,	http://hz752.love:63/3111/migu.php?id=jsys
+991	江苏影视,	http://hz752.love:63/3111/migu.php?id=jsys
+992	江苏综艺,	http://hz752.love:63/3111/migu.php?id=jszy
+993	江西卫视,	http://hz752.love:63/3111/migu.php?id=jxws
+994	金鹰纪实,	http://hz752.love:63/3111/migu.php?id=jyjs
+995	金庸频道,	http://hz752.love:63/3111/migu.php?id=jypd
+996	解压影院,	http://hz752.love:63/3111/migu.php?id=jyyy
+997	留坝电视台,	http://hz752.love:63/3111/migu.php?id=lbtv
+998	刘德华影院,	http://hz752.love:63/3111/migu.php?id=ldhyy
+999	辽宁卫视,	http://hz752.love:63/3111/migu.php?id=lnws
+1000	临洮电视台,	http://hz752.love:63/3111/migu.php?id=lttv
+1001	连云港新闻综合,	http://hz752.love:63/3111/migu.php?id=lygzh
+1002	略阳电视台,	http://hz752.love:63/3111/migu.php?id=lytv
+1003	林正英剧场*,	http://hz752.love:63/3111/migu.php?id=lzujc
+1004	咪咕独家放送,	http://hz752.love:63/3111/migu.php?id=mgdjfs
+1005	美国电影时刻,	http://hz752.love:63/3111/migu.php?id=mgdysk
+1006	勉县电视台,	http://hz752.love:63/3111/migu.php?id=mxtv
+1007	内蒙古卫视,	http://hz752.love:63/3111/migu.php?id=nmws
+1008	宁强电视台,	http://hz752.love:63/3111/migu.php?id=nqtv2
+1009	宁夏卫视,	http://hz752.love:63/3111/migu.php?id=nxws
+1010	青海卫视,	http://hz752.love:63/3111/migu.php?id=qhws
+1011	热剧联播,	http://hz752.love:63/3111/migu.php?id=rjlb
+1012	四川卫视,	http://hz752.love:63/3111/migu.php?id=scws
+1013	试胆大会,	http://hz752.love:63/3111/migu.php?id=sddh
+1014	山东教育卫视,	http://hz752.love:63/3111/migu.php?id=sdjy
+1015	山东卫视,	http://hz752.love:63/3111/migu.php?id=sdws
+1016	四海钓鱼,	http://hz752.love:63/3111/migu.php?id=shdy
+1017	上海外语,	http://hz752.love:63/3111/migu.php?id=shics
+1018	纪实人文,	http://hz752.love:63/3111/migu.php?id=shjsrw
+1019	世界杯遗珠大赏,	http://hz752.love:63/3111/migu.php?id=sjbyzds
+1020	少林真功夫,	http://hz752.love:63/3111/migu.php?id=slzgf
+1021	SNH48剧场公演,	http://hz752.love:63/3111/migu.php?id=snh
+1022	宿迁新闻综合,	http://hz752.love:63/3111/migu.php?id=sqzh
+1023	赛事最经典,	http://hz752.love:63/3111/migu.php?id=sszjd
+1024	陕西卫视,	http://hz752.love:63/3111/migu.php?id=sxws
+1025	苏州新闻综合,	http://hz752.love:63/3111/migu.php?id=szzh
+1026	体坛名栏汇,	http://hz752.love:63/3111/migu.php?id=ttmlh
+1027	泰想看电影,	http://hz752.love:63/3111/migu.php?id=txkdy
+1028	体育影视,	http://hz752.love:63/3111/migu.php?id=tyys
+1029	泰州新闻综合,	http://hz752.love:63/3111/migu.php?id=tzzh
+1030	王牌对王牌,	http://hz752.love:63/3111/migu.php?id=wpdwp
+1031	温情催泪影院,	http://hz752.love:63/3111/migu.php?id=wqclyy
+1032	无锡新闻综合,	http://hz752.love:63/3111/migu.php?id=wxzh
+1033	乡村振兴,	http://hz752.love:63/3111/migu.php?id=xczx
+1034	喜剧联盟,	http://hz752.love:63/3111/migu.php?id=xjlm
+1035	新疆卫视,	http://hz752.love:63/3111/migu.php?id=xjws
+1036	新片放映厅,	http://hz752.love:63/3111/migu.php?id=xpfyt
+1037	西藏卫视,	http://hz752.love:63/3111/migu.php?id=xzws
+1038	徐州综合,	http://hz752.love:63/3111/migu.php?id=xzzh
+1039	印度神片,	http://hz752.love:63/3111/migu.php?id=ydsp
+1040	运动员演戏,	http://hz752.love:63/3111/migu.php?id=ydyyx
+1041	优漫卡通,	http://hz752.love:63/3111/migu.php?id=ymkt
+1042	优漫卡通,	http://hz752.love:63/3111/migu.php?id=ymkt
+1043	约你看韩影,	http://hz752.love:63/3111/migu.php?id=ynkhy
+1044	粤听粤爱,	http://hz752.love:63/3111/migu.php?id=ytya
+1045	影像俄罗斯,	http://hz752.love:63/3111/migu.php?id=yxels
+1046	张国荣影院,	http://hz752.love:63/3111/migu.php?id=zgryy
+1047	智慧养老,	http://hz752.love:63/3111/migu.php?id=zhyl
+1048	走进艺术,	http://hz752.love:63/3111/migu.php?id=zjys
+1049	镇江综合,	http://hz752.love:63/3111/migu.php?id=zjzh
+1050	筑梦九天,	http://hz752.love:63/3111/migu.php?id=zmjt
+1051	最强综艺趴,	http://hz752.love:63/3111/migu.php?id=zqzyp
+1052	周润发影院,	http://hz752.love:63/3111/migu.php?id=zrfyy
+1053	周星驰影院,	http://hz752.love:63/3111/migu.php?id=zxcyy
+1054	中学生,	http://hz752.love:63/3111/migu.php?id=zxs
+1055	宁波一套,	http://hz752.love:63/3111/nbtv.php?id=nbtv1
+1056	宁波二套,	http://hz752.love:63/3111/nbtv.php?id=nbtv2
+1057	宁波三套,	http://hz752.love:63/3111/nbtv.php?id=nbtv3
+1058	宁波四套,	http://hz752.love:63/3111/nbtv.php?id=nbtv4
+1059	宁波五套,	http://hz752.love:63/3111/nbtv.php?id=nbtv5
+1060	宁波六套,	http://hz752.love:63/3111/nbtv.php?id=nbtv6
+1061	内蒙古卫视,	http://hz752.love:63/3111/nm.php?id=161
+1062	内蒙古卫视,	http://hz752.love:63/3111/nm.php?id=161
+1063	内蒙古综合,	http://hz752.love:63/3111/nm.php?id=162
+1064	内蒙古文化,	http://hz752.love:63/3111/nm.php?id=163
+1065	内蒙古卫视蒙语,	http://hz752.love:63/3111/nm.php?id=164
+1066	内蒙古少儿,	http://hz752.love:63/3111/nm.php?id=165
+1067	内蒙古文娱,	http://hz752.love:63/3111/nm.php?id=166
+1068	内蒙古农牧,	http://hz752.love:63/3111/nm.php?id=167
+1069	内蒙古生活,	http://hz752.love:63/3111/nm.php?id=168
+1070	内蒙古卫视蒙语,	http://hz752.love:63/3111/nm.php?id=169
+1071	宁夏少儿,	http://hz752.love:63/3111/nxtv.php?id=28
+1072	宁夏文旅,	http://hz752.love:63/3111/nxtv.php?id=29
+1073	宁夏公共,	http://hz752.love:63/3111/nxtv.php?id=5
+1074	宁夏经济,	http://hz752.love:63/3111/nxtv.php?id=7
+1075	成都都市,	http://hz752.love:63/3111/sccd.php?id=cddssh
+1076	成都公共,	http://hz752.love:63/3111/sccd.php?id=cdgg
+1077	成都经济,	http://hz752.love:63/3111/sccd.php?id=cdjjzx
+1078	成都购物,	http://hz752.love:63/3111/sccd.php?id=cdmrgw
+1079	成都蓉城,	http://hz752.love:63/3111/sccd.php?id=cdrcxf
+1080	成都少儿,	http://hz752.love:63/3111/sccd.php?id=cdse
+1081	成都新闻,	http://hz752.love:63/3111/sccd.php?id=cdxwzh
+1082	成都影视,	http://hz752.love:63/3111/sccd.php?id=cdyswy
+1083	成华有线,	http://hz752.love:63/3111/sccd.php?id=chyx
+1084	崇州电视1套,	http://hz752.love:63/3111/sccd.php?id=cztv
+1085	都江堰电视台,	http://hz752.love:63/3111/sccd.php?id=djytv
+1086	新津电视台,	http://hz752.love:63/3111/sccd.php?id=dyxwzh
+1087	成都高新电视,	http://hz752.love:63/3111/sccd.php?id=gxtv
+1088	锦江电视台,	http://hz752.love:63/3111/sccd.php?id=jjtv
+1089	金牛综合,	http://hz752.love:63/3111/sccd.php?id=jntv
+1090	金堂电视台,	http://hz752.love:63/3111/sccd.php?id=jttv
+1091	简阳新闻综合,	http://hz752.love:63/3111/sccd.php?id=jyxwzh
+1092	龙泉新闻综合,	http://hz752.love:63/3111/sccd.php?id=lqzh
+1093	郫都新闻综合,	http://hz752.love:63/3111/sccd.php?id=pdxwzh
+1094	蒲江电视台,	http://hz752.love:63/3111/sccd.php?id=pjtv
+1095	彭州电视台,	http://hz752.love:63/3111/sccd.php?id=pztv
+1096	青白江电视台,	http://hz752.love:63/3111/sccd.php?id=qbjtv
+1097	邛崃电视台,	http://hz752.love:63/3111/sccd.php?id=qltv
+1098	青羊电视台,	http://hz752.love:63/3111/sccd.php?id=qytv
+1099	双流综合,	http://hz752.love:63/3111/sccd.php?id=slzh
+1100	武侯电视台,	http://hz752.love:63/3111/sccd.php?id=whtv
+1101	温江综合,	http://hz752.love:63/3111/sccd.php?id=wjtv
+1102	新都电视台,	http://hz752.love:63/3111/sccd.php?id=xdzh
+1103	大邑综合,	http://hz752.love:63/3111/sccd.php?id=xjtv
+1104	康巴卫视,	http://hz752.love:63/3111/sctv.php?id=kbws
+1105	四川TV7,	http://hz752.love:63/3111/sctv.php?id=scfnet
+1106	四川经济,	http://hz752.love:63/3111/sctv.php?id=scjj
+1107	四川文化,	http://hz752.love:63/3111/sctv.php?id=scwhly
+1108	四川卫视,	http://hz752.love:63/3111/sctv.php?id=scws
+1109	四川卫视,	http://hz752.love:63/3111/sctv.php?id=scws
+1110	四川乡村,	http://hz752.love:63/3111/sctv.php?id=scxc
+1111	星空购物,	http://hz752.love:63/3111/sctv.php?id=scxkgw
+1112	四川新闻,	http://hz752.love:63/3111/sctv.php?id=scxw
+1113	四川影视,	http://hz752.love:63/3111/sctv.php?id=scyswy
+1114	山东新闻,	http://hz752.love:63/3111/sdws.php?id=ggpd
+1115	山东国际,	http://hz752.love:63/3111/sdws.php?id=gjpd
+1116	山东农科,	http://hz752.love:63/3111/sdws.php?id=nkpd
+1117	山东齐鲁,	http://hz752.love:63/3111/sdws.php?id=qlpd
+1118	山东卫视,	http://hz752.love:63/3111/sdws.php?id=sdtv
+1119	山东卫视,	http://hz752.love:63/3111/sdws.php?id=sdtv
+1120	山东少儿,	http://hz752.love:63/3111/sdws.php?id=sepd
+1121	山东生活,	http://hz752.love:63/3111/sdws.php?id=shpd
+1122	山东体育,	http://hz752.love:63/3111/sdws.php?id=typd
+1123	山东文旅,	http://hz752.love:63/3111/sdws.php?id=yspd
+1124	山东综艺,	http://hz752.love:63/3111/sdws.php?id=zypd
+1125	勃利综合,	http://hz752.love:63/3111/tide.php?id=blzh
+1126	巴彦电视台,	http://hz752.love:63/3111/tide.php?id=byzh
+1127	大连天鹅购物,	http://hz752.love:63/3111/tide.php?id=dlgw
+1128	大连少儿,	http://hz752.love:63/3111/tide.php?id=dlse
+1129	大连生活,	http://hz752.love:63/3111/tide.php?id=dlsh
+1130	大连文体,	http://hz752.love:63/3111/tide.php?id=dlwt
+1131	大连新闻综合,	http://hz752.love:63/3111/tide.php?id=dlzh
+1132	大连综合影视,	http://hz752.love:63/3111/tide.php?id=dlzhys
+1133	东宁综合,	http://hz752.love:63/3111/tide.php?id=dnzh
+1134	富锦电视台,	http://hz752.love:63/3111/tide.php?id=fjzh
+1135	抚远电视台,	http://hz752.love:63/3111/tide.php?id=fyzh
+1136	合肥财经,	http://hz752.love:63/3111/tide.php?id=hfcj
+1137	合肥公共,	http://hz752.love:63/3111/tide.php?id=hfgg
+1138	合肥教育法治,	http://hz752.love:63/3111/tide.php?id=hfjy
+1139	合肥新闻,	http://hz752.love:63/3111/tide.php?id=hfxw
+1140	合肥故事休闲,	http://hz752.love:63/3111/tide.php?id=hfxx
+1141	嘉荫综合,	http://hz752.love:63/3111/tide.php?id=jyzh
+1142	克东综合,	http://hz752.love:63/3111/tide.php?id=kdzh
+1143	林甸综合,	http://hz752.love:63/3111/tide.php?id=ldzh
+1144	龙江综合,	http://hz752.love:63/3111/tide.php?id=ljzh
+1145	林口综合,	http://hz752.love:63/3111/tide.php?id=lkzh
+1146	穆棱综合,	http://hz752.love:63/3111/tide.php?id=mlzh
+1147	讷河综合,	http://hz752.love:63/3111/tide.php?id=nhzh
+1148	绥芬河综合,	http://hz752.love:63/3111/tide.php?id=sfhzh
+1149	绥棱综合,	http://hz752.love:63/3111/tide.php?id=slzh
+1150	汕头综合,	http://hz752.love:63/3111/tide.php?id=stxwzh
+1151	陕西都市,	http://hz752.love:63/3111/tide.php?id=sxdsqc
+1152	陕西公共,	http://hz752.love:63/3111/tide.php?id=sxgg
+1153	黄河频道,	http://hz752.love:63/3111/tide.php?id=sxhh
+1154	山西卫视,	http://hz752.love:63/3111/tide.php?id=sxiws
+1155	山西卫视,	http://hz752.love:63/3111/tide.php?id=sxiws
+1156	山西经济,	http://hz752.love:63/3111/tide.php?id=sxjj
+1157	陕西生活,	http://hz752.love:63/3111/tide.php?id=sxsh
+1158	山西社会,	http://hz752.love:63/3111/tide.php?id=sxshfz
+1159	陕西体育,	http://hz752.love:63/3111/tide.php?id=sxtyxx
+1160	陕西卫视,	http://hz752.love:63/3111/tide.php?id=sxws
+1161	山西文体,	http://hz752.love:63/3111/tide.php?id=sxwtsh
+1162	陕西新闻,	http://hz752.love:63/3111/tide.php?id=sxxwzx
+1163	陕西移动,	http://hz752.love:63/3111/tide.php?id=sxyd
+1164	山西影视,	http://hz752.love:63/3111/tide.php?id=sxys
+1165	泰来综合,	http://hz752.love:63/3111/tide.php?id=tailzh
+1166	铁力综合,	http://hz752.love:63/3111/tide.php?id=tlzh
+1167	太原佰乐购,	http://hz752.love:63/3111/tide.php?id=tyblg
+1168	太原经济生活,	http://hz752.love:63/3111/tide.php?id=tyjjsh
+1169	太原社教法制,	http://hz752.love:63/3111/tide.php?id=tysjfz
+1170	太原文体,	http://hz752.love:63/3111/tide.php?id=tywt
+1171	太原新闻综合,	http://hz752.love:63/3111/tide.php?id=tyxwzh
+1172	太原影视,	http://hz752.love:63/3111/tide.php?id=tyys
+1173	依安综合,	http://hz752.love:63/3111/tide.php?id=yazh
+1174	海东综合,	http://hz752.love:63/3111/tm.php?id=haidong
+1175	玉林公共,	http://hz752.love:63/3111/tm.php?id=ylgg
+1176	玉林综合,	http://hz752.love:63/3111/tm.php?id=ylxwzh
+1177	安徽卫视,	http://hz752.love:63/3111/yst.php?id=anhuistv
+1178	北京卫视,	http://hz752.love:63/3111/yst.php?id=beijingstv
+1179	CCTV10,	http://hz752.love:63/3111/yst.php?id=cctv-10
+1180	CCTV11,	http://hz752.love:63/3111/yst.php?id=cctv-11
+1181	CCTV12,	http://hz752.love:63/3111/yst.php?id=cctv-12
+1182	CCTV13,	http://hz752.love:63/3111/yst.php?id=cctv-13
+1183	CCTV14,	http://hz752.love:63/3111/yst.php?id=cctv-14
+1184	CCTV15,	http://hz752.love:63/3111/yst.php?id=cctv-15
+1185	CCTV2,	http://hz752.love:63/3111/yst.php?id=cctv-2
+1186	CCTV3,	http://hz752.love:63/3111/yst.php?id=cctv-3
+1187	CCTV4,	http://hz752.love:63/3111/yst.php?id=cctv-4
+1188	CCTV5,	http://hz752.love:63/3111/yst.php?id=cctv-5
+1189	CCTV6,	http://hz752.love:63/3111/yst.php?id=cctv-6
+1190	CCTV7,	http://hz752.love:63/3111/yst.php?id=cctv-7
+1191	CCTV8,	http://hz752.love:63/3111/yst.php?id=cctv-8
+1192	CCTV9,	http://hz752.love:63/3111/yst.php?id=cctv-news
+1193	重庆卫视,	http://hz752.love:63/3111/yst.php?id=chongqingstv
+1194	东方卫视,	http://hz752.love:63/3111/yst.php?id=dongfangstv
+1195	东南卫视,	http://hz752.love:63/3111/yst.php?id=dongnanstv
+1196	甘肃卫视,	http://hz752.love:63/3111/yst.php?id=gansustv
+1197	广东卫视,	http://hz752.love:63/3111/yst.php?id=guangdongstv
+1198	广西卫视,	http://hz752.love:63/3111/yst.php?id=guangxistv
+1199	贵州卫视,	http://hz752.love:63/3111/yst.php?id=guizhoustv
+1200	CCTV1,	http://hz752.love:63/3111/yst.php?id=hdcctv01
+1201	CCTV5+,	http://hz752.love:63/3111/yst.php?id=hdcctv05plus
+1202	黑龙江卫视,	http://hz752.love:63/3111/yst.php?id=hdheilongjiangstv
+1203	河北卫视,	http://hz752.love:63/3111/yst.php?id=hebeistv
+1204	湖北卫视,	http://hz752.love:63/3111/yst.php?id=hubeistv
+1205	湖南卫视,	http://hz752.love:63/3111/yst.php?id=hunanstv
+1206	江苏卫视,	http://hz752.love:63/3111/yst.php?id=jiangsustv
+1207	江西卫视,	http://hz752.love:63/3111/yst.php?id=jiangxistv
+1208	吉林卫视,	http://hz752.love:63/3111/yst.php?id=jilinstv
+1209	金鹰卡通,	http://hz752.love:63/3111/yst.php?id=jinyingkaton
+1210	卡酷少儿,	http://hz752.love:63/3111/yst.php?id=kakukaton
+1211	康巴卫视,	http://hz752.love:63/3111/yst.php?id=kamba-tv
+1212	辽宁卫视,	http://hz752.love:63/3111/yst.php?id=liaoningstv
+1213	内蒙古卫视,	http://hz752.love:63/3111/yst.php?id=neimenggustv
+1214	宁夏卫视,	http://hz752.love:63/3111/yst.php?id=ningxiastv
+1215	青海卫视,	http://hz752.love:63/3111/yst.php?id=qinghaistv
+1216	云南生活,	http://hz752.love:63/3111/yst.php?id=SD-1200k-720P-yntv4
+1217	云南影视,	http://hz752.love:63/3111/yst.php?id=SD-1200k-720P-yntv5
+1218	山东教育卫视,	http://hz752.love:63/3111/yst.php?id=shandongjy
+1219	山东卫视,	http://hz752.love:63/3111/yst.php?id=shandongstv
+1220	陕西卫视,	http://hz752.love:63/3111/yst.php?id=shanxi1stv
+1221	山西卫视,	http://hz752.love:63/3111/yst.php?id=shanxistv
+1222	深圳卫视,	http://hz752.love:63/3111/yst.php?id=shenzhenstv
+1223	四川卫视,	http://hz752.love:63/3111/yst.php?id=sichuanstv
+1224	天津卫视,	http://hz752.love:63/3111/yst.php?id=tianjinstv
+1225	新疆卫视,	http://hz752.love:63/3111/yst.php?id=xinjiangstv
+1226	西藏卫视,	http://hz752.love:63/3111/yst.php?id=xizangstv
+1227	哈哈炫动,	http://hz752.love:63/3111/yst.php?id=xuandongkaton
+1228	云南都市,	http://hz752.love:63/3111/yst.php?id=yntv2
+1229	云南娱乐,	http://hz752.love:63/3111/yst.php?id=yntv3
+1230	云南康旅,	http://hz752.love:63/3111/yst.php?id=yntv6
+1231	云南国际,	http://hz752.love:63/3111/yst.php?id=yntvguoji
+1232	云南少儿,	http://hz752.love:63/3111/yst.php?id=yntvshaoer
+1233	优漫卡通,	http://hz752.love:63/3111/yst.php?id=youmankaton
+1234	云南卫视,	http://hz752.love:63/3111/yst.php?id=yunnanstv
+1235	浙江卫视,	http://hz752.love:63/3111/yst.php?id=zhejiangstv
+1236	扬州邗江,	http://hz752.love:63/3111/yzxl.php?id=yzhj
+1237	扬州一套,	http://hz752.love:63/3111/yzxl.php?id=yztv1
+1238	扬州二套,	http://hz752.love:63/3111/yzxl.php?id=yztv2
+1239	扬州三套,	http://hz752.love:63/3111/yzxl.php?id=yztv3
+1240	富阳综合,	http://hz752.love:63/3111/zjhz.php?id=fyzh
+1241	Hoolo综合,	http://hz752.love:63/3111/zjhz.php?id=hlzh
+1242	杭州导视,	http://hz752.love:63/3111/zjhz.php?id=hzds
+1243	杭州生活,	http://hz752.love:63/3111/zjhz.php?id=hzsh
+1244	西湖明珠,	http://hz752.love:63/3111/zjhz.php?id=hzxh
+1245	杭州影视,	http://hz752.love:63/3111/zjhz.php?id=hzys
+1246	杭州综合,	http://hz752.love:63/3111/zjhz.php?id=hzzh
+1247	青少体育,	http://hz752.love:63/3111/zjhz.php?id=qsty
 
 多屏监控,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 多屏监控,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
