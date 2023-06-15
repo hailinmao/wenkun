@@ -21,24 +21,24 @@
             "name": "刚刚线路"
         },
         {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "南风agit"
+        },   
+        {
             "url": "https://raw.iqiq.io/Yosakoii/Yosakoii.github.io/main/2023.json",
             "name": "Yosakoii"
-        },
-        {
-            "url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
-            "name": "胖丫线路"
         },
         {
             "url": "https://download.kstore.space/download/2863/01.txt",
             "name": "潇洒线路"
         }, 
         {
-            "url": "https://la.kstore.space/download/2883/0110.txt",
-            "name": "蚂蚁论坛"
-        },
-        {
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
             "name": "aiabc线路"
+        },
+        {
+            "url": "https://la.kstore.space/download/2883/0110.txt",
+            "name": "蚂蚁论坛"
         },
         {
             "url": "https://xhdwc.tk/0",
@@ -49,13 +49,13 @@
             "name": "月光宝盒"
         },
         {
-            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-            "name": "分享者ai"
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "俊于线路"
         },
         {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "南风agit"
-        },   
+            "url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
+            "name": "胖丫线路"
+        },
         {
             "url": "https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv.json",
             "name": "刺桐线路"
@@ -77,6 +77,10 @@
             "name": "老刘备站"
         },
         {
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+            "name": "分享者ai"
+        },
+        {
             "url": "https://dxawi.github.io/0/0.json",
             "name": "分享者2"
         },
@@ -88,10 +92,6 @@
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "FongMi"
-        },
-        {
-            "url": "http://home.jundie.top:81/top98.json",
-            "name": "俊于线路"
         },
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
