@@ -173,7 +173,7 @@
 {"key":"360","name":"💘360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 //{"key":"BuLei","name":"⚡布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"},
 //{"key":"csp_BuLei","name":"🏕布雷(SP)","type":3,"api":"csp_BuLei","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"drpy_js_布雷蓝光","name":"💎布雷蓝光","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/布雷蓝光.js"},
+{"key":"drpy_js_布雷蓝光","name":"💎布雷蓝光","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/布雷蓝光[V2].js"},
 
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy2.com/"},
 {"key":"csp_Auete","name":"🐼奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
