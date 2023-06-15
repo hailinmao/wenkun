@@ -203,10 +203,10 @@
 //{"key":"csp_BuLei","name":"⚡不雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 
 //{"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Lib","name":"💫Lib影视","type":3,"api":"csp_Libvio","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://tv.libvio.cc"},
-{"key":"csp_Bd","name":"💥哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_XBPQ_ 咕噜咕噜","name":"💢咕噜咕噜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/咕噜咕噜.json"},
-{"key":"csp_XBPQ_ 端木","name":"💢端木影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/端木.json"}, 
+//{"key":"csp_Lib","name":"💫Lib影视","type":3,"api":"csp_Libvio","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://tv.libvio.cc"},
+//{"key":"csp_Bd","name":"💥哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_XBPQ_ 咕噜咕噜","name":"💢咕噜咕噜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/咕噜咕噜.json"},
+//{"key":"csp_XBPQ_ 端木","name":"💢端木影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/端木.json"}, 
 //{"key":"csp_XBPQ_ 端木","name":"💢端木影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/端木.json"},
 
 {"key":"利奥影院","name":"🍪利奥影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/seji/app/raw/branch/main/01/%E5%88%A9%E5%A5%A5%E5%BD%B1%E9%99%A2.json"},
