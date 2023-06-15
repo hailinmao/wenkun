@@ -219,7 +219,7 @@
 {"key":"csp_一起看","name":"👨‍👩‍👧一起看(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8e3aefcba838d8dc5102ac786719d837"},
 //{"key":"世界杯","name":"一起看影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://codeberg.org/seji/app/raw/branch/main/ts.jar"},
 
-//{"key":"csp_Bttoo","name":"✌两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bttoo","name":"✌两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Juhuang","name":"👿剧荒荒","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Tkys","name":"⛅天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
