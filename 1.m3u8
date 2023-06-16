@@ -270,12 +270,12 @@
 //{"key":"csp_QQ","name":"企鹅(解析)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key":"py_cctvdq","name":"🌏央视大全(PY)","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/Py/py_cctvdq.py"},
-{"key":"py_zgwh","name":"🇨🇳中国文化(PY)","type":3,"api":"py_zgwh","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/Py/py_zgwh.py"},
-{"key":"py_yixi","name":"✏️一席话(PY)","type":3,"api":"py_yixi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/Py/py_yixi.py"},
-{"key":"py_zyy","name":"☘️中医药(PY)","type":3,"api":"py_zyy","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/Py/py_zyy.py"},
-{"key":"csp_YQK","name":"⚽一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
-{"key":"csp_qety","name":"⚽企鹅体育(PY)","api":"py_qety","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/Py/py_qety.py"},
+//{"key":"py_cctvdq","name":"🌏央视大全(PY)","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/Py/py_cctvdq.py"},
+//{"key":"py_zgwh","name":"🇨🇳中国文化(PY)","type":3,"api":"py_zgwh","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/Py/py_zgwh.py"},
+//{"key":"py_yixi","name":"✏️一席话(PY)","type":3,"api":"py_yixi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/Py/py_yixi.py"},
+//{"key":"py_zyy","name":"☘️中医药(PY)","type":3,"api":"py_zyy","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/Py/py_zyy.py"},
+//{"key":"csp_YQK","name":"⚽一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
+//{"key":"csp_qety","name":"⚽企鹅体育(PY)","api":"py_qety","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/Py/py_qety.py"},
 
 //{"key":"csp_Gitcafe","name":"💴小纸条","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitea.com/Yoursmile8/dream/raw/branch/main/ts.jar"},
 //{"key":"IKan","name":"👓爱看影视","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile8/dream/raw/branch/main/ts.jar"},
