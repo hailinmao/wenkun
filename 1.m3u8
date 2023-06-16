@@ -6,11 +6,11 @@
 //"wallpaper":"http://w.g9.pub:66/381203888/jar/content_1668931404876.jar;md5;cfa8b6dee6f44dd7ee4e135935b70f11",
 
 //南风
-//"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;09A472702BEFAECF58154F50533395FD",
+"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;09A472702BEFAECF58154F50533395FD",
 //"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;10EB32E7F059984CBA18EE3A8B764470",
 
 //猫测试 hz752
-"spider":"http://我不是.肥猫.love:63/Jar/pandaQ230604.jar;md5;41DEF120266367E3327D6EA26F384FC2" ,
+//"spider":"http://我不是.肥猫.love:63/Jar/pandaQ230604.jar;md5;41DEF120266367E3327D6EA26F384FC2" ,
 
 //潇洒
 //"spider":"https://download.kstore.space/download/2863/custom_spider.jar;md5;8AFC335DF4268F915C45043B349CEFD4",
@@ -157,7 +157,7 @@
 
 //{"key":"js七七","name":"🌈七七影视","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/酷云77.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"js七七","name":"🌈七七影视","type":3,"api":"https://agit.ai/sejinan/app/raw/branch/box/1/drpy2.min.js","ext":"https://agit.ai/sejinan/app/raw/branch/box/1/酷云77.js","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"drpy_js_酷云77","name":"🕵七七影视🕵","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/酷云77.js"},
+{"key":"drpy_js_酷云77","name":"🕵七七影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/酷云77.js"},
 
 {"key":"csp_LiteApple","name":"🍎小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
