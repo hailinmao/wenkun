@@ -1,19 +1,16 @@
-﻿
-{"data":
+﻿{"data":
 {"0":
 {"listInfo":[
-
-{"rankNum":1,"title":"梦中的那","hotLevel":100,"trend":0,"labelList":[],"id":"mzc002007vp35qj","dataType":0,"mark":""},
-{"rankNum":2,"title":"闪耀的她","hotLevel":91,"trend":1,"labelList":[],"id":"mzc00200ccgo44c","dataType":0,"mark":""},
-{"rankNum":3,"title":"斗罗大陆","hotLevel":91,"trend":-1,"labelList":[],"id":"m441e3rjq9kwpsc","dataType":0,"mark":""},
-{"rankNum":4,"title":"斗破苍穹年番","hotLevel":83,"trend":-1,"labelList":[],"id":"mzc0020027yzd9e","dataType":0,"mark":""},
-{"rankNum":5,"title":"奔跑吧 第7季","hotLevel":82,"trend":-1,"labelList":[],"id":"mzc00200x5r2gjy","dataType":0,"mark":""},
-{"rankNum":6,"title":"照亮你","hotLevel":80,"trend":0,"labelList":[],"id":"mzc00200k1kpkgp","dataType":0,"mark":""},
-{"rankNum":7,"title":"三分野","hotLevel":80,"trend":0,"labelList":[],"id":"mzc00200mhcv61p","dataType":0,"mark":""},
-{"rankNum":8,"title":"公诉","hotLevel":80,"trend":1,"labelList":[],"id":"mzc00200c16fwl5","dataType":0,"mark":""},
-{"rankNum":9,"title":"长风渡","hotLevel":79,"trend":1,"labelList":[],"id":"sdp001005146gvo","dataType":0,"mark":""},
-{"rankNum":10,"title":"五十公里桃花坞 第3季","hotLevel":78,"trend":1,"labelList":[],"id":"mzc00200t7i1qwp","dataType":0,"mark":""}
+{"rankNum":1,"title":"梦中的那"},
+{"rankNum":2,"title":"闪耀的她"},
+{"rankNum":3,"title":"斗罗大陆"},
+{"rankNum":4,"title":"斗破苍穹年番"},
+{"rankNum":5,"title":"奔跑吧 第7季"},
+{"rankNum":6,"title":"照亮你"},
+{"rankNum":7,"title":"三分野"},
+{"rankNum":8,"title":"公诉"},
+{"rankNum":9,"title":"长风渡"},
+{"rankNum":10,"title":"五十公里桃花坞"}
 ],"hasNextPage":true}
-
 },
 "ret":0}
