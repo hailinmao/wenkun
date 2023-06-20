@@ -71,7 +71,7 @@
         },
         {
             "url": "http://9xi4o.tk/0725.json",
-            "name": "4K 云盘"
+            "name": "4K云盘"
         },           
         {
             "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
