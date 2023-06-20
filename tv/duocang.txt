@@ -1,5 +1,6 @@
-﻿{"data":{"mapResult":{
-"0":
+﻿{"data":
+{"mapResult":
+{"0":
 {"listInfo":[
 {"rankNum":1,"title":"梦中的那"},
 {"rankNum":2,"title":"闪耀的她"},
@@ -13,5 +14,4 @@
 {"rankNum":10,"title":"五十公里桃花坞"}
 ],"hasNextPage":true}}
 },
-"businessHead":{"type":0,"body":""},
 "ret":0}
