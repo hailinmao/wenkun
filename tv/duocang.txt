@@ -2,17 +2,19 @@
 {"errCode":0,"msg":"","mapResult":
 {
 "0":
-{"channelTitle":"热搜","areaTitle":"","modifyTime":"","listInfo":[
-{"rankNum":1,"title":"梦中的那","hotLevel":100,"trend":0,"labelList":[],"id":"mzc002007vp35qj","dataType":0,"mark":""},
-{"rankNum":2,"title":"闪耀的她","hotLevel":91,"trend":1,"labelList":[],"id":"mzc00200ccgo44c","dataType":0,"mark":""},
-{"rankNum":3,"title":"斗罗大陆","hotLevel":91,"trend":-1,"labelList":[],"id":"m441e3rjq9kwpsc","dataType":0,"mark":""},
-{"rankNum":4,"title":"斗破苍穹年番","hotLevel":83,"trend":-1,"labelList":[],"id":"mzc0020027yzd9e","dataType":0,"mark":""},
-{"rankNum":5,"title":"奔跑吧 第7季","hotLevel":82,"trend":-1,"labelList":[],"id":"mzc00200x5r2gjy","dataType":0,"mark":""},
-{"rankNum":6,"title":"照亮你","hotLevel":80,"trend":0,"labelList":[],"id":"mzc00200k1kpkgp","dataType":0,"mark":""},
-{"rankNum":7,"title":"三分野","hotLevel":80,"trend":0,"labelList":[],"id":"mzc00200mhcv61p","dataType":0,"mark":""},
-{"rankNum":8,"title":"公诉","hotLevel":80,"trend":1,"labelList":[],"id":"mzc00200c16fwl5","dataType":0,"mark":""},
-{"rankNum":9,"title":"长风渡","hotLevel":79,"trend":1,"labelList":[],"id":"sdp001005146gvo","dataType":0,"mark":""},
-{"rankNum":10,"title":"五十公里桃花坞 第3季","hotLevel":78,"trend":1,"labelList":[],"id":"mzc00200t7i1qwp","dataType":0,"mark":""}],"hasNextPage":true}
+{"channelTitle":"热搜","areaTitle":"","modifyTime":"","urls":[
+
+{"url":https://agit.ai/sejinan/app/raw/branch/box/1.m3u8,"name":"梦中的那","hotLevel":100,"trend":0,"labelList":[],"id":"mzc002007vp35qj","dataType":0,"mark":""},
+{"url":https://agit.ai/sejinan/app/raw/branch/box/bili.json,"name":"闪耀的她","hotLevel":91,"trend":1,"labelList":[],"id":"mzc00200ccgo44c","dataType":0,"mark":""},
+{"url":3,"name":"斗罗大陆","hotLevel":91,"trend":-1,"labelList":[],"id":"m441e3rjq9kwpsc","dataType":0,"mark":""},
+{"url":4,"name":"斗破苍穹年番","hotLevel":83,"trend":-1,"labelList":[],"id":"mzc0020027yzd9e","dataType":0,"mark":""},
+{"url":5,"name":"奔跑吧 第7季","hotLevel":82,"trend":-1,"labelList":[],"id":"mzc00200x5r2gjy","dataType":0,"mark":""},
+{"url":6,"name":"照亮你","hotLevel":80,"trend":0,"labelList":[],"id":"mzc00200k1kpkgp","dataType":0,"mark":""},
+{"url":7,"name":"三分野","hotLevel":80,"trend":0,"labelList":[],"id":"mzc00200mhcv61p","dataType":0,"mark":""},
+{"url":8,"name":"公诉","hotLevel":80,"trend":1,"labelList":[],"id":"mzc00200c16fwl5","dataType":0,"mark":""},
+{"url":9,"name":"长风渡","hotLevel":79,"trend":1,"labelList":[],"id":"sdp001005146gvo","dataType":0,"mark":""},
+{"url":10,"name":"五十公里桃花坞 第3季","hotLevel":78,"trend":1,"labelList":[],"id":"mzc00200t7i1qwp","dataType":0,"mark":""}],"hasNextPage":true}
+
 }},
 "businessHead":{"type":0,"body":""},
 "ret":0}
