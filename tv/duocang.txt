@@ -1,4 +1,4 @@
-﻿{"data":
+﻿
 {"urls":[
         {
             "url": "clan://localhost/TVBox/box.json",
@@ -144,4 +144,3 @@
         } 
 
 ]}
-}
