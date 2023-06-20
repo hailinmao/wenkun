@@ -123,7 +123,7 @@
             "name": "一起看TV"
         },
         {
-            "url": "https://dxawi.github.io/0/10.json",
+            "url": "https://dxawi.github.io/0/0.json",
             "name": "网络搜集①"
         },
         {
