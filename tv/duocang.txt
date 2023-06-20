@@ -1,7 +1,7 @@
 ﻿
 {"data":
 {"0":
-{"channelTitle":"热搜","areaTitle":"","modifyTime":"","listInfo":[
+{"listInfo":[
 
 {"rankNum":1,"title":"梦中的那","hotLevel":100,"trend":0,"labelList":[],"id":"mzc002007vp35qj","dataType":0,"mark":""},
 {"rankNum":2,"title":"闪耀的她","hotLevel":91,"trend":1,"labelList":[],"id":"mzc00200ccgo44c","dataType":0,"mark":""},
