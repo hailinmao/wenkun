@@ -1,6 +1,6 @@
 ﻿{"data":{"errCode":0,"msg":"","mapResult":{
 "0":
-{"channelTitle":"热搜","areaTitle":"","modifyTime":"","listInfo":[
+{"listInfo":[
 {"rankNum":1,"title":"梦中的那"},
 {"rankNum":2,"title":"闪耀的她"},
 {"rankNum":3,"title":"斗罗大陆"},
