@@ -3570,6 +3570,9 @@ CCTV16-4K,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 风云足球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
 央视台球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
 高尔夫网球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+
+咪咕体育,http://hz752.love:63/live_a00p/migu.php?id=24hty
+
 广东体育,http://lu1.cc/itv/php/gudou.php?id=gdty
 
 --斗鱼体育	
