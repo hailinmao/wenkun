@@ -3691,48 +3691,33 @@ CHC家庭影院,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8$超清1080P
 
 --斗鱼轮播
 .三国演义,http://epg.112114.xyz/douyu/7459925
-.爱情公寓,http://epg.112114.xyz/douyu/7256376
 .爱情公寓,http://epg.112114.xyz/douyu/6863367
 
 
 --虎牙轮播
-.射雕英雄传,http://epg.112114.xyz/huya/23728674
 .康熙王朝,http://epg.112114.xyz/huya/11352940
 .雍正王朝,http://epg.112114.xyz/huya/11342439
 .三国演义,http://epg.112114.xyz/huya/11602081
 .新三国,http://epg.112114.xyz/huya/11352944
-.金庸武侠,http://epg.112114.xyz/huya/11342435
-.金庸经典剧,http://epg.112114.xyz/huya/11602082
 .家有儿女,http://epg.112114.xyz/huya/11352872
 .爱情公寓,https://epg.112114.xyz/huya/11336726
+.英雄传,http://epg.112114.xyz/huya/23728674
+.金庸武侠,http://epg.112114.xyz/huya/11342435
+.金庸经典剧,http://epg.112114.xyz/huya/11602082
 
-.射雕英雄传,http://jiandjh.51vip.biz:35455/huya/23728674
 .康熙王朝,http://jiandjh.51vip.biz:35455/huya/11352940
 .雍正王朝,http://jiandjh.51vip.biz:35455/huya/11342439
 .三国演义,http://jiandjh.51vip.biz:35455/huya/11602081
 .新三国,http://jiandjh.51vip.biz:35455/huya/11352944
+.家有儿女,http://jiandjh.51vip.biz:35455/huya/11352872
+.英雄传,http://jiandjh.51vip.biz:35455/huya/23728674
 .金庸武侠,http://jiandjh.51vip.biz:35455/huya/11342435
 .金庸经典剧,http://jiandjh.51vip.biz:35455/huya/11602082
-.家有儿女,http://jiandjh.51vip.biz:35455/huya/11352872
 
 鹿鼎记,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=28265277
-新三国,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29216766
-新三国,http://121.51.14.14/txdirect.hls.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1-imgplus.m3u8
-家有儿女,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.flv?wsSecret=df240bbb669a014868f85aec1541d39c&wsTime=61c072b3&uid=581998485&seqid=1640520627000.0&t=103&uuid=3042724002&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
-•金庸经典,http://aldirect.corp-hls.huya.com/src/1524439846-1524439846-6547419283289276416-3049003148-10057-A-0-1.m3u8??
-射雕英雄传,http://aldirect.corp-hls.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.m3u8??
-	
-•家有儿女,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.m3u8?wsSecret=08e28fdf429bcf67b5a5acf865113a38&wsTime=626d391b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An111%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_?-265_?
-•武林外传,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1099531752788-1099531752788-86436268371607552-2199063629032-10057-A-0-1.m3u8?wsSecret=700e98a30b3b19b232a94b8e92eda98c&wsTime=626d1fcf&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct
-•康熙王朝,http://121.51.249.48/tx.hls.huya.com/huyalive/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.m3u8?wsSecret=97cb8e45a256c561d6828efe31ee8374&wsTime=626f9dd3&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az16%3B&fs=bgct
+.新三国,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29216766
+.家有儿女,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.flv?wsSecret=df240bbb669a014868f85aec1541d39c&wsTime=61c072b3&uid=581998485&seqid=1640520627000.0&t=103&uuid=3042724002&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-鹿鼎记②,http://106.53.212.251/daili/yy.php?id=28265277
-周星驰②,http://106.53.212.251:80/daili/yy.php?id=1353881242
-射雕英雄,http://106.53.212.251:80/daili/yy.php?id=1354210357
-神雕侠侣,http://106.53.212.251/daili/yy.php?id=1351762426
-24小时大片,http://106.53.212.251:80/daili/yy.php?id=24066336
-鹿鼎记高清,http://106.53.212.251:80/daili/yy.php?id=28265277
-神探狄仁杰,http://106.53.212.251:80/daili/yy.php?id=38338029
 
 	
 	
