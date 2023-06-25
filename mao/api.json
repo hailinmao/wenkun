@@ -37,7 +37,7 @@
             "name": "aiabc线路"
         },
         {
-            "url": "http://饭太硬.ga/x/o.json",
+            "url": "http://饭太硬.ml/tv",
             "name": "饭太硬"
         },
         {
@@ -125,17 +125,13 @@
             "name": "网络搜集②"
         },
         {
-            "url": "http://www.dmtv.ml/mao/mao.php?type=single",
-            "name": "网络搜集③"
-        },
-        {
             "url": "https://agit.ai/Jonwall/Box/raw/branch/a/T20.json",
-            "name": "网络搜集④"
+            "name": "网络搜集③"
         },
 
         {
             "url": "https://gitee.com/ymdz960/TVBox/raw/master/sc.json",
-            "name": "网络搜集⑤"
+            "name": "网络搜集④"
         } 
     ],
     "vip": [
