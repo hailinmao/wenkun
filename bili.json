@@ -23,15 +23,20 @@
 
 "sites":[
 
-{"key":"csp_biubiu_斗鱼","name":"🐠┃斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/sejinan/app/raw/branch/box/bibi/douyu.json"},
-{"key":"csp_xp_huya","name":"🐯┃虎牙直播","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/bibi/huya.json"},
- {"key":"csp_XPath_鹅直播","name":"🐧┃企鹅直播","type":3,"api":"csp_XPath3","playerType":2,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/sejinan/app/raw/branch/box/bibi/%E4%BC%81%E9%B9%85.json"},
+{"key":"csp_pc_直播合集","name":"直播┃平台推荐","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"drpy_js_斗鱼直播","name":"🥕直播|斗鱼[js]","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/js/斗鱼直播.js"},
+{"key":"drpy_js_虎牙直播","name":"🥕直播|虎牙[js]","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://agit.ai/sejinan/app/raw/branch/box/1/虎牙直播.js"},
+{"key":"csp_XPath_企鹅体育","name":"🐧企鹅体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://我不是.肥猫.love:63/json/企鹅直播.json"},
+
+
+//{"key":"csp_biubiu_斗鱼","name":"🐠┃斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/sejinan/app/raw/branch/box/bibi/douyu.json"},
+//{"key":"csp_xp_huya","name":"🐯┃虎牙直播","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/bibi/huya.json"},
+//{"key":"csp_XPath_鹅直播","name":"🐧┃企鹅直播","type":3,"api":"csp_XPath3","playerType":2,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/sejinan/app/raw/branch/box/bibi/%E4%BC%81%E9%B9%85.json"},
 
 {"key": "csp_XYQBit_平台","name": "💠┃短视频集","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/%E7%9F%AD%E8%A7%86%E9%A2%91.json"},
 {"key":"csp_Alist1","name":"🎁┃资源网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"💾DISK$http://124.222.140.243:8080#歐逼$https://alistcn.repl.co#文文$http://518p8g7316.goho.co:5244#小雅$http://alist.xiaoya.pro#杜比$https://dubi.tk#帥鵬$https://hi.shuaipeng.wang#梓澪$https://zi0.cc#雲播放$https://quanzi.laoxianghuijia.cn#神族九帝$https://alist.shenzjd.com#米奇屋$https://anime.mqmmw.ga#触光$https://pan.ichuguang.com#晴园$https://alist.52qy.repl.co#一只鱼$https://alist.youte.ml#小兵组$https://6vv.app#铃星梦$https://pan.bashroot.top#轻弹浅唱$https://g.xiang.lol#听闻$https://wangpan.sangxuesheng.com#姬路白雪$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com#好汉吧$https://8023.haohanba.cn#资源小站$https://960303.xyz#Alist测试$https://ali.liucn.repl.co#秋雨分享$https://share.laowang.me"},
 {"key":"csp_LocalFile","name":"💻┃本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
 
-{"key":"csp_pc_直播合集","name":"直播┃平台推荐","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "csp_Bili影视","name": "哔哩┃影视推荐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/bili影视.json"},
 {"key": "csp_Bili音乐","name": "哔哩┃音乐推荐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/bili音乐.json"},
