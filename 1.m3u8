@@ -177,6 +177,7 @@
 //{"key":"csp_panghu","name":"🐯胖虎影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_XBPQ_胖虎","name":"(胖鸭➤线路廿二)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/cyl518/yl/raw/branch/master/ph.json"},
 
+{ "key": "小艺", "name": "🥩小艺影视", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://lg.tvcms.top/api.php/app/" }, 
 { "key": "影城", "name": "🚚车车影城", "type": 3, "api":"csp_Ysyc", "searchable":1, "quickSearch":1, "changeable":1, "categories":["飞云4K","电视剧","电影","动漫","综艺"], "jar":"http://我不是.肥猫.love:63/Jar/ysyc.jar;md5;08A49D68E216A2DD4246AEA0B92924FC" }, 
 {"key":"如意4K","name":"🚀猫如意4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"酷影","name":"😎酷酷影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.222.175.111:89/api.php/app/"},
