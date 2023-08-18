@@ -7,6 +7,7 @@
 多屏监控,http://111.20.40.160/PLTV/88888893/224/3221226337/index.m3u8
 多屏监控,http://111.20.40.160/PLTV/88888893/224/3221226338/index.m3u8
 
+高清中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 浩史成双,https://vd2.bdstatic.com/mda-patcnnhqrzjuwuuz/sc/cae_h264/1674896551231456632/mda-patcnnhqrzjuwuuz.mp4?v_from_s=bdapp-landingpage-api-nanjing
 
@@ -29,7 +30,6 @@
 	
 💿短视频集,#genre#
 
-LK-99? 超压室温超导真的要来吗?,https://wxhls.mcloud.139.com/hls/M435fe6ebf2c1bc4130bbaa48231b9b026/playlist.m3u8?ci=1811UaL6m357177202308012355099ss&fileSize=24814326
 顶豪家族继承者们的儿子 下,https://dghls.mcloud.139.com/hls/L0e72b939f78e659b617af98d08780b498/playlist.m3u8?ci=1811UaL6m35717820230729133922jvm&fileSize=61300923
 AplleGPT来了,https://dghls.mcloud.139.com/hls/LH8fa2acd57c5e8f55816f746307278583/playlist.m3u8?ci=1811UaL6m357154202307221219157ds&fileSize=14613505
 不努力就只能继承家产万亿，顶豪的儿子 上,https://dghls.mcloud.139.com/hls/LMbe91e15f3f1dece95f2398294a4fe5a1/playlist.m3u8?ci=1811UaL6m35715420230712222906pgc&fileSize=62947596
@@ -88,7 +88,6 @@ LIVE民谣,https://vd4.bdstatic.com/mda-pbnajxcz6raambr0/sc/cae_h264/16771378142
 
 🎈高清频道,#genre#
 
-高清中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
