@@ -1,9 +1,9 @@
 {
     "urls": [
-        {
-            "url": "clan://localhost/TVBox/box.json",
-            "name": "请选择以下接口"
-        },
+//        {
+//            "url": "clan://localhost/TVBox/box.json",
+//           "name": "请选择以下接口"
+//        },
         {
             "url": "https://agit.ai/sejinan/app/raw/branch/box/yu",
             "name": "于影视主站"
