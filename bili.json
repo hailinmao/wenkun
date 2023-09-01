@@ -66,7 +66,8 @@
 {"key":"csp_xpath_酷奇mv","name":"🎤┃酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://9xi4o.tk/sub/xpath/酷奇MV.json"},
 
 {"key": "csp_演唱会","name": "哔哩┃演唱会","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/演唱会.json"},
-{"key": "csp_MV","name": "哔哩┃歌曲MV","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/歌曲MV.json"}
+{"key": "csp_MV","name": "哔哩┃歌曲MV","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/sejinan/app/raw/branch/box/bibi/歌曲MV.json"},
+{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"}
 
 
 ],
