@@ -9,6 +9,8 @@
 
 高清中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
+印度高清MV,https://v0.stream.tencentmusic.com/dis_kt_3ae531c16d590007da482e9043a9d26c_1694769620/0b53h4aeuaaavuaihwa2crrkcp6dji7qasqa.f240000.m3u8?local=1&fromtag=1232133
+
 浩史成双,https://vd2.bdstatic.com/mda-patcnnhqrzjuwuuz/sc/cae_h264/1674896551231456632/mda-patcnnhqrzjuwuuz.mp4?v_from_s=bdapp-landingpage-api-nanjing
 
 阿凡达2水之道,https://data.cache.m3u8.lscsfw.com:3395/cache/20230325/9163_1082ea17/index.m3u8
@@ -367,7 +369,6 @@ TBBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 CHC动作电影,http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
-澳门莲花,http://hz752.live:63/vvs/lotus.php
 翡翠台,http://r.jdshipin.com/62WM7
 无线新闻,http://r.jdshipin.com/CkuBd
 财经体育,http://r.jdshipin.com/jUx8K
@@ -426,16 +427,6 @@ Now财经,https://dispatch.ulivetv.net/v/live/cnnrkvw6g98g.m3u8?stream_id=cnnrkv
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-
-凤凰中文,http://hz752.live:63/2942/cqyx.php?id=xfjcHD
-
-凤凰中文,http://hz752.love:63/2942/hkif.php?id=fhzw
-凤凰资讯,http://hz752.love:63/2942/hkif.php?id=fhzx
-凤凰香港,http://hz752.live:63/2942/hkif.php?id=fhhk
-
-凤凰中文,http://hz752.live:63/2942/hk.php?id=fhzw
-凤凰资讯,http://hz752.live:63/2942/hk.php?id=fhzx
-凤凰香港,http://hz752.live:63/2942/hk.php?id=fhhk
 
 凤凰中文http://hz752.live:63/vvs/hkif.php?id=fhzw
 凤凰资讯http://hz752.live:63/vvs/hkif.php?id=fhzx
@@ -3866,36 +3857,6 @@ Nice+徒手练腹,https://epg.112114.xyz/huya/18501107
 下腹强度燃脂,https://www.goodiptv.club/huya/18501089
 Nice+徒手练腹,https://www.goodiptv.club/huya/18501107
 虎牙文化381,https://www.goodiptv.club/huya/27949477
-
-
-漫游记,http://hz752.love:63/2942/bstv.php?id=218
-带娃小妙招,http://hz752.love:63/2942/bstv.php?id=52
-奔跑吧兄弟,http://hz752.love:63/2942/bstv.php?id=201
-宅家瘦全身,http://hz752.love:63/2942/bstv.php?id=40
-两个人的世界,http://hz752.love:63/2942/bstv.php?id=124
-粤语好声音,http://hz752.love:63/2942/bstv.php?id=229
-闪电咖啡馆,http://hz752.love:63/2942/bstv.php?id=247
-海派滑稽戏,http://hz752.love:63/2942/bstv.php?id=38
-王牌对王牌,http://hz752.love:63/2942/bstv.php?id=193
-人气美食,http://hz752.love:63/2942/bstv.php?id=144
-也平凡,http://hz752.love:63/2942/bstv.php?id=126
-金曲青春,http://hz752.love:63/2942/bstv.php?id=96
-极限挑战,http://hz752.love:63/2942/bstv.php?id=27
-童年神剧,http://hz752.love:63/2942/bstv.php?id=186
-东方风云榜,http://hz752.love:63/2942/bstv.php?id=146
-最好的舞台,http://hz752.love:63/2942/bstv.php?id=128
-高能脱口秀,http://hz752.love:63/2942/bstv.php?id=76
-我们的歌,http://hz752.love:63/2942/bstv.php?id=41
-梦想改造家,http://hz752.love:63/2942/bstv.php?id=33
-整容级妆教,http://hz752.love:63/2942/bstv.php?id=216
-完美的夏天,http://hz752.love:63/2942/bstv.php?id=59
-汤妈妈,http://hz752.love:63/2942/bstv.php?id=213
-美好生活家,http://hz752.love:63/2942/bstv.php?id=228
-经典电影,http://hz752.love:63/2942/bstv.php?id=246
-262,http://hz752.love:63/2942/bstv.php?id=262
-265,http://hz752.love:63/2942/bstv.php?id=265
-267,http://hz752.love:63/2942/bstv.php?id=267
-纪实人文,http://hz752.love:63/2942/bstv.php?id=28
 
 
  🎵音乐频道,#genre#
