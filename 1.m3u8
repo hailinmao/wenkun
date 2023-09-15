@@ -170,7 +170,6 @@
 //{"key":"csp_XYQ_lu1","name":"️TV直播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://download.kstore.space/download/2883/tvtv.txt","jar":"https://download.kstore.space/download/2883/tvtv.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
 //{"key":"T4直播转点播","name":"T4直播","type":4,"api":"http://120.53.102.254/live?url=aHR0cHM6Ly9hZ2l0LmFpL3NlamluYW4vYXBwL3Jhdy9icmFuY2gvYm94L3R2L2xpdmUudHh0","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_XBPQ_ppys","name":"🦆皮皮影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/ppys.json"},
 {"key":"csp_XBPQ_yanaifei","name":"🦆YANAIFEI","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/ynf.json"},
 //{"key":"csp_XBPQ_鸭奈飞","name":"胖鸭奈飞2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/cyl518/yl/raw/branch/master/ynf.json"},
 
@@ -240,6 +239,7 @@
 
 //{"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xhdwc.tk/json/nm.json"},
 {"key":"csp_Nmys","name":"🥝农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/nm.json"},
+{"key":"csp_XBPQ_ppys","name":"🦐皮皮影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/ppys.json"},
 
 {"key":"csp_fant","name":"🍙饭团影视","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 //{"key":"csp_fantuan","name":"饭团影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
