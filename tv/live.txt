@@ -9,7 +9,7 @@
 
 高清中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
-印度高清MV,https://v0.stream.tencentmusic.com/dis_kt_3ae531c16d590007da482e9043a9d26c_1694769620/0b53h4aeuaaavuaihwa2crrkcp6dji7qasqa.f240000.m3u8?local=1&fromtag=1232133
+印度高清MV,https://wxhls.mcloud.139.com/hls/M51714bae783d4505cee8793f28353d067/playlist.m3u8?ci=1811UaL6m35715620230916223641pzt&fileSize=78223040
 
 浩史成双,https://vd2.bdstatic.com/mda-patcnnhqrzjuwuuz/sc/cae_h264/1674896551231456632/mda-patcnnhqrzjuwuuz.mp4?v_from_s=bdapp-landingpage-api-nanjing
 
@@ -108,7 +108,6 @@ CCTV16-4K,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
 欢笑剧场4K,http://111.20.40.160/PLTV/88888893/224/3221226582/index.m3u8
 南国4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
-北京IPTV-8K,http://hz752.love:63/2942/brtv8k.php?id=brtv8k
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州4K,http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
 4K超高清电影,http://r.jdshipin.com/5DWJk
