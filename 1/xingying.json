@@ -27,7 +27,7 @@
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
 "分类": "电影$1#电视剧$2#综艺$4#动漫$3",
-"分类url":"https://www.xy1080.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+"分类url":"https://www.xy1080.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
 "筛选":{
 "1":[
 {
