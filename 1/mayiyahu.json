@@ -3,8 +3,8 @@
   "站名": "麻衣呀呼",
   "主页url": "http://www.huanyuxing.com",
   
-  "分类": "电影$-a#剧集$-b#综艺$-c#动漫$-d",
-  "分类值": "a&b&c&d",
+  "分类": "电影$-a#剧集$-b#综艺$-c#动漫$d",
+  "分类值": "a&b&-c&-d",
   
   "分类url": "http://www.huanyuxing.com/s/{cateId}{area}{by}{class}/page/{catePg}{year}.html",
   
