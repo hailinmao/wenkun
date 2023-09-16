@@ -23,7 +23,7 @@
 "搜索副标题":"<a class=\"video-serial\" href=*>&&</a>",
 "搜索链接":"href=\"&&\"",
 "搜索图片":"data-src=\"&&\"",
-"分类url":"http://www.huanyuxing.com/s/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}year/{year}.html;;ak",
+"分类url":"http://www.huanyuxing.com/s/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}year/{year}.html;;ak",
 "分类":"电影$a#电视剧$b#动漫$c#综艺$d",
 "筛选":{
 "1":[
