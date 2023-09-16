@@ -3,8 +3,8 @@
   "站名": "麻衣呀呼",
   "主页url": "http://www.huanyuxing.com",
   
-  "分类": "电影$a#剧集$b#综艺$/id-c#动漫$d",
-  "分类值": "a&b&c&id-d",
+  "分类": "电影$id-a#剧集$id-b#综艺$/id-d#动漫$id-c",
+  "分类值": "a&b&c&d",
   
   "分类url": "http://www.huanyuxing.com/s/{cateId}{area}{by}{class}/page/{catePg}{year}.html",
   
@@ -24,11 +24,6 @@
   
   "筛选":{
 "1":[
-  {"key":"cateId","name":"分类","value":[
-  {"n":"电影","v":"/id-a"},
-  {"n":"电视剧","v":"/id-b"},
-  {"n":"动漫","v":"/id-c"},
-  {"n":"综艺","v":"/id-d"}]},
 
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},
