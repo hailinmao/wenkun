@@ -161,7 +161,7 @@
 //{"key":"js七七","name":"🌈七七影视","type":3,"api":"https://agit.ai/sejinan/app/raw/branch/box/1/drpy2.min.js","ext":"https://agit.ai/sejinan/app/raw/branch/box/1/酷云77.js","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_酷云77","name":"🕵七七影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/酷云77.js"},
 
-{"key":"csp_LiteApple","name":"🍎小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_LiteApple","name":"🍎小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
 
 {"key":"直播","name":"💻电视直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/lmlmi/ooo/master/js/lib/直播转点播.js",
@@ -174,6 +174,7 @@
 //{"key":"csp_XBPQ_鸭奈飞","name":"胖鸭奈飞2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/cyl518/yl/raw/branch/master/ynf.json"},
 {"key":"csp_XBPQ_cddys","name":"🥚蛋蛋影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/ddys.json"},
 {"key":"csp_XBPQ_huanyuxing","name":"🦆麻衣呀呼","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/huanyuxing.json"},
+{"key":"csp_XBPQ_xingying","name":"🦆星影影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/xingying.json"},
 
 { "key": "虎虎", "name": "🐯虎虎影视", "type": 3, "api": "csp_XBPQ", "ext": "http://我不是.肥猫.love:63/json/虎虎.json" }, 
 {"key":"csp_XBPQ_panghu","name":"🐯胖虎影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/胖虎影视.json"},
