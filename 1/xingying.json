@@ -1,11 +1,11 @@
 {
 "作者":"sej95",
 "站名": "星影影视",
-"主页url": "https://www.xy1080.net/",
+"主页url": "https://xiaoluys.me/",
 "二次截取":"class=\"module-items&&<div class=\"fixedGroup",
 "数组":"<a&&module-poster-item-info",
 "副标题":"class=\"module-item-cover\"&&<!--",
-"搜索url": "https://www.xy1080.net/vodsearch/{wd}----------{pg}---.html",
+"搜索url": "https://xiaoluys.me/vodsearch/{wd}----------{pg}---.html",
 "搜索模式": "1",
 "搜索二次截取": "",
 "搜索数组":"module-item\">&&</a>",
@@ -27,7 +27,7 @@
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
 "分类": "电影$1#电视剧$2#综艺$4#动漫$3",
-"分类url":"https://www.xy1080.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
+"分类url":"https://xiaoluys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
 "筛选":{
 "1":[
 {
