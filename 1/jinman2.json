@@ -382,7 +382,7 @@
   {"n":"评分","v":"/by/score"}]}]},
   	
 "/id/5":[
-  {"key":"class","name":"剧情","value":[
+  {"key":"class","name":"纪录片","value":[
   {"n":"全部","v":""},
   {"n":"文化","v":"/class/综艺"},
   {"n":"探索","v":"/class/选秀"},
@@ -455,7 +455,7 @@
   {"n":"评分","v":"/by/score"}]}]},
   	
 "/id/20":[
-  {"key":"class","name":"剧情","value":[
+  {"key":"class","name":"电影解说","value":[
   {"n":"喜剧","v":"/class/喜剧"},
   {"n":"爱情","v":"/class/爱情"},
   {"n":"恐怖","v":"/class/恐怖"},
