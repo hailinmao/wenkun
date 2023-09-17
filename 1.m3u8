@@ -213,7 +213,7 @@
 
 {"key":"爱迪","name":"💖爱迪影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {"key":"鸭鸭","name":"🦆鸭鸭影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
-{"key":"csp_XBPQ秋霞影视","name":"👧秋霞影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#连续剧$2#动漫$4#综艺$3","分类url":"https://www.qiuxia360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val","跳转播放链接":"https://www.jfxz689.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"","二次跳转播放链接":"https://www.jfxz689.com/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"","三次跳转播放链接":"\"url\"*\"&&\""}},
+{"key":"csp_XBPQ秋霞影视","name":"👧秋霞影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#连续剧$2#综艺$3#动漫$4纪录片$5","分类url":"https://www.qiuxia360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val","跳转播放链接":"https://www.jfxz689.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"","二次跳转播放链接":"https://www.jfxz689.com/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"","三次跳转播放链接":"\"url\"*\"&&\""}},
 
 {"key":"csp_Ddrk","name":"⛳低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"落叶","name":"🍁落叶影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
@@ -221,6 +221,12 @@
 
 { "key": "yyds", "name": "🔥杳音影院", "type": 3, "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js", "playerType": "2", "ext": "http://alist.xn--z7x900a.love:63/yyds.js", "searchable": 1, "quickSearch": 1, "filterable": 1 }, 
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy2.com/"},
+
+{"key":"drpy_js_忙果","name":"🍋芒果(js)","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://agit.ai/sejinan/app/raw/branch/box/js/百忙无果.js"},
+{"key":"drpy_js_油库","name":"⛽油库(js)","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://agit.ai/sejinan/app/raw/branch/box/js/优酷.js"},
+{"key":"drpy_js_腾雾","name":"🐧企鹅(js)","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://agit.ai/sejinan/app/raw/branch/box/js/腾云驾雾.js"},
+{"key":"drpy_js_奇异","name":"🥝奇异(js)","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://agit.ai/sejinan/app/raw/branch/box/js/奇珍异兽.js"},
+{"key":"drpy_js_菜狗","name":"🐶菜狗(js)","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://agit.ai/sejinan/app/raw/branch/box/js/菜狗.js"},
 
 {"key":"csp_DuoX","name":"Ⓜ️多线高清","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
@@ -282,12 +288,6 @@
 {"key":"drpy_js_达达龟","name":"🐢达达龟[js]","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/达达龟.js"},
 {"key":"drpy_js_FreeOK","name":"🆓FreeOK[js]","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/FreeOK.js"},
 
-
-{"key":"drpy_js_忙果","name":"🍋芒果(js)","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://agit.ai/sejinan/app/raw/branch/box/js/百忙无果.js"},
-{"key":"drpy_js_油库","name":"⛽油库(js)","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/js/优酷.js"},
-{"key":"drpy_js_腾雾","name":"🐧企鹅(js)","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/js/腾云驾雾.js"},
-{"key":"drpy_js_奇异","name":"🥝奇异(js)","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/js/奇珍异兽.js"},
-{"key":"drpy_js_菜狗","name":"🐶菜狗(js)","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/js/菜狗.js"},
 
 //{"key":"csp_MGTV","name":"芒果(解析)","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"py_bilimd","name":"B站(解析)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_bilimd.py"},
