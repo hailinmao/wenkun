@@ -6,7 +6,7 @@
   "分类": "电影$id/1/#电视剧$id/2/#动漫$id/3/#综艺$id/4/#纪录片$id/5/#电影解说$id/20/",
   "分类值": "a&b&c&d",
   
-  "分类url": "http://jinman2.com/index.php/vod/show{area}{by}{class}{cateId}{lang}{year}.html",
+  "分类url": "http://jinman2.com/index.php/vod/show/{area}{by}{class}{cateId}{lang}{year}.html",
   
   "副标题": "module-item-note\">&&</div>",
   
