@@ -3,7 +3,7 @@
   "站名": "金曼TV",
   "主页url": "http://jinman2.com",
   
-  "分类": "电影$id/1/#电视剧$3#动漫$3#综艺$4#纪录片$5#电影解说$20",
+  "分类": "电影$id/1/#电视剧$id/2/#动漫$id/3/#综艺$id/4/#纪录片$id/5/#电影解说$id/20/",
   "分类值": "a&b&c&d",
   
   "分类url": "http://jinman2.com/index.php/vod/show/{area}{by}{class}{cateId}{lang}{year}.html",
@@ -23,7 +23,7 @@
   "播放数组": "module-play-list\">&&</div>",
   
   "筛选":{
-"1":[
+"id/1/":[
 
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},
@@ -97,7 +97,7 @@
   {"n":"人气","v":"/by/hits"},
   {"n":"评分","v":"/by/score"}]}],
   
-"id-b":[
+"id/2/":[
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},
   {"n":"古装","v":"/class/古装"},
@@ -181,7 +181,7 @@
   {"n":"人气","v":"/by/hits"},
   {"n":"评分","v":"/by/score"}]}],
   
-"id-c":[
+"id/3/":[
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},
   {"n":"热血","v":"/class/热血"},
@@ -242,7 +242,7 @@
   {"n":"人气","v":"/by/hits"},
   {"n":"评分","v":"/by/score"}]}],
   
-"id-d":[
+"id/4/":[
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},
   {"n":"真人秀","v":"/class/真人秀"},
