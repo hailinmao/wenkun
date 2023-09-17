@@ -3,7 +3,7 @@
   "站名": "金曼TV",
   "主页url": "http://jinman2.com",
   
-  "分类": "电影$1#电视剧$3#动漫$3#综艺$4#纪录片$5#电影解说$20",
+  "分类": "电影$id/1/#电视剧$3#动漫$3#综艺$4#纪录片$5#电影解说$20",
   "分类值": "a&b&c&d",
   
   "分类url": "http://jinman2.com/s/{area}{by}{class}/page/{catePg}{cateId}{lang}{year}.html",
