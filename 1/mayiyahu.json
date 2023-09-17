@@ -8,27 +8,6 @@
   
   "分类url": "http://www.huanyuxing.com/s/{cateId}{area}{by}{class}/page/{catePg}{year}.html",
   
-  "影片类型":"<span class=\"video-tag-icon\">&&立即播放",
-"影片状态":"集数：&&</div>",
-"导演":"导演：&&</div>",
-"主演":"主演：&&</div>",
-"数组":"module-item-pic\"&&\"module-item\"",
-"标题":"title=\"&&\"",
-"副标题":"module-item-text\">&&</div>",
-"图片":"data-src=\"&&\"",
-"链接":"href=\"&&\"",
-"线路数组":"data-dropdown-value=&&</div>",
-"线路标题":"<span>&&</small>[替换:</span><small>>>🌸共]+集🌸",
-"播放数组":"sort-item\"&&</div>",
-"播放标题":"<span>&&</span>",
-"播放列表":"<a&&</a>",
-"搜索url":"/c.html?wd={wd}",
-"搜索数组":"lazy lazyload\"&&<h3>",
-"搜索标题":"alt=\"&&\"",
-"搜索副标题":"<a class=\"video-serial\" href=*>&&</a>",
-"搜索链接":"href=\"&&\"",
-"搜索图片":"data-src=\"&&\"",
-  
   "副标题": "module-item-note\">&&</div>",
   
   "搜索模式": "0",
