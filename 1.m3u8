@@ -210,8 +210,8 @@
 
 {"key":"360","name":"💘360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
-{"key":"csp_XBPQ_南柯","name":"💢南柯影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/南柯.json"},
-{"key":"csp_XBPQ_奇优","name":"️💢奇优影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/奇优.json"},
+//{"key":"csp_XBPQ_南柯","name":"💢南柯影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/南柯.json"},
+{"key":"csp_XBPQ_奇优","name":"️💢奇优影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/qiyoudy.json"},
 
 {"key":"csp_AppMr","name":"👻明日影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 
