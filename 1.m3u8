@@ -193,8 +193,10 @@
 //{"key":"油果视频","name":"🍅油果视频","type":3,"api":"csp_Youguo","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"影视王朝","name":"⚜️影视王朝","type":3,"api":"csp_Yswc","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 //{"key":"时常影视","name":"🚲时常影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
-{ "key": "奇奇", "name": "🐭┃奇奇┃影视", "type": 3, "api": "csp_AppYsV2", "playerType": "2", "ext": "https://ttsp.live/api.php/app/", "searchable": 1, "quickSearch": 1, "filterable": 1 }, 
+{ "key": "奇奇", "name": "🐭奇奇影视", "type": 3, "api": "csp_AppYsV2", "playerType": "2", "ext": "https://ttsp.live/api.php/app/", "searchable": 1, "quickSearch": 1, "filterable": 1 }, 
+
 { "key": "小艺", "name": "👸小艺影视", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://lg.tvcms.top/api.php/app/" }, 
+{ "key": "Kuaikan", "name": "👀快看影视", "type": 3, "api": "csp_Kuaikan", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 //{ "key": "影城", "name": "🚚车车影城", "type": 3, "api":"csp_Ysyc", "searchable":1, "quickSearch":1, "changeable":1, "categories":["飞云4K","电视剧","电影","动漫","综艺"], "jar":"http://我不是.肥猫.love:63/Jar/ysyc.jar;md5;08A49D68E216A2DD4246AEA0B92924FC" }, 
 {"key":"如意4K","name":"🐱猫如意4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"酷影","name":"😎酷酷影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.222.175.111:89/api.php/app/"},
