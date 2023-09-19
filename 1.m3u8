@@ -230,22 +230,16 @@
 {"key":"drpy_js_腾雾","name":"🐧企鹅(js)","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://agit.ai/sejinan/app/raw/branch/box/js/腾云驾雾.js"},
 {"key":"drpy_js_奇异","name":"🥝奇异(js)","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://agit.ai/sejinan/app/raw/branch/box/js/奇珍异兽.js"},
 {"key":"drpy_js_菜狗","name":"🐶菜狗(js)","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://agit.ai/sejinan/app/raw/branch/box/js/菜狗.js"},
+{"key":"drpy_js_达达龟","name":"🐢达达龟[js]","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/达达龟.js"},
+{"key":"drpy_js_FreeOK","name":"🆓FreeOK[js]","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/FreeOK.js"},
 
-{"key":"csp_DuoX","name":"Ⓜ️多线高清","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 //{"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"🔟双十影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Xinsj","name":"✨新视觉2","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_BuLei","name":"⚡不雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
-//{"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"BuLei","name":"⚡布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"},
-{"key":"drpy_js_布雷蓝光","name":"💎布雷蓝光","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/布雷蓝光.js"},
-{"key":"csp_AppTT","name":"🇹🇹图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"SldZWXFaWkhXTU1sTlpadFNSSyN0elRJdzlMQVJSQ00=$$$Q1ppbkoxUzdvNnNZbU1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
-
-{"key":"csp_Bttoo","name":"🔺Bttoo影视","api":"csp_Bttwoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Czsapp","name":"🏭厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -257,12 +251,9 @@
 //{"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xhdwc.tk/json/nm.json"},
 {"key":"csp_Nmys","name":"🥝农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/nm.json"},
 {"key":"csp_XBPQ_ppys","name":"🦐皮皮影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/ppys.json"},
-{"key":"csp_XBPQ_555dy","name":"5️⃣555电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/555dy.json"},
 
 {"key":"csp_fant","name":"🍙饭团影视","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 //{"key":"csp_fantuan","name":"饭团影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
-//{"key":"csp_Lezhu","name":"🐷乐猪影视","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Lezhu","name":"🐷乐猪影视","api":"csp_XBPQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/乐猪.json"},
 {"key":"csp_XBPQ_007","name":"💢零零七","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/零零七影视.json"},
 
 {"key":"csp_XBPQ_咕噜咕噜","name":"💢咕噜咕噜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/咕噜咕噜.json"},
@@ -278,22 +269,32 @@
 {"key":"csp_一起看","name":"👨‍👩‍👧一起看(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8e3aefcba838d8dc5102ac786719d837"},
 //{"key":"世界杯","name":"一起看影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://codeberg.org/seji/app/raw/branch/main/ts.jar"},
 
+//视频有水印广告
+{"key":"csp_XBPQ_555dy","name":"5️⃣555电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/555dy.json"},
+//{"key":"csp_Lezhu","name":"🐷乐猪影视","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Lezhu","name":"🐷乐猪影视","api":"csp_XBPQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/lezhutv.json"},
+
+
+//失效待删
+//{"key":"csp_DuoX","name":"Ⓜ️多线高清","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Miaobo","name":"Ⓜ️秒播影视","type":3,"api":"csp_Miaobo","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Bttoo","name":"✌两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Juhuang","name":"👿剧荒荒","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Tkys","name":"⛅天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Nkdy","name":"⏺南柯影视","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"BuLei","name":"⚡布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"},
+//{"key":"csp_BuLei","name":"⚡不雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"drpy_js_布雷蓝光","name":"💎布雷蓝光","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/布雷蓝光.js"},
+//{"key":"csp_AppTT","name":"🇹🇹图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"SldZWXFaWkhXTU1sTlpadFNSSyN0elRJdzlMQVJSQ00=$$$Q1ppbkoxUzdvNnNZbU1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+//{"key":"csp_Bttoo","name":"🔺Bttoo影视","api":"csp_Bttwoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 
 {"key":"csp_SP360","name":"📺360官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
 {"key":"Qtv","name":"🐧企鹅官源","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"MGT","name":"🍋芒果官源","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_xb_zbk","name":"🚅真不卡(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"drpy_js_达达龟","name":"🐢达达龟[js]","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/达达龟.js"},
-{"key":"drpy_js_FreeOK","name":"🆓FreeOK[js]","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/FreeOK.js"},
-
-
+//{"key":"csp_xb_zbk","name":"🚅真不卡(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
 //{"key":"csp_MGTV","name":"芒果(解析)","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"py_bilimd","name":"B站(解析)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_bilimd.py"},
 //{"key":"csp_IQIYI","name":"奇异果(解析)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
