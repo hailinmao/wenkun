@@ -183,7 +183,7 @@
 {"key":"csp_XBPQ_cokemv","name":"©️COKEMV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/cokemv.json"},
 {"key":"csp_XBPQ_3ayy","name":"😘爱看影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/3ayy.json"},
 
-{ "key": "虎虎", "name": "🐯虎虎影视", "type": 3, "api": "csp_XBPQ", "ext": "http://我不是.肥猫.love:63/json/虎虎.json" }, 
+{ "key": "虎虎", "name": "🐯虎虎影视", "type": 3, "api": "csp_XBPQ", "ext": "https://agit.ai/sejinan/app/raw/branch/box/1/huhu.json" }, 
 {"key":"csp_XBPQ_panghu","name":"🐯胖虎影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/胖虎影视.json"},
 //{"key":"csp_XBPQ_胖虎影视","name":"💠胖虎影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/XBPQ/胖虎影视.json"},
 //{"key":"csp_panghu","name":"🐯胖虎影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
