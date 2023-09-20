@@ -155,6 +155,7 @@
   
 "sites":[
 {"key":"csp_YGP","name":"🚀新片速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"csp_XBPQ_maoyan","name":"🐱猫眼电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/maoyan.json"},
 
 //{"key":"csp_77","name":"👒七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"🌈酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
