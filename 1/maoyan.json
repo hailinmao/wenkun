@@ -94,8 +94,9 @@
 
 
   {"key":"by","name":"排序","value":[
+  {"n":"热门","v":"&sortId=1"},
   {"n":"时间","v":"&sortId=2"},
-  {"n":"热门","v":"&sortId=1"}]}],
+  {"n":"评价","v":"&sortId=3"}]}],
   
 "/id/2":[
   {"key":"class","name":"剧情","value":[
