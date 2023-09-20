@@ -1,9 +1,9 @@
 {
   "作者": "SEJ95",
   "站名": "猫眼电影",
-  "主页url": "http://maoyan.com",
+  "主页url": "http://maoyan.com/films?",
   
-  "分类": "正在热映$/id/1#即将上映$/id/2#经典影片$/id/3",
+  "分类": "正在热映$showType=1#即将上映$showType=2#经典影片$showType=3",
   "分类值": "a&b&c&d",
   
   "分类url": "http://maoyan.com/films?{area}{by}{class}{cateId}{letter}{year}.html",
