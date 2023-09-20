@@ -154,6 +154,8 @@
   
   
 "sites":[
+{"key":"csp_YGP","name":"🚀新片速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
+
 //{"key":"csp_77","name":"👒七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"🌈酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -164,8 +166,8 @@
 //{"key":"csp_LiteApple","name":"🍎小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key":"直播","name":"💻电视直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/lmlmi/ooo/master/js/lib/直播转点播.js",
-"ext":"肥猫1$http://hz752.love:63/txt/tvbs.txt#LMLMI2$https://github.com/lmlmi/gooo/raw/main/TV/live.txt#俊于3$http://home.jundie.top:81/Cat/tv/live.txt&&&https://api.caonm.net/api/mc/"},
+//{"key":"直播","name":"💻电视直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/lmlmi/ooo/master/js/lib/直播转点播.js","ext":"肥猫1$http://hz752.love:63/txt/tvbs.txt#LMLMI2$https://github.com/lmlmi/gooo/raw/main/TV/live.txt#俊于3$http://home.jundie.top:81/Cat/tv/live.txt&&&https://api.caonm.net/api/mc/"},
+{"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/sejinan/app/raw/branch/box/js/直播转点播.js","ext":"肥猫1$http://hz752.love:63/txt/tvbs.txt#LMLMI2$https://github.com/lmlmi/gooo/raw/main/TV/live.txt#俊于3$http://home.jundie.top:81/Cat/tv/live.txt&&&https://api.caonm.net/api/mc/"},
 
 //{"key":"csp_XYQ_lu1","name":"️TV直播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://download.kstore.space/download/2883/tvtv.txt","jar":"https://download.kstore.space/download/2883/tvtv.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
 //{"key":"T4直播转点播","name":"T4直播","type":4,"api":"http://120.53.102.254/live?url=aHR0cHM6Ly9hZ2l0LmFpL3NlamluYW4vYXBwL3Jhdy9icmFuY2gvYm94L3R2L2xpdmUudHh0","searchable":1,"quickSearch":1,"filterable":1},
@@ -200,7 +202,6 @@
 //{ "key": "影城", "name": "🚚车车影城", "type": 3, "api":"csp_Ysyc", "searchable":1, "quickSearch":1, "changeable":1, "categories":["飞云4K","电视剧","电影","动漫","综艺"], "jar":"http://我不是.肥猫.love:63/Jar/ysyc.jar;md5;08A49D68E216A2DD4246AEA0B92924FC" }, 
 {"key":"如意4K","name":"🐱猫如意4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
-{"key":"csp_YGP","name":"🚀新片速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"迷你库","name":"Ⓜ️ 迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"}, 
 
 {"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":0,"quickSearch":0,"filterable":1},
