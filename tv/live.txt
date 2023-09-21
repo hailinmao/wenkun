@@ -8,7 +8,7 @@
 多屏监控,http://111.20.40.160/PLTV/88888893/224/3221226338/index.m3u8
 
 高清中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-
+高清测试,http://192.168.1.42
 
 印度高清MV,https://wxhls.mcloud.139.com/hls/M51714bae783d4505cee8793f28353d067/playlist.m3u8?ci=1811UaL6m35715620230916223641pzt&fileSize=78223040
 
