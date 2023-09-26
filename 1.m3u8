@@ -21,7 +21,7 @@
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3NlamluYW4vYXBwL3Jhdy9icmFuY2gvYm94L3R2L2xpdmUudHh0"]}]}],
 //"wallpaper":"https://agit.ai/sejinan/app/raw/branch/box/api.php",
 
-"lives":[{"name":"live","type":0,"url":"http://seji00.qy56.host357.com/tv/live.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"http://my9.ltd/tv/live.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 //"lives":[{"name":"live","type":0,"url":"https://agit.ai/sejinan/app/raw/branch/box/tv/live.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 //"lives":[{"name":"live","type":0,"url":"http://我不是肥猫.love:63/TV/tvzb.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
@@ -183,6 +183,7 @@
 {"key":"csp_XBPQ_cokemv","name":"©️COKEMV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/cokemv.json"},
 {"key":"csp_XBPQ_3ayy","name":"😘爱看影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/3ayy.json"},
 {"key":"csp_XBPQ_6080yy3","name":"6️⃣视觉影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/6080yy3.json"},
+{"key":"csp_XBPQ_fqys1","name":"🍅番茄影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/fqys1.json"},
 
 { "key": "虎虎", "name": "🐯虎虎影视", "type": 3, "api": "csp_XBPQ", "ext": "https://agit.ai/sejinan/app/raw/branch/box/1/huhu.json" }, 
 {"key":"csp_XBPQ_panghu","name":"🐯胖虎影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/胖虎影视.json"},
