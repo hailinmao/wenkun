@@ -174,7 +174,8 @@
 {"key":"drpy_js_酷云77","name":"🕵七七影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/酷云77.js"},
 { "key": "迷迷", "name": "🐭迷迷影视", "type": 3, "api": "csp_AppYsV2", "playerType": "2", "ext": "http://www.miniku.cc/xgapp.php/v1/", "searchable": 1, "quickSearch": 1, "filterable": 1 }, 
 { "key": "奇奇", "name": "🐭奇奇影视", "type": 3, "api": "csp_AppYsV2", "playerType": "2", "ext": "https://ttsp.live/api.php/app/", "searchable": 1, "quickSearch": 1, "filterable": 1 }, 
-
+    { "key": "虎虎",    "name": "🐯┃虎虎┃影视",    "type": 3,    "api": "csp_XBPQ",    "ext": "http://我不是.肥猫.love:63/json/虎虎.json"    },  
+    { "key": "蜗牛弹幕", "name": "🐌｜蜗牛｜影视",    "type": 3,   "api": "csp_XBPQ",    "ext": { "简介":"class=\"video-info-item video-info-content vod_content\">&&</span>",  "数组":"class=\"module-item-text\"&&class=\"loading\"",  "线路数组":"data-dropdown-value=&&</div>",   "线路标题":"<span>&&</small>[替换:</span><small>>>共]+集",   "副标题":" class=\"module-item-text\">&&</div>",    "分类":"电影$1#日韩剧$21#海外剧$2#动漫$20",      "分类url":"https://v.wuxivlog.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"           }        },
 {"key":"csp_XBPQ_yanaifei","name":"🦆YANAIFEI","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/ynf.json"},
 {"key":"csp_XBPQ_cokemv","name":"©️COKEMV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/cokemv.json"},
 {"key":"csp_XBPQ_cddys","name":"🥚蛋蛋影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/sejinan/app/raw/branch/box/1/ddys.json"},
