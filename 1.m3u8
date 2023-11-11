@@ -166,7 +166,9 @@
 
 //{"key":"csp_LiteApple","name":"🍎小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/sejinan/app/raw/branch/box/js/直播转点播.js","ext":"肥猫直播$http://我不是.肥猫.love:63/TV/tvzb.txt#LMLMI TV$https://github.com/lmlmi/gooo/raw/main/TV/live.txt#俊于直播$http://home.jundie.top:81/Cat/tv/live.txt&&&https://api.caonm.net/api/mc/"},
+{"key":"直播转点播","name":"📺︎┃电视┃直播","type":3,"api":"https://jihulab.com/dimaston1/4k/-/raw/main/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/dimaston1/4k/-/raw/main/json/zb.json"},
+
+//{"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/sejinan/app/raw/branch/box/js/直播转点播.js","ext":"肥猫直播$http://我不是.肥猫.love:63/TV/tvzb.txt#LMLMI TV$https://github.com/lmlmi/gooo/raw/main/TV/live.txt#俊于直播$http://home.jundie.top:81/Cat/tv/live.txt&&&https://api.caonm.net/api/mc/"},
 //{"key":"直播","name":"💻电视直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/lmlmi/ooo/master/js/lib/直播转点播.js","ext":"肥猫1$http://hz752.love:63/txt/tvbs.txt#LMLMI2$https://github.com/lmlmi/gooo/raw/main/TV/live.txt#俊于3$http://home.jundie.top:81/Cat/tv/live.txt&&&https://api.caonm.net/api/mc/"},
 //{"key":"csp_XYQ_lu1","name":"️TV直播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://download.kstore.space/download/2883/tvtv.txt","jar":"https://download.kstore.space/download/2883/tvtv.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
 //{"key":"T4直播转点播","name":"T4直播","type":4,"api":"http://120.53.102.254/live?url=aHR0cHM6Ly9hZ2l0LmFpL3NlamluYW4vYXBwL3Jhdy9icmFuY2gvYm94L3R2L2xpdmUudHh0","searchable":1,"quickSearch":1,"filterable":1},
